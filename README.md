@@ -123,6 +123,7 @@ Code: MIT (`LICENSE`). Annotations, splits and profiles in `data/`: CC BY 4.0 (`
   title        = {Beyond Disease Labels: Symptom-Based Vision-Language Learning for Unseen Plant Diseases},
   author       = {Zibafar, Amirreza},
   year         = {2026},
+  doi          = {10.5281/zenodo.24032335},
   howpublished = {\url{https://github.com/AmirrrezaZ/plant-diagnose-anything}}
 }
 ```
