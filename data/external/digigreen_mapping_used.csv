@@ -1,0 +1,74 @@
+image_file,tier,dg,crop,cos_nn
+images/00446.jpg,main,leaf curl virus,tomato,0.9261056
+images/00181.jpg,main,blast,rice,0.9073823
+images/00513.jpg,main,panama wilt,banana,0.9205454
+images/00795.jpg,main,leaf curl virus,tomato,0.89734083
+images/00213.jpg,main,tobacco mosaic virus,tobacco,0.93120575
+images/00973.jpg,main,leaf curl virus,tomato,0.9202227
+images/00409.jpg,main,mosaic virus,bean,0.86229354
+images/00506.jpg,main,late blight,potato,0.93607366
+images/00769.jpg,main,leaf curl virus,tomato,0.871739
+images/00531.jpg,main,leaf curl virus,tomato,0.90598375
+images/00202.jpg,main,powdery mildew,squash,0.9253034
+images/00190.jpg,main,blast,rice,0.9492657
+images/00362.jpg,main,powdery mildew,squash,0.9107977
+images/00526.jpg,main,mosaic virus,bean,0.9174406
+images/00433.jpg,main,loose smut,wheat,0.8474897
+images/00842.jpg,main,early blight,potato,0.91593766
+images/00933.jpg,main,blast,rice,0.9460488
+images/00524.jpg,secondary,sigatoka leaf spot,banana,0.9164044
+images/00580.jpg,main,early blight,potato,0.92187667
+images/00671.jpg,main,early blight,potato,0.9450119
+images/00402.jpg,main,early blight,potato,0.89790535
+images/00192.jpg,main,early blight,potato,0.899223
+images/00623.jpg,main,late blight,potato,0.9212622
+images/00854.jpg,secondary,sigatoka leaf spot,banana,0.89857996
+images/00296.jpg,main,mosaic virus,bean,0.8294817
+images/00536.jpg,main,leaf curl virus,tomato,0.91543067
+images/00466.jpg,main,late blight,potato,0.9292848
+images/00891.jpg,main,tobacco mosaic virus,tobacco,0.94708884
+images/00645.jpg,main,panama wilt,banana,0.9207813
+images/00283.jpg,main,powdery mildew,squash,0.92619157
+images/00078.jpg,main,powdery mildew,squash,0.89982486
+images/00602.jpg,main,mosaic virus,bean,0.8667658
+images/00963.jpg,main,late blight,potato,0.93353355
+images/00348.jpg,secondary,sigatoka leaf spot,banana,0.8994127
+images/00695.jpg,main,early blight,potato,0.9475841
+images/00853.jpg,main,mosaic virus,bean,0.9139999
+images/00308.jpg,main,early blight,tomato,0.93834764
+images/00686.jpg,main,late blight,potato,0.9302202
+images/00527.jpg,main,early blight,potato,0.92783415
+images/00562.jpg,main,early blight,potato,0.9016608
+images/00076.jpg,main,blast,rice,0.9460488
+images/00201.jpg,main,turcicum leaf blight,corn,0.9437399
+images/00196.jpg,main,tobacco mosaic virus,tobacco,0.9175649
+images/00132.jpg,main,mosaic virus,bean,0.85200876
+images/00540.jpg,main,tobacco mosaic virus,tobacco,0.8681266
+images/00011.jpg,main,leaf curl virus,tomato,0.8795248
+images/00882.jpg,main,tobacco mosaic virus,tobacco,0.894302
+images/00865.jpg,main,mosaic virus,bean,0.91118103
+images/00518.jpg,main,panama wilt,banana,0.8365406
+images/00177.jpg,main,leaf curl virus,tomato,0.8379915
+images/00346.jpg,main,citrus canker,citrus,0.88818103
+images/00500.jpg,main,mosaic virus,bean,0.87288815
+images/00404.jpg,main,mosaic virus,bean,0.8787751
+images/00226.jpg,main,tobacco mosaic virus,tobacco,0.8870808
+images/00568.jpg,main,leaf curl virus,tomato,0.90841633
+images/00135.jpg,main,turcicum leaf blight,corn,0.92282873
+images/00270.jpg,main,early blight,potato,0.8485965
+images/00591.jpg,main,early blight,potato,0.91352254
+images/00489.jpg,main,early blight,potato,0.8940026
+images/00047.jpg,main,leaf curl virus,tomato,0.91764086
+images/00146.jpg,main,powdery mildew,squash,0.8853384
+images/00367.jpg,main,mosaic virus,bean,0.8771842
+images/00061.jpg,main,late blight,tomato,0.938868
+images/00546.jpg,main,powdery mildew,squash,0.9217992
+images/00360.jpg,main,tobacco mosaic virus,tobacco,0.86438566
+images/00588.jpg,main,tobacco mosaic virus,tobacco,0.87010515
+images/00426.jpg,main,early blight,tomato,0.9071701
+images/00443.jpg,main,powdery mildew,squash,0.93535596
+images/00814.jpg,main,late blight,tomato,0.9061912
+images/00566.jpg,main,late blight,potato,0.91996676
+images/00710.jpg,main,tobacco mosaic virus,tobacco,0.8942939
+images/00521.jpg,main,mosaic virus,bean,0.89792806
+images/00131.jpg,secondary,sigatoka leaf spot,banana,0.86970466

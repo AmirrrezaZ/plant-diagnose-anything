@@ -1,0 +1,13 @@
+fold 0 epoch 0 val 0.328 tau/alpha 1.0 0.1
+fold 1 epoch 5 val 0.422 tau/alpha 1.0 0.3
+fold 2 epoch 0 val 0.312 tau/alpha 1.0 0.1
+fold 3 epoch 30 val 0.476 tau/alpha 1.0 0.1
+fold 4 epoch 5 val 0.43 tau/alpha 0.5 0.1
+fold 5 epoch 15 val 0.357 tau/alpha 0.02 0.0
+fold 6 epoch 25 val 0.403 tau/alpha 1.0 0.1
+fold 7 epoch 10 val 0.399 tau/alpha 0.5 0.1
+fold 8 epoch 30 val 0.244 tau/alpha 0.02 0.0
+fold 9 epoch 0 val 0.188 tau/alpha 1.0 0.1
+clipL_zeroshot       0.495 (n 116)
+bcvsa_align_only     0.309 (n 116)
+bcvsa_blend          0.456 (n 116)

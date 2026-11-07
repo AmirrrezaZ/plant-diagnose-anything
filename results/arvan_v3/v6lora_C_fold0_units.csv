@@ -1,0 +1,1398 @@
+unit,zs,tuned,final
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,0.0,0.0
+bean|halo blight,1.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,0.0
+bean|halo blight,0.0,1.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,0.0,0.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,1.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bean|halo blight,0.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,1.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,0.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,0.0,1.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,1.0,1.0,1.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+bell pepper|leaf spot,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,1.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,1.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,1.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,1.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,0.0,0.0
+broccoli|downy mildew,1.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,0.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,1.0,1.0,1.0
+broccoli|downy mildew,0.0,1.0,1.0
+broccoli|downy mildew,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,1.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,0.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,0.0,0.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+peach|leaf curl,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,0.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,1.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,1.0,1.0
+potato|early blight,0.0,0.0,0.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+potato|early blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,1.0,1.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,1.0,1.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,1.0,1.0,1.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,1.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+tomato|late blight,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,0.0,0.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,0.0,0.0
+banana|black leaf streak,1.0,0.0,0.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,0.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+banana|black leaf streak,1.0,1.0,1.0
+blueberry|mummy berry,0.0,0.0,0.0
+blueberry|mummy berry,0.0,1.0,1.0
+blueberry|mummy berry,1.0,0.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,0.0
+blueberry|mummy berry,1.0,1.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,0.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,0.0,0.0
+blueberry|mummy berry,1.0,1.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,0.0,1.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,0.0
+blueberry|mummy berry,0.0,0.0,0.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+blueberry|mummy berry,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,1.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,0.0
+cabbage|black rot,1.0,0.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,1.0,1.0
+cabbage|black rot,1.0,0.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,0.0,0.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+cabbage|black rot,0.0,0.0,0.0
+cabbage|black rot,1.0,0.0,1.0
+cabbage|black rot,0.0,0.0,1.0
+cabbage|black rot,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,0.0,1.0,1.0
+coffee|berry blotch,0.0,0.0,0.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+coffee|berry blotch,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,0.0,0.0,0.0
+eggplant|phomopsis fruit rot,0.0,0.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,0.0,0.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,0.0,0.0,0.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,0.0,1.0,0.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,1.0,1.0,1.0
+eggplant|phomopsis fruit rot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0
+raspberry|leaf spot,0.0,1.0,1.0
+raspberry|leaf spot,0.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,1.0
+raspberry|leaf spot,0.0,1.0,0.0
+raspberry|leaf spot,0.0,1.0,1.0
+raspberry|leaf spot,0.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0
+raspberry|leaf spot,0.0,0.0,0.0
+raspberry|leaf spot,1.0,1.0,1.0

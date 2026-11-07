@@ -1,0 +1,15 @@
+\begin{tabular}{lc}\toprule Method & Top-1 (unit-macro)\\\midrule
+Chance (1/\#candidates) & 0.267\\
+Crop prior (no image) & 0.009\\
+Nearest seen disease profile & 0.000\\
+Linear tag head + profile lookup & 0.361\\
+BCVSA-style blend (DINOv2-L + CLIP-L/14) & 0.456\\
+CLIP-L/14 zero-shot, names & 0.495\\
+Qwen2.5-VL-7B tags + lookup$^\dagger$ & 0.275\\
+Qwen2.5-VL-7B multiple choice, names$^\dagger$ & 0.564\\
+SigLIP2-L zero-shot, description & 0.627\\
+SigLIP2-L zero-shot, name & 0.639\\
+SigLIP2-L zero-shot, description + name & 0.683\\
+Ours, symptom text only (3 seeds) & 0.645\\
+Ours, symptom text + name (3 seeds) & 0.707\\
+\bottomrule\end{tabular}

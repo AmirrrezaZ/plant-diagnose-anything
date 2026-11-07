@@ -1,0 +1,40 @@
+type,n,top1,matched
+banana|panama wilt,3,0.6666666666666666,True
+banana|sigatoka leaf spot,6,0.3333333333333333,False
+bean|mosaic virus,11,0.5454545454545454,True
+bean|powdery mildew,7,1.0,False
+brinjal|mites,20,0.8,False
+brinjal|phomopsis blight,7,0.0,False
+brinjal|shoot and fruit borer,27,0.037037037037037035,False
+brinjal|wilt,12,0.25,False
+cauliflower|black rot,3,0.3333333333333333,False
+cauliflower|boron deficiency,3,0.6666666666666666,False
+chilli|anthracnose,8,0.125,False
+chilli|leaf curl virus,46,0.6521739130434783,False
+chilli|mites,11,0.0,False
+chilli|nitrogen deficiency,3,0.3333333333333333,False
+chilli|thrips,29,0.1724137931034483,False
+citrus|citrus psyllid,4,0.75,False
+citrus|leaf miner,3,0.6666666666666666,False
+groundnut|collar rot,4,0.75,False
+groundnut|leaf miner,5,1.0,False
+groundnut|leaf spot,9,0.3333333333333333,False
+maize|fall armyworm,47,0.06382978723404255,False
+maize|nitrogen deficiency,3,1.0,False
+maize|stem borer,3,0.0,False
+maize|turcicum leaf blight,4,0.0,False
+mango|anthracnose,16,0.0,False
+mango|mango hopper,7,0.0,False
+mango|mealybugs,6,0.0,False
+mango|powdery mildew,12,0.8333333333333334,False
+papaya|anthracnose,4,0.0,False
+papaya|papaya mealybug,5,0.8,False
+papaya|papaya ring spot virus,15,0.13333333333333333,False
+papaya|powdery mildew,3,1.0,False
+potato|aphids,27,0.7777777777777778,False
+potato|bacterial wilt,8,0.25,False
+potato|common scab,7,0.2857142857142857,False
+potato|early blight,12,0.25,True
+potato|late blight,8,0.375,True
+tomato|leaf curl virus,10,0.7,True
+tomato|leaf miner,5,0.2,False

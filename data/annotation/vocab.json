@@ -1,0 +1,57 @@
+{
+ "affected_part": [
+  "flower",
+  "fruit",
+  "inflorescence",
+  "leaf",
+  "none",
+  "root",
+  "seed_grain",
+  "stem",
+  "whole_plant"
+ ],
+ "color": [
+  "brown",
+  "dark_black",
+  "orange",
+  "pale_green",
+  "red_purple",
+  "tan",
+  "white_gray",
+  "yellow"
+ ],
+ "texture": [
+  "dry_necrotic",
+  "fuzzy_moldy",
+  "powdery",
+  "pustules",
+  "raised_corky",
+  "sunken",
+  "water_soaked"
+ ],
+ "shape": [
+  "angular",
+  "circular",
+  "concentric_target",
+  "curled_distorted",
+  "elongated",
+  "irregular",
+  "swollen_galls",
+  "wilted"
+ ],
+ "pattern": [
+  "coalescing_blotches",
+  "halo",
+  "interveinal",
+  "mosaic_mottle",
+  "scattered_spots",
+  "stripes_streaks",
+  "uniform_general"
+ ],
+ "lesion_density": [
+  "dense",
+  "none",
+  "sparse",
+  "targeted"
+ ]
+}

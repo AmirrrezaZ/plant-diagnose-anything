@@ -1,0 +1,6 @@
+# Final symptom-only track (no disease name in training or scoring). Script: scripts/v6_lora2.py ; DigiGreen: scripts/v6_lora_dg2.py
+model: google/siglip2-large-patch16-256 (vision tower LoRA, text tower frozen; text embeddings from scripts/v6_text.py)
+lora: {rank: 16, alpha: 16, targets: [q_proj, k_proj, v_proj, out_proj]}
+train: {steps: 800, batch_size: 48, lr: 2.0e-5, cluster_weight: 0.5, styles: [long, tags], sampler: inverse_sqrt_unit_size, eval_every: 100, select_on: val_units}
+eval: {ens: 0, crop_given: true, metric: unit_macro_top1, folds: 10, seeds: [0, 1, 2]}
+command: python scripts/v6_lora2.py --fold K --tag F{seed} --seed {seed} --patience 99 --ens 0 --workers 8 --steps 800 --lr 2e-5 --rank 16 --styles long,tags

@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Beyond Disease Labels</title>
+<meta name="description" content="Symptom-based vision-language learning for unseen plant diseases.">
+<style>
+:root{--bg:#fbfaf6;--fg:#1d2a22;--mut:#5d6b62;--card:#fff;--line:#e3e0d5;--acc:#2f7d4f;--acc2:#e9f3ec}
+@media (prefers-color-scheme:dark){:root{--bg:#121a15;--fg:#e8efe9;--mut:#9fb0a5;--card:#1a251e;--line:#2a3830;--acc:#6cc38f;--acc2:#1f3328}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}
+.w{max-width:960px;margin:0 auto;padding:0 20px}
+header{padding:64px 0 36px;text-align:center}
+h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.15;margin:0 0 12px;letter-spacing:-.02em}
+.sub{color:var(--mut);font-size:1.15rem;max-width:720px;margin:0 auto 14px}
+.by{color:var(--mut);margin-bottom:26px}
+.btns{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.btn{padding:10px 18px;border-radius:999px;border:1px solid var(--line);background:var(--card);color:var(--fg);text-decoration:none;font-weight:600}
+.btn.p{background:var(--acc);border-color:var(--acc);color:#fff}.btn.off{opacity:.55;pointer-events:none}
+section{padding:34px 0}h2{font-size:1.6rem;margin:0 0 10px;letter-spacing:-.01em}
+p.l{color:var(--mut);max-width:760px}
+img{max-width:100%;border-radius:12px;border:1px solid var(--line);background:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:18px 0}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px}
+.stat b{display:block;font-size:2rem;color:var(--acc);line-height:1.1}.stat span{color:var(--mut);font-size:.92rem}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:.95rem}
+th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line)}th{background:var(--acc2)}
+tr:last-child td{border-bottom:0}.bar{height:8px;border-radius:4px;background:var(--line);position:relative;min-width:90px}
+.bar i{position:absolute;left:0;top:0;bottom:0;border-radius:4px;background:var(--acc)}.bar i.z{background:var(--mut);opacity:.6}
+details{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 16px;margin:10px 0}
+summary{cursor:pointer;font-weight:600}details p{color:var(--mut);margin:8px 0 0}
+pre{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;overflow:auto;font-size:.88rem;position:relative}
+button.cp{margin-top:8px;padding:6px 12px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--fg);cursor:pointer}
+footer{padding:36px 0 60px;color:var(--mut);text-align:center;font-size:.9rem}
+</style></head><body>
+<header class="w">
+<h1>Beyond Disease Labels</h1>
+<p class="sub">Symptom-based vision-language learning for unseen plant diseases. Teach a model what symptoms look like, then describe a new disease in words.</p>
+<p class="by">Amirreza Zibafar · Independent researcher</p>
+<div class="btns">
+<a class="btn p" href="paper.pdf">Paper (PDF)</a>
+<a class="btn off" href="#" title="Link will be added after posting">arXiv (soon)</a>
+<a class="btn" href="https://github.com/AmirrrezaZ/plant-diagnose-anything">Code</a>
+<a class="btn" href="https://github.com/AmirrrezaZ/plant-diagnose-anything/tree/main/data">Annotations</a>
+<a class="btn" href="https://github.com/AmirrrezaZ/plant-diagnose-anything/releases/latest">Model</a>
+<a class="btn" href="#cite">BibTeX</a>
+</div></header>
+<main class="w">
+<section><h2>The idea</h2>
+<p class="l">Most plant-disease classifiers output a disease name from a fixed list, so a disease outside the list gets no answer. Agronomists reason from symptoms instead: which part is affected, the colour and shape of lesions, their pattern. We annotate those symptoms per image and train a model to read them, so a new disease can be added as a text description.</p>
+<img src="img/fig_overview.png" alt="Name classifier versus symptom matching">
+</section>
+<section><h2>Key numbers</h2>
+<div class="grid">
+<div class="stat"><b>20,942</b><span>photographs with symptom annotations</span></div>
+<div class="stat"><b>120</b><span>disease units, each held out once in 10-fold CV</span></div>
+<div class="stat"><b>0.963</b><span>top-3 accuracy on unseen diseases (chance 0.724)</span></div>
+<div class="stat"><b>6 / 42</b><span>symptom attributes / values</span></div>
+</div></section>
+<section><h2>How it works</h2>
+<p class="l">We adapt both towers of SigLIP 2 with LoRA. Images are matched to descriptions built from symptom tags, never from disease names. The crop is given, and candidates are the diseases of that crop.</p>
+<img src="img/fig_architecture.png" alt="Method overview">
+</section>
+<section><h2>Held-out-disease accuracy</h2>
+<p class="l">Top-1 on diseases never seen in training (3 seeds, 10-fold CV). Grey: zero-shot start. Green: joint LoRA.</p>
+<table>
+<tr><th>Text used to score a disease</th><th>Zero-shot</th><th>Joint LoRA</th><th>Gain</th></tr>
+<tr><td>Description built from images</td><td><div class="bar"><i class="z" style="width:62.5%"></i></div>0.625</td><td><div class="bar"><i style="width:68.4%"></i></div>0.684</td><td>+0.059</td></tr>
+<tr><td>Blind LLM description</td><td><div class="bar"><i class="z" style="width:56.1%"></i></div>0.561</td><td><div class="bar"><i style="width:60.9%"></i></div>0.609</td><td>+0.048</td></tr>
+<tr><td>Blind tag list</td><td><div class="bar"><i class="z" style="width:49%"></i></div>0.490</td><td><div class="bar"><i style="width:58.2%"></i></div>0.582</td><td>+0.092</td></tr>
+</table>
+<p class="l" style="margin-top:12px">On an external farmer-photo test the gains are positive but not significant. Limits are discussed openly in the paper.</p>
+<img src="img/per_fold.png" alt="Per-fold results" style="margin-top:8px">
+</section>
+<section><h2>The annotations</h2>
+<p class="l">Per-part annotation of every image, grouped by crop, disease and affected part, with symptom tags for each group. PlantWild photographs shown for illustration (CC BY-NC-ND); the repository releases annotations only.</p>
+<img src="img/annotation_examples.png" alt="Annotation examples">
+</section>
+<section><h2>What did not work</h2>
+<p class="l">About a hundred earlier experiments shaped the final design. A few lessons:</p>
+<details><summary>Class-level symptom labels are too noisy</summary><p>Symptom accuracy stayed at 0.24 to 0.30 nAP for every encoder. Class priors agree with a given photo only 43% to 80% of the time, which motivated per-image, group-level annotation.</p></details>
+<details><summary>Names are not what the model learns from</summary><p>Name-free caption retrieval matches name prompts (83.0 vs 82.6 on unseen diseases in an early protocol).</p></details>
+<details><summary>Synthetic lesion edits do not help</summary><p>Colour, size and compositional edits did not improve held-out-disease accuracy over real images only.</p></details>
+<details><summary>Crop recognition dominated early name accuracy</summary><p>Giving the true crop raised accuracy to 62.6% from 8.6% (no crop) and 18.3% (predicted crop).</p></details>
+<p class="l">The full table is in Section 8 of the paper.</p>
+</section>
+<section id="cite"><h2>Citation</h2>
+<pre id="bib">@misc{zibafar2026beyond,
+  title  = {Beyond Disease Labels: Symptom-Based Vision-Language Learning for Unseen Plant Diseases},
+  author = {Zibafar, Amirreza},
+  year   = {2026},
+  note   = {arXiv link to be added},
+  url    = {https://github.com/AmirrrezaZ/plant-diagnose-anything}
+}</pre>
+<button class="cp" onclick="navigator.clipboard.writeText(document.getElementById('bib').innerText);this.textContent='Copied'">Copy BibTeX</button>
+</section></main>
+<footer class="w">Code MIT · Annotations CC BY 4.0 · Photographs belong to PlantWild and DigiGreen under their licenses.</footer>
+</body></html>

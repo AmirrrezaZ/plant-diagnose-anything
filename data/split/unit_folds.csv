@@ -1,0 +1,121 @@
+disease_unit,crop,fold,novelty,tertile,n_images
+apple|black rot,apple,3,4.4176838128451035,2,148
+apple|mosaic virus,apple,1,0.22301794590951202,0,143
+apple|rust,apple,4,6.7496503496503495,2,275
+apple|scab,apple,2,4.3506738544474395,2,265
+banana|anthracnose,banana,8,4.014705882352941,2,68
+banana|black leaf streak,banana,0,4.018343567942056,2,146
+banana|bunchy top,banana,1,1.227634363097757,0,139
+banana|cigar end rot,banana,6,5.017857142857142,2,56
+banana|cordana leaf spot,banana,3,2.375,0,48
+banana|panama disease,banana,2,3.9636500754147814,2,204
+basil|downy mildew,basil,6,4.021834061135371,2,76
+bean|halo blight,bean,0,0.11450571286636856,0,110
+bean|mosaic virus,bean,6,0.10306905370843995,0,115
+bean|rust,bean,3,3.625198331080684,1,143
+bell pepper|bacterial spot,bell pepper,7,4.948275862068966,2,58
+bell pepper|blossom end rot,bell pepper,3,3.430107526881721,1,101
+bell pepper|frogeye leaf spot,bell pepper,9,0.9999999999999999,0,25
+bell pepper|leaf spot,bell pepper,0,3.38126159554731,1,77
+bell pepper|powdery mildew,bell pepper,2,3.0,1,21
+blueberry|anthracnose,blueberry,1,6.15,2,36
+blueberry|botrytis blight,blueberry,3,3.1747967479674797,1,24
+blueberry|mummy berry,blueberry,0,2.4730989956958394,0,41
+blueberry|rust,blueberry,5,3.690721649484536,1,97
+blueberry|scorch,blueberry,6,4.308225729316117,2,41
+broccoli|alternaria leaf spot,broccoli,2,0.7809523809523811,0,40
+broccoli|downy mildew,broccoli,0,3.644444444444445,1,60
+broccoli|ring spot,broccoli,6,3.0,1,6
+cabbage|alternaria leaf spot,cabbage,2,0.7809523809523811,0,105
+cabbage|black rot,cabbage,0,3.0,1,112
+carrot|alternaria leaf blight,carrot,4,4.0,2,51
+carrot|bacterial soft rot,carrot,5,2.5,1,4
+carrot|cavity spot,carrot,8,3.0,1,70
+carrot|cercospora leaf blight,carrot,9,2.0784313725490193,0,17
+cauliflower|alternaria leaf spot,cauliflower,6,1.3095238095238098,0,56
+cauliflower|bacterial soft rot,cauliflower,3,6.0,2,26
+celery|anthracnose,celery,5,7.299465240641711,2,34
+celery|early blight,celery,7,1.2222222222222223,0,51
+cherry|leaf spot,cherry,8,3.0045871559633026,1,218
+cherry|powdery mildew,cherry,5,1.1049157680647759,0,103
+citrus|canker,citrus,5,4.979919678714859,2,498
+citrus|greening disease,citrus,1,2.349628177782902,0,209
+coffee|berry blotch,coffee,0,4.407380254154448,2,88
+coffee|black rot,coffee,7,4.708333333333334,2,3
+coffee|brown eye spot,coffee,3,1.5,0,12
+coffee|leaf rust,coffee,1,3.8265079455487836,1,181
+corn|gray leaf spot,corn,9,5.458706467661692,2,201
+corn|northern leaf blight,corn,5,4.015706806282722,2,191
+corn|rust,corn,2,0.03964757709251104,0,227
+corn|smut,corn,6,5.105209625403125,2,278
+cucumber|angular leaf spot,cucumber,1,5.0,2,244
+cucumber|bacterial wilt,cucumber,8,2.080798590722255,0,131
+cucumber|powdery mildew,cucumber,9,0.023809523809523767,0,212
+eggplant|cercospora leaf spot,eggplant,4,1.5,0,79
+eggplant|phomopsis fruit rot,eggplant,0,4.15,2,40
+eggplant|phytophthora blight,eggplant,2,6.093333333333333,2,25
+garlic|leaf blight,garlic,7,4.057936507936508,2,140
+garlic|rust,garlic,4,2.0201603034752815,0,144
+garlic|white rot,garlic,8,5.0,2,3
+ginger|leaf spot,ginger,7,2.638095238095238,1,72
+ginger|sheath blight,ginger,4,3.0292596944770858,1,74
+grape|black rot,grape,9,2.7660550458715596,1,218
+grape|downy mildew,grape,7,3.7304534187151415,1,376
+grape|leaf spot,grape,4,3.38126159554731,1,98
+grape|leafroll disease,grape,5,3.0662890081494734,1,129
+lettuce|downy mildew,lettuce,9,4.156565656565657,2,110
+lettuce|mosaic virus,lettuce,2,1.008695652173913,0,75
+maple|tar spot,maple,9,5.0,2,135
+onion|basal rot,onion,7,2.5,1,6
+peach|anthracnose,peach,6,3.0,1,13
+peach|brown rot,peach,4,3.058916019237884,1,159
+peach|leaf curl,peach,0,3.0662890081494734,1,234
+peach|rust,peach,5,0.0,0,7
+peach|scab,peach,7,5.0,2,70
+plum|bacterial spot,plum,3,4.906659077973819,2,14
+plum|brown rot,plum,1,2.4730989956958394,0,68
+plum|pocket disease,plum,2,7.861820997897997,2,69
+plum|pox virus,plum,8,3.781526104417671,1,30
+plum|rust,plum,4,0.0,0,30
+potato|bacterial soft rot,potato,8,4.75,2,4
+potato|dry rot,potato,2,3.5,1,2
+potato|early blight,potato,0,1.0098522167487687,0,203
+potato|late blight,potato,3,3.128440366972477,1,218
+raspberry|fire blight,raspberry,1,4.208333333333334,2,24
+raspberry|gray mold,raspberry,5,4.116082659478886,2,35
+raspberry|leaf spot,raspberry,0,1.2222222222222223,0,18
+raspberry|yellow rust,raspberry,4,3.2815126050420167,1,34
+rice|blast,rice,8,3.013698630136986,1,146
+rice|sheath blight,rice,1,3.0292596944770858,1,230
+soybean|bacterial blight,soybean,8,1.0098522167487687,0,80
+soybean|brown spot,soybean,4,4.0,2,55
+soybean|downy mildew,soybean,2,3.5925925925925926,1,128
+soybean|frogeye leaf spot,soybean,9,2.7660550458715596,1,193
+soybean|mosaic virus,soybean,5,2.008695652173913,0,100
+soybean|rust,soybean,7,2.0,0,107
+squash|powdery mildew,squash,8,2.0305837816298067,0,239
+strawberry|anthracnose,strawberry,6,3.430107526881721,1,93
+strawberry|leaf scorch,strawberry,9,3.0045871559633026,1,74
+tobacco|blue mold,tobacco,1,3.5925925925925926,1,54
+tobacco|brown spot,tobacco,9,3.0,1,58
+tobacco|frogeye leaf spot,tobacco,6,0.9999999999999999,0,16
+tobacco|mosaic virus,tobacco,7,0.22301794590951202,0,83
+tomato|bacterial leaf spot,tomato,6,2.4731981166244115,1,251
+tomato|early blight,tomato,5,2.790940766550523,1,287
+tomato|late blight,tomato,0,4.55627824181843,2,268
+tomato|leaf mold,tomato,3,4.004366812227074,2,229
+tomato|mosaic virus,tomato,8,0.21176470588235297,0,180
+tomato|septoria leaf spot,tomato,7,0.11450571286636856,0,183
+tomato|yellow leaf curl virus,tomato,9,1.2603052692980752,0,148
+wheat|bacterial leaf streak,wheat,2,2.638095238095238,1,105
+wheat|head scab,wheat,9,7.313658536585366,2,250
+wheat|leaf rust,wheat,3,0.03964757709251104,0,119
+wheat|loose smut,wheat,8,5.048275862068966,2,145
+wheat|powdery mildew,wheat,6,1.1049157680647759,0,253
+wheat|septoria blotch,wheat,1,3.8864942528735633,1,174
+wheat|stem rust,wheat,7,3.307624534056252,1,130
+wheat|stripe rust,wheat,4,5.583255027250518,2,313
+zucchini|bacterial wilt,zucchini,4,2.080798590722255,0,65
+zucchini|downy mildew,zucchini,1,5.0,2,41
+zucchini|powdery mildew,zucchini,5,0.023809523809523767,0,168
+zucchini|yellow mosaic virus,zucchini,3,0.10306905370843995,0,170

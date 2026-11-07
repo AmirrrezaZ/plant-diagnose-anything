@@ -1,0 +1,12 @@
+train imgs 10990 excluded matched units 14
+training text = blind LLM profiles
+{'step': 100, 'loss': 1.00833545088768} 44s
+{'step': 200, 'loss': 0.939258737564087} 87s
+{'step': 300, 'loss': 0.8516346192359925} 130s
+{'step': 400, 'loss': 0.7709505540132523} 173s
+{'step': 500, 'loss': 0.7297735053300858} 216s
+{'step': 600, 'loss': 0.7279187035560608} 259s
+{'step': 700, 'loss': 0.707029070854187} 302s
+{'step': 800, 'loss': 0.7236034968495368} 345s
+DG-full images 423 types 39 crops 12
+DGFULL {"long_zs_dg_only": [0.412, 0.371], "long_zs_dg+pw": [0.352, 0.331], "long_tuned_dg_only": [0.389, 0.366], "long_tuned_dg+pw": [0.299, 0.303], "tags_zs_dg_only": [0.397, 0.374], "tags_zs_dg+pw": [0.314, 0.317], "tags_tuned_dg_only": [0.405, 0.4], "tags_tuned_dg+pw": [0.31, 0.324], "name_zs_dg_only": [0.47, 0.47], "name_zs_dg+pw": [0.424, 0.437], "name_tuned_dg_only": [0.507, 0.449], "name_tuned_dg+pw": [0.396, 0.366]}

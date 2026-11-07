@@ -1,0 +1,6 @@
+# Name-augmented track (uses disease-name prompts; reported separately)
+model: google/siglip2-large-patch16-256
+lora: {rank: 16, alpha: 16, targets: [q_proj, k_proj, v_proj, out_proj]}
+train: {steps: 400, batch_size: 48, lr: 5.0e-5, cluster_weight: 0.5, styles: [long, tags, name], eval_every: 100, select_on: val_units}
+eval: {ens: 1, score: long_logit + name_logit, crop_given: true, metric: unit_macro_top1, folds: 10, seeds: [0, 1, 2]}
+command: python scripts/v6_lora2.py --fold K --tag D{seed} --seed {seed} --patience 99 --ens 1 --workers 8 --steps 400 --lr 5e-5 --rank 16 --styles long,tags,name

@@ -1,0 +1,1378 @@
+unit,zs,tuned,final
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,1.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,0.0
+apple|rust,1.0,1.0,1.0
+apple|rust,0.0,0.0,0.0
+apple|rust,1.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+apple|rust,0.0,0.0,0.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,0.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,0.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,0.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,1.0,1.0,1.0
+eggplant|cercospora leaf spot,0.0,0.0,1.0
+eggplant|cercospora leaf spot,0.0,0.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,0.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,0.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,0.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,0.0,0.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,0.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,0.0,0.0,0.0
+garlic|rust,1.0,1.0,1.0
+garlic|rust,1.0,1.0,1.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,0.0,0.0,0.0
+ginger|sheath blight,1.0,0.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,1.0
+ginger|sheath blight,1.0,1.0,0.0
+ginger|sheath blight,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,0.0,0.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,0.0,0.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,0.0,1.0,1.0
+grape|leaf spot,0.0,0.0,0.0
+grape|leaf spot,0.0,0.0,1.0
+grape|leaf spot,0.0,0.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+grape|leaf spot,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,0.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,1.0,1.0,1.0
+carrot|alternaria leaf blight,0.0,0.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,0.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,0.0,1.0
+peach|brown rot,0.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,0.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,0.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,0.0,0.0
+peach|brown rot,0.0,0.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,0.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,1.0,1.0,1.0
+peach|brown rot,0.0,0.0,0.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,0.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,0.0,0.0,1.0
+plum|rust,1.0,0.0,0.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+plum|rust,0.0,0.0,0.0
+plum|rust,1.0,1.0,1.0
+plum|rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,0.0,0.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+raspberry|yellow rust,1.0,1.0,1.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,1.0,0.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,0.0,0.0,0.0
+soybean|brown spot,0.0,0.0,1.0
+soybean|brown spot,1.0,0.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,0.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,0.0,1.0
+soybean|brown spot,1.0,0.0,0.0
+soybean|brown spot,1.0,1.0,1.0
+soybean|brown spot,1.0,1.0,0.0
+soybean|brown spot,1.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,0.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,1.0,0.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,0.0,0.0,1.0
+wheat|stripe rust,0.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,0.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,0.0,0.0,0.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+wheat|stripe rust,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,0.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,0.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,0.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,0.0,0.0
+zucchini|bacterial wilt,1.0,1.0,1.0

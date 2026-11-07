@@ -1,0 +1,23 @@
+units 120 dg types 172 total 283
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1730.32it/s]
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1340.89it/s]
+Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1645.47it/s]
+`torch_dtype` is deprecated! Use `dtype` instead!
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  60%|██████    | 3/5 [00:00<00:00, 28.70it/s]Loading checkpoint shards: 100%|██████████| 5/5 [00:00<00:00, 42.49it/s]
+The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+0 / 283 apple|black rot {'affected_part': ['fruit'], 'color': ['dark_black'], 'texture': ['sunken'], 'shape': ['irregular'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+20 / 283 bean|aphids {'affected_part': ['leaf'], 'color': ['pale_green'], 'texture': ['dry_necrotic'], 'shape': ['irregular'], 'pattern': ['scattered_spots'], 'lesion_density': ['sparse']}
+40 / 283 bitter gourd|whiteflies {'affected_part': ['leaf'], 'color': ['white_gray'], 'texture': ['powdery'], 'shape': ['irregular'], 'pattern': ['scattered_spots'], 'lesion_density': ['sparse']}
+60 / 283 cabbage|black rot {'affected_part': ['leaf'], 'color': ['dark_black'], 'texture': ['sunken'], 'shape': ['irregular'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+80 / 283 chickpea|botrytis gray mold {'affected_part': ['fruit'], 'color': ['white_gray', 'brown'], 'texture': ['fuzzy_moldy'], 'shape': ['irregular'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+100 / 283 coffee|brown eye spot {'affected_part': ['leaf'], 'color': ['brown', 'tan'], 'texture': ['dry_necrotic'], 'shape': ['circular'], 'pattern': ['scattered_spots'], 'lesion_density': ['sparse']}
+120 / 283 eggplant|phomopsis fruit rot {'affected_part': ['fruit'], 'color': ['brown', 'tan'], 'texture': ['dry_necrotic', 'sunken'], 'shape': ['circular', 'irregular'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+140 / 283 guava|fruit fly {'affected_part': ['fruit'], 'color': ['brown', 'tan'], 'texture': ['dry_necrotic'], 'shape': ['circular'], 'pattern': ['scattered_spots'], 'lesion_density': ['sparse']}
+160 / 283 mango|potassium deficiency {'affected_part': ['leaf'], 'color': ['pale_green'], 'texture': ['dry_necrotic'], 'shape': ['irregular'], 'pattern': ['interveinal'], 'lesion_density': ['sparse']}
+180 / 283 papaya|nitrogen deficiency {'affected_part': ['leaf'], 'color': ['pale_green'], 'texture': ['dry_necrotic'], 'shape': ['irregular'], 'pattern': ['interveinal'], 'lesion_density': ['sparse']}
+200 / 283 potato|bacterial wilt {'affected_part': ['stem'], 'color': ['brown', 'tan'], 'texture': ['dry_necrotic', 'sunken'], 'shape': ['irregular', 'swollen_galls'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+220 / 283 rice|brown spot {'affected_part': ['leaf'], 'color': ['brown'], 'texture': ['dry_necrotic'], 'shape': ['irregular'], 'pattern': ['scattered_spots'], 'lesion_density': ['dense']}
+240 / 283 squash|powdery mildew {'affected_part': ['leaf'], 'color': ['white_gray'], 'texture': ['powdery'], 'shape': ['circular'], 'pattern': ['scattered_spots'], 'lesion_density': ['sparse']}
+260 / 283 tomato|mosaic virus {'affected_part': ['leaf'], 'color': ['pale_green', 'yellow'], 'texture': ['dry_necrotic'], 'shape': ['irregular'], 'pattern': ['mosaic_mottle'], 'lesion_density': ['sparse']}
+280 / 283 zucchini|downy mildew {'affected_part': ['leaf'], 'color': ['white_gray'], 'texture': ['fuzzy_moldy'], 'shape': ['irregular'], 'pattern': ['coalescing_blotches'], 'lesion_density': ['dense']}
+empty profiles: 0 of 283

@@ -1,0 +1,2265 @@
+{
+ "apple|black rot": [
+  "The leaves show dark brown spots with a reddish margin, indicating early infection.",
+  "The fruit develops large, irregularly shaped lesions that are initially light brown but darken to black as they progress.",
+  "The bark on infected branches appears rough and cracked, with deep furrows forming around the lesions.",
+  "The affected areas have a distinct, concentric ring pattern, with the outermost ring being the oldest lesion.",
+  "Lesions on the fruit can merge into large, necrotic patches, causing the skin to peel away in some cases.",
+  "The overall appearance of the plant is stunted, with fewer flowers and smaller, less vibrant foliage compared to healthy plants."
+ ],
+ "apple|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance.",
+  "The fruit shows irregular brown spots that vary in size and shape across its surface.",
+  "The bark on the trunk appears rougher than usual, with visible cracks and ridges.",
+  "The branches exhibit a twisted growth pattern, with some parts bending unnaturally.",
+  "The overall plant has a stunted appearance, with smaller leaves and less robust growth compared to healthy plants.",
+  "The leaves have a curled edge, giving them a distinctive, cupped look when viewed closely."
+ ],
+ "apple|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The fruit is covered with small, raised bumps that give it a rough texture.",
+  "The branches exhibit elongated, elongated lesions that run along their length.",
+  "The bark on the trunk has developed a mottled appearance with patches of discoloration.",
+  "The leaves have curled upwards at the edges due to the stress from the disease.",
+  "The overall plant appears stunted and less vibrant compared to healthy plants."
+ ],
+ "apple|scab": [
+  "The leaves show small, raised, light-colored spots that are scattered across their surface.",
+  "The fruit develops a network of fine, white lines that crisscross its skin.",
+  "The bark on the trunk appears rougher than usual with patches of grayish-brown discoloration.",
+  "The branches exhibit a mottled appearance with areas of lighter and darker green.",
+  "The flowers have a powdery coating that makes them look less vibrant and healthy.",
+  "The roots appear swollen and discolored, with some parts showing signs of rot."
+ ],
+ "arhar|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested plants have a drooping posture due to the weight of the insects.",
+  "The stems appear slightly swollen at points where aphids have clustered.",
+  "Leaves may curl upwards, especially near the tips, as a response to aphid feeding.",
+  "The undersides of leaves show signs of yellowing, indicating nutrient stress from aphid activity.",
+  "Clusters of aphids can be seen on the underside of leaves, forming dense white masses."
+ ],
+ "arhar|pod borer": [
+  "The arhar plant shows small, irregularly shaped brown spots on its leaves, indicating early infestation.",
+  "Pods develop with numerous small, raised bumps, suggesting the presence of larvae within.",
+  "The stems exhibit a mottled appearance with patches of discoloration, likely due to larval feeding.",
+  "Leaves curl and droop, with some showing signs of wilting, as the plant struggles to photosynthesize.",
+  "Pods become misshapen and twisted, with a rough texture, as the larvae feed internally.",
+  "The overall plant appears stunted and unhealthy, with a general decline in vigor and productivity."
+ ],
+ "arhar|sterility mosaic": [
+  "The leaves exhibit a mottled pattern with patches of yellow and green, indicating early signs of stress.",
+  "The stems appear twisted and deformed, with a rough texture that contrasts sharply with healthy plants.",
+  "The pods are smaller than usual, with a wrinkled surface and fewer seeds inside.",
+  "The flowers are pale and lack the vibrant color typical of healthy blooms.",
+  "The overall plant height is reduced, with a drooping posture due to weakened structure.",
+  "The leaf veins are more pronounced and darker, suggesting nutrient deficiencies related to the disease."
+ ],
+ "banana|anthracnose": [
+  "The banana leaves display dark brown spots that spread into irregular patches, creating a mottled appearance.",
+  "The fruit surface shows small, raised, circular lesions that cluster together, forming a rough texture.",
+  "The stems exhibit elongated, elongated lesions that run along their length, giving them a bumpy feel.",
+  "The plant's foliage has a patchy discoloration with areas of yellowing and browning, indicating stress.",
+  "The banana bunches have a few large, sunken lesions that disrupt the otherwise smooth surface of the fruit.",
+  "The plant's overall health appears compromised, with some leaves drooping and wilting due to the disease pressure."
+ ],
+ "banana|banana aphid": [
+  "The banana leaves show small, dark spots scattered across their surface, indicating early infestation.",
+  "As the aphid population grows, the leaves develop a mottled appearance with patches of yellowing.",
+  "The stems of the banana plant become thickened and discolored, with a rough texture due to aphid feeding.",
+  "The fruit bunches develop a dull, brownish hue as aphids feed on the developing bananas.",
+  "The plant's overall growth appears stunted, with fewer and smaller leaves than healthy plants.",
+  "By late stages, the plant may exhibit wilting and drooping, with a general decline in vitality."
+ ],
+ "banana|banana weevil": [
+  "The banana plant's leaves show dark brown spots that spread across their surface, creating a mottled appearance.",
+  "The fruit develops small, raised bumps that eventually turn into larger, irregularly shaped lesions.",
+  "The plant's stems exhibit a network of fine, white lines that become more pronounced as the weevil infestation worsens.",
+  "The edges of the leaves curl inward, forming a tight, almost papery texture due to the weevil activity.",
+  "The bananas develop a rough, bumpy texture with deep grooves running along their length.",
+  "The plant's overall growth appears stunted, with fewer and smaller leaves compared to healthy plants."
+ ],
+ "banana|black leaf streak": [
+  "The leaves exhibit dark, elongated streaks that run parallel to the veins, creating a striking contrast against the green background.",
+  "The affected areas have a rough, leathery texture, differing from the smooth surface of healthy leaves.",
+  "The streaks form distinct, linear patterns across the leaf blade, with some leaves showing more extensive damage than others.",
+  "Lesions appear as numerous, closely spaced dark spots along the midrib and veins, spreading outward towards the leaf margins.",
+  "In the early stages, the affected leaves may show only a few scattered dark spots, while in later stages, the entire leaf can be covered with dense, black streaks.",
+  "The lower leaves are often more severely affected, with the upper leaves showing signs of distress but still retaining some green coloration."
+ ],
+ "banana|bunchy top": [
+  "The banana plant has elongated, twisted leaves with a purplish hue.",
+  "The pseudostem is thickened and knobby, with a mottled appearance.",
+  "The fruit bunches are misshapen and smaller than normal, with a rough texture.",
+  "The leaves have irregular, dark spots that spread across their surface.",
+  "The plant's growth is stunted, with fewer and shorter leaves than healthy plants.",
+  "The overall appearance is distorted, with a gnarled and unhealthy look."
+ ],
+ "banana|calcium deficiency": [
+  "The banana leaves exhibit a mottled appearance with patches of yellow and green, indicating uneven chlorophyll distribution.",
+  "The fruit surface shows small, scattered brown spots that become more prominent as the bananas ripen.",
+  "The texture of the banana peel appears rougher than usual, with visible cracks and ridges developing on the skin.",
+  "The leaves develop a crinkled look, with edges curling inward due to the lack of calcium.",
+  "The bananas have a misshapen form, with some fruits elongating unnaturally while others remain short and stunted.",
+  "The overall plant structure seems weaker, with fewer and smaller flowers compared to healthy plants."
+ ],
+ "banana|cigar end rot": [
+  "The banana plant shows brown, elongated lesions at the tips of the leaves, resembling cigars.",
+  "The affected bananas have dark, sunken spots on their skins that spread outward.",
+  "The leaves exhibit a rough, cracked texture where the lesions are forming.",
+  "The affected bananas develop a pattern of irregular, elongated lesions along the fruit's length.",
+  "The plant displays multiple lesions concentrated at the ends of the leaves, indicating early-stage infection.",
+  "As the disease progresses, the bananas develop more numerous lesions, covering larger areas of the fruit skin."
+ ],
+ "banana|cordana leaf spot": [
+  "The banana leaves display small, circular spots that are initially light green but quickly turn brown as they develop.",
+  "Lesions appear scattered across the leaf surface, with some areas showing more concentrated clusters than others.",
+  "The texture of the affected leaves becomes rougher due to the raised, slightly sunken appearance of the lesions.",
+  "The edges of the lesions are often irregular and may have a slightly raised rim.",
+  "As the disease progresses, the lesions can merge into larger patches, covering significant portions of the leaf blade.",
+  "The affected leaves may curl upwards, indicating stress from the disease, and eventually turn yellow before dropping off the plant."
+ ],
+ "banana|panama disease": [
+  "The banana leaves show a distinct yellowing at the tips, spreading inward as the disease progresses.",
+  "The fruit develops brown spots that grow larger and more numerous over time.",
+  "The rind of the banana turns a dull greenish-yellow, with a rougher texture than healthy bananas.",
+  "The plant's growth becomes stunted, with smaller and fewer leaves than usual.",
+  "The stem of the banana plant develops a series of dark, elongated lesions that run vertically.",
+  "The affected bananas have a shriveled appearance, with a wrinkled skin that is less firm to the touch."
+ ],
+ "banana|panama wilt": [
+  "The banana plant's leaves show a distinct yellowing at the tips, spreading upwards as the disease progresses.",
+  "The fruit develops brown spots that grow larger and more numerous over time.",
+  "The stem becomes elongated and twisted, with a rougher texture than healthy plants.",
+  "The plant's leaves develop a mottled appearance with patches of brown and green.",
+  "The plant's growth is stunted, with fewer and smaller leaves compared to unaffected plants.",
+  "The base of the plant shows signs of wilting, with the lower leaves drooping and turning brown."
+ ],
+ "banana|sigatoka leaf spot": [
+  "The banana leaves display small, circular spots that are initially light green but quickly turn brown as they expand.",
+  "Lesions on the banana leaves appear raised and slightly sunken, with a rough texture that contrasts sharply with the smooth surface of healthy leaves.",
+  "The affected banana leaves show a distinct pattern of scattered spots, primarily concentrated on the lower and older parts of the leaf.",
+  "As the disease progresses, the number of lesions increases, covering larger areas of the leaf until it becomes almost entirely discolored.",
+  "The edges of the affected leaves often curl inward, creating a characteristic \"cupping\" effect due to the disease pressure.",
+  "In severe cases, the entire leaf may turn completely black and fall off the plant prematurely, leaving large gaps in the canopy."
+ ],
+ "barley|smut": [
+  "The barley plant displays dark, irregular spots on its leaves, resembling small, raised bumps.",
+  "The stems of the plant are covered with a\u7f51\u7edc-like pattern of fine, white threads.",
+  "The grain heads are swollen and distorted, with a fuzzy appearance due to the fungal growth.",
+  "The affected leaves have a mottled look, with patches of brown and green blending together.",
+  "The plant's overall appearance is stunted, with shorter and thinner stems than healthy plants.",
+  "The infected parts of the plant exhibit a rough texture, contrasting sharply with the smooth surface of healthy tissue."
+ ],
+ "basil|downy mildew": [
+  "The basil leaves display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The undersides of the leaves show a dense, white, cotton-like growth that contrasts sharply with the green upper surface.",
+  "The affected basil plant has a drooping posture due to the weight of the fungal growth on its leaves.",
+  "The veins of the basil leaves are particularly affected, with the disease causing them to become more prominent and twisted.",
+  "The basil plant's overall appearance is stunted, with fewer and smaller leaves than healthy plants.",
+  "The edges of the basil leaves are curled inward, giving the plant a somewhat wilted look despite the presence of water."
+ ],
+ "bean|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested stems show a slight wilting, with a few drooping leaves.",
+  "The pods develop a rough texture due to the presence of aphid colonies.",
+  "The plant's overall growth seems stunted, with fewer flowers than usual.",
+  "The underside of the leaves displays a dense cluster of tiny, white aphid bodies.",
+  "The affected plant has a reduced number of healthy-looking leaves compared to unaffected plants."
+ ],
+ "bean|bacterial blight": [
+  "The leaves display a mottled pattern with dark brown spots scattered across their surface.",
+  "The stems exhibit a rough texture with raised, irregular bumps along their length.",
+  "The pods show a network of fine lines that create a web-like appearance.",
+  "The affected areas on the leaves have a slightly sunken texture compared to healthy tissue.",
+  "The lesions on the stems are elongated and appear as elongated, dark streaks.",
+  "The overall plant appears wilted and droopy, with a general decline in vigor."
+ ],
+ "bean|halo blight": [
+  "The leaves display a distinct circular pattern with a pale yellow halo surrounding dark brown spots.",
+  "The stems exhibit elongated, irregular lesions that are initially light green before turning brown.",
+  "The pods show a mottled appearance with scattered, raised bumps that are slightly rough to the touch.",
+  "The affected areas on the leaves have a water-soaked look, with the edges curling inward.",
+  "The plant's overall growth appears stunted, with fewer flowers and smaller, less vibrant leaves.",
+  "The lesions on the leaves vary in size but are consistently found along the veins, creating a network-like pattern."
+ ],
+ "bean|leaf miner": [
+  "The leaves exhibit a network of fine, silvery-white lines crisscrossing the surface, creating a lace-like appearance.",
+  "Small, elongated, pale green lesions are scattered across the leaf blade, often clustered near the veins.",
+  "The texture of the affected leaves appears slightly rougher than healthy ones, with a subtle increase in surface irregularity.",
+  "The veins of the leaves are more pronounced, with a slight yellowing around the edges of the lesions.",
+  "The affected areas have a distinct, lighter coloration compared to the surrounding healthy tissue, forming a patchy pattern.",
+  "As the disease progresses, the lesions may coalesce into larger, irregularly shaped patches on the leaf surface."
+ ],
+ "bean|mites": [
+  "The leaves exhibit a fine\u7f51\u7edc of silvery-white lines crisscrossing the green surface.",
+  "Small, raised bumps dot the undersides of the leaves, giving them a rough texture.",
+  "The stems develop a mottled appearance with patches of yellow and brown discoloration.",
+  "The pods show a pattern of irregular spots that vary in size and intensity.",
+  "The overall plant appears stunted, with fewer and smaller leaves than healthy plants.",
+  "The affected areas on the leaves have a distinct, web-like pattern that is more pronounced at the edges."
+ ],
+ "bean|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance.",
+  "Veins on the leaves appear swollen and discolored, adding to the overall distorted look.",
+  "The texture of the leaves becomes rough and puckered, especially around the edges.",
+  "The veins on the stems show a similar swelling and discoloration as seen on the leaves.",
+  "The plant's growth is stunted, with smaller and fewer leaves than healthy plants.",
+  "The flowers may be deformed, with petals that curl and twist unnaturally."
+ ],
+ "bean|nitrogen deficiency": [
+  "The leaves appear pale green with a yellowish tint, indicating nutrient stress.",
+  "Veins on the leaves are more pronounced and darker than usual.",
+  "The texture of the leaves seems rougher compared to healthy plants.",
+  "Small, scattered spots can be seen on the leaf surface, suggesting early signs of stress.",
+  "The stems have a thinner appearance, lacking the robustness of well-nourished plants.",
+  "The overall growth of the plant is stunted, with fewer and smaller leaves than expected."
+ ],
+ "bean|pod borer": [
+  "The bean pods exhibit a mottled green and brown pattern, indicating early infestation.",
+  "Pods appear swollen and misshapen, with a rough texture suggesting damage from borers.",
+  "Lesions on the leaves are scattered, with a distinct yellowing around the edges, showing signs of stress.",
+  "The stems have a twisted appearance, with a thickened section where larvae have burrowed.",
+  "Pods are covered in small, raised bumps, indicative of larval feeding activity.",
+  "The overall plant has a drooping posture, with a general decline in vigor due to the pest's presence."
+ ],
+ "bean|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "Small, circular spots appear on the upper surface of the leaves, becoming more numerous as the infection progresses.",
+  "The texture of the affected leaves becomes rougher due to the buildup of the powdery substance.",
+  "A network of fine, white threads can be seen spreading across the leaf surface, creating a distinctive pattern.",
+  "Lesions start as small, discrete spots but coalesce into larger patches as the disease advances.",
+  "The underside of the leaves shows signs of distortion, with curled edges and a yellowish tint developing around the lesions."
+ ],
+ "bean|root rot": [
+  "The roots appear dark and slimy, with a mottled brownish hue.",
+  "The leaves show signs of wilting and yellowing, with some edges curling upwards.",
+  "The stems have a rough, cracked texture, with visible discoloration along their length.",
+  "The plant's foliage displays a patchy pattern of brown spots, indicating stress.",
+  "The overall plant appears stunted, with fewer flowers and smaller pods than healthy plants.",
+  "The roots are extensively decayed, with a foul odor emanating from the soil around the base."
+ ],
+ "bean|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The stems exhibit elongated, irregularly shaped lesions that are a deep orange color.",
+  "The pods have a rough texture with scattered patches of brownish discoloration.",
+  "The affected areas on the leaves show a distinct pattern of small, circular spots that cluster together.",
+  "The plant's overall appearance is mottled with a mix of healthy green and discolored brown patches.",
+  "The leaves develop numerous lesions, creating a patchy, uneven look as the disease progresses."
+ ],
+ "bell pepper|bacterial spot": [
+  "The leaves display small, circular spots that are initially pale yellow but turn brown as they develop.",
+  "Lesions on the fruit appear as raised, dark brown patches with a slightly rough texture.",
+  "The stems exhibit elongated, elongated lesions that are initially water-soaked and then become sunken and dark brown.",
+  "The affected areas on the plant have a distinct pattern where lesions cluster together, forming irregular patches.",
+  "The leaves show a mix of healthy green tissue interspersed with brown, necrotic spots, creating a mottled appearance.",
+  "As the disease progresses, the fruit develops numerous small, scattered lesions that eventually coalesce into larger, more prominent patches."
+ ],
+ "bell pepper|blossom end rot": [
+  "The bell pepper fruit shows a dark, sunken spot at its base, contrasting sharply with the bright green surrounding tissue.",
+  "The affected area has a rough, leathery texture that stands out against the smooth surface of healthy parts.",
+  "A single, circular lesion is visible on the underside of the fruit, where it was attached to the plant.",
+  "The affected region displays a distinct, dark brown coloration that contrasts with the vibrant green of the rest of the fruit.",
+  "The lesion appears as a small, irregularly shaped patch on the bottom of the bell pepper, near the stem attachment.",
+  "As the disease progresses, the affected area may expand, creating a larger, more pronounced dark spot on the fruit's surface."
+ ],
+ "bell pepper|frogeye leaf spot": [
+  "The leaves display small, circular spots that are initially light green but turn brown as they develop.",
+  "Lesions on the lower leaves are more numerous and larger than those on the upper leaves.",
+  "The affected areas have a rough texture, contrasting with the smooth surface of healthy leaves.",
+  "Brown spots on the foliage create a mottled appearance across the leaf surface.",
+  "The disease causes a significant reduction in the number of healthy leaves, leading to a sparse canopy.",
+  "As the infection progresses, the affected leaves may curl and droop, affecting overall plant vigor."
+ ],
+ "bell pepper|leaf spot": [
+  "The leaves display small, circular spots that are initially pale green before turning brown and necrotic.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, with a rough texture.",
+  "The affected leaves have a mottled appearance due to the scattered distribution of lesions across their surface.",
+  "Some leaves show concentric rings around the lesions, creating a target-like pattern.",
+  "The number of lesions varies from leaf to leaf, with some showing just a few while others are heavily spotted.",
+  "The affected plant parts include both upper and lower leaves, with the lower leaves often more severely impacted."
+ ],
+ "bell pepper|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a mottled appearance with patches of discolored tissue.",
+  "The fruit surface is covered with a dense layer of white, fluffy growth.",
+  "Lesions appear as irregular spots on the underside of the leaves, spreading across the leaf surface.",
+  "The affected areas on the plant have a distinct, powdery texture that feels rough to the touch.",
+  "As the disease progresses, the plant shows signs of stunted growth and reduced vigor."
+ ],
+ "bhindi|jassids": [
+  "The leaves show small, scattered brown spots that appear as if someone has sprinkled coffee grounds across them.",
+  "The stems develop a\u7f51\u7edc-like pattern of fine, silvery lines that seem to crisscross each other.",
+  "The fruit begins to develop a rough, bumpy texture with tiny, raised dots covering its surface.",
+  "The edges of the leaves curl slightly inward, giving them a ruffled appearance.",
+  "The plant's growth appears stunted, with fewer flowers and smaller, less vibrant blooms than healthy plants.",
+  "The overall coloration of the plant shifts towards a duller shade of green, lacking the vibrant hue of unaffected bhindi."
+ ],
+ "bhindi|shoot and fruit borer": [
+  "The bhindi plant shows numerous small, irregularly shaped holes on its leaves, indicating damage from borers.",
+  "The stems exhibit a mottled appearance with patches of discoloration where the borers have burrowed.",
+  "The fruits display a rough texture with raised, irregular bumps caused by the borers' feeding activity.",
+  "The leaves have a wilted look, with some edges curling under due to the stress from the borers.",
+  "The plant's growth appears stunted, with fewer flowers and smaller, less vibrant blooms.",
+  "The overall appearance is one of a plant struggling to thrive, with visible signs of insect damage throughout."
+ ],
+ "bitter gourd|downy mildew": [
+  "The leaves exhibit a powdery white coating that contrasts sharply with the dark green background.",
+  "The stems develop a rough, bumpy texture as the infection progresses.",
+  "The fruit surface becomes mottled with irregular patches of pale yellow and brown.",
+  "The affected areas on the leaves form small, circular spots that gradually expand.",
+  "The plant's overall appearance becomes stunted, with fewer and smaller leaves than healthy plants.",
+  "As the disease advances, the leaves curl upwards, giving the plant a drooping posture."
+ ],
+ "bitter gourd|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the dark green background.",
+  "The stems exhibit a mottled appearance with patches of discolored tissue.",
+  "The fruit surface is covered with a dense layer of white, fluffy growth.",
+  "Lesions appear as irregular spots on the leaf undersides, spreading across the entire leaf surface.",
+  "The affected plant has a stunted growth habit, with smaller and fewer leaves than healthy plants.",
+  "The overall plant appears pale and weak, with a reduced vigor compared to unaffected plants."
+ ],
+ "bitter gourd|whiteflies": [
+  "The leaves exhibit a mottled appearance with small, white spots scattered across their surface.",
+  "The stems develop a rough texture as the whitefly infestation progresses.",
+  "The fruit shows a pale green coloration with a network of fine lines forming a web-like pattern.",
+  "The affected areas on the plant have a slightly raised, pustular texture.",
+  "The leaves display a dense concentration of small, white spots, especially near the veins.",
+  "The overall plant appears stunted, with fewer leaves and smaller flowers compared to healthy plants."
+ ],
+ "blueberry|anthracnose": [
+  "The leaves display small, circular spots that are initially light brown but darken to a deep reddish-brown as they mature.",
+  "Lesions on the fruit appear as raised, sunken areas with a dark border, often surrounded by a lighter halo.",
+  "The stems exhibit elongated, irregularly shaped lesions that are initially pale yellow before turning brown and cracking.",
+  "The bark of infected branches shows a network of fine cracks and peeling patches, revealing a lighter inner layer beneath.",
+  "Affected leaves may curl upwards and droop, with the edges becoming necrotic and turning brown.",
+  "The overall appearance of the plant is stunted, with reduced leaf size and fewer flowers, indicating stress from the disease."
+ ],
+ "blueberry|botrytis blight": [
+  "The blueberry berries appear pale and shriveled, with a powdery white coating.",
+  "The leaves show dark, irregular spots that spread across their surface.",
+  "The stems develop a fuzzy, grayish-brown growth along their length.",
+  "The fruit clusters have a mottled appearance with brownish patches.",
+  "The affected berries are clustered together, with some showing signs of rot.",
+  "The overall plant appears stunted and discolored, with a general decline in health."
+ ],
+ "blueberry|mummy berry": [
+  "The fruit is dark brown with a rough, cracked surface.",
+  "The berries are shriveled and have a distorted, irregular shape.",
+  "The affected berries exhibit a mottled pattern of lighter and darker spots.",
+  "There are numerous small, raised lesions scattered across the fruit's surface.",
+  "The infected berries are clustered together, forming a dense, compact mass.",
+  "The leaves surrounding the affected berries appear wilted and discolored."
+ ],
+ "blueberry|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The stems exhibit elongated, raised bumps that give them a rough texture.",
+  "The berries develop small, circular patches that are initially pale yellow before turning brown.",
+  "The foliage shows a mottled appearance with areas of yellowing and browning.",
+  "The plant's overall growth seems stunted, with fewer and smaller flowers than usual.",
+  "The affected areas on the plant have a distinct, irregular pattern that contrasts sharply with healthy tissue."
+ ],
+ "blueberry|scorch": [
+  "The leaves exhibit a mottled appearance with patches of brown discoloration scattered across their surface.",
+  "The edges of the leaves curl upwards, forming a characteristic scorching effect.",
+  "The bark on the stems appears rougher than usual, with visible cracks and peeling.",
+  "The fruit shows a dull, faded color compared to healthy berries, with some areas appearing shriveled.",
+  "Lesions are concentrated primarily at the tips of the branches, creating a spiky look.",
+  "The overall plant has a drooping posture due to the stress caused by the scorching."
+ ],
+ "bottle gourd|aphids": [
+  "The leaves show small, dark spots scattered across their surface, indicating early aphid infestation.",
+  "Aphids have caused numerous small, white, cotton-like masses to form on the underside of the leaves.",
+  "The stems exhibit a mottled appearance with patches of discoloration where aphids have been feeding.",
+  "The fruit has developed a rough, bumpy texture due to the presence of aphid colonies.",
+  "The plant's overall growth appears stunted, with fewer leaves and smaller flowers than healthy plants.",
+  "The veins of the leaves are visibly distorted, with some showing signs of wilting and curling."
+ ],
+ "bottle gourd|fruit fly": [
+  "The bottle gourd has small, dark spots scattered across its surface, indicating early infestation.",
+  "The fruit shows a network of fine lines radiating from a central point, suggesting a developing lesion.",
+  "The rind of the gourd appears slightly wrinkled and discolored, with patches of brownish discoloration.",
+  "A cluster of small, raised bumps is visible on the stem, indicating the presence of larvae.",
+  "The gourd's skin has a mottled appearance with irregular patches of lighter and darker areas.",
+  "The fruit displays a pattern of concentric rings around a central spot, showing progression of the damage."
+ ],
+ "bottle gourd|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, indicating early infection.",
+  "The stems exhibit a rough texture with visible bumps and swelling, suggesting the virus is spreading.",
+  "The fruit shows a distorted shape with uneven growth, indicating severe viral impact.",
+  "The veins on the leaves appear thickened and twisted, creating a complex network pattern.",
+  "The plant has multiple small lesions scattered across its surface, particularly on the younger leaves.",
+  "The overall appearance of the plant is stunted and weak, with a general decline in health and vigor."
+ ],
+ "bottle gourd|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a network of fine, white, web-like structures that cover their surface.",
+  "The fruit develops small, circular patches of white, powdery growth that spread across its skin.",
+  "The affected areas on the plant have a distinct, dusty appearance, making them stand out against healthy tissue.",
+  "Lesions appear as scattered spots on the underside of the leaves, creating a mottled effect.",
+  "As the disease progresses, the affected parts of the plant develop a dense, fluffy layer of white growth."
+ ],
+ "bottle gourd|red pumpkin beetle": [
+  "The bottle gourd plant displays numerous small, reddish-brown spots scattered across its leaves, giving them a mottled appearance.",
+  "The stems of the plant exhibit a network of fine, reddish lines that run along their length, creating a subtle, web-like texture.",
+  "The fruit of the plant is covered with a dense layer of tiny, raised bumps, which appear to be slightly raised above the surface.",
+  "The leaves have a slightly curled edge, with some parts showing a lighter green coloration around the edges of the lesions.",
+  "The affected areas on the plant's surface show a distinct pattern of irregularly shaped spots, varying in size but generally small and clustered together.",
+  "The overall appearance of the plant suggests a significant impact on its health, with the affected areas appearing more wilted and less vibrant compared to healthy parts."
+ ],
+ "brinjal|mites": [
+  "The brinjal fruit surface appears speckled with tiny, white dots under magnification.",
+  "The leaves exhibit a network of fine, silvery lines crisscrossing the leaf surface.",
+  "The stem is covered with small, raised bumps that give it a rough texture.",
+  "The brinjal fruit develops numerous small, circular spots that are initially pale green but turn brown as they age.",
+  "The brinjal plant has a few large, irregularly shaped lesions on its leaves, which are starting to curl and wilt.",
+  "The overall appearance of the brinjal plant shows a mix of healthy and unhealthy areas, with some parts showing signs of stress and others appearing normal."
+ ],
+ "brinjal|phomopsis blight": [
+  "The brinjal fruit displays a dark brown, almost black, scab-like lesion on its surface, appearing rough and irregular in texture.",
+  "The stem of the plant shows elongated, purplish-brown lesions that are slightly raised and have a scaly appearance.",
+  "The leaves exhibit small, circular spots with a reddish-brown margin, scattered across their surface.",
+  "As the disease progresses, the fruit develops large, sunken lesions that are dark brown to black in color, with a rough texture.",
+  "The plant's foliage becomes increasingly wilted and droopy as the disease advances, with the leaves turning yellow and eventually falling off.",
+  "The affected brinjal plant has multiple lesions on various parts of the fruit, stem, and leaves, creating a mottled appearance overall."
+ ],
+ "brinjal|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellowing and brown discoloration.",
+  "The stems show a thinning and wilting, with a lighter green color compared to healthy plants.",
+  "The fruit develops a rough, bumpy texture with dark brown spots that spread over its surface.",
+  "The plant's overall growth is stunted, with smaller and fewer flowers than usual.",
+  "The leaves have a curled, crinkled texture, especially at the edges, indicating stress.",
+  "The plant's lower leaves begin to drop prematurely, while new growth appears weak and sparse."
+ ],
+ "brinjal|shoot and fruit borer": [
+  "The brinjal plant shows numerous small, irregularly shaped holes on its leaves, indicating damage from borers.",
+  "The stems exhibit a mottled appearance with patches of discoloration where the borers have burrowed.",
+  "Fruits display a rough texture with raised, irregular bumps where the borers have entered.",
+  "The plant's foliage appears wilted and drooping, suggesting stress from the pest infestation.",
+  "Lesions on the brinjal fruits are scattered across their surface, creating a mottled pattern that affects their overall appearance.",
+  "The plant's growth is stunted, with fewer flowers and smaller, less vibrant blooms compared to healthy plants."
+ ],
+ "brinjal|wilt": [
+  "The brinjal plant displays a mottled pattern of green and yellow leaves, indicating stress.",
+  "The lower leaves show signs of wilting with curled edges and drooping stems.",
+  "The upper leaves exhibit a speckled appearance with brown spots that are starting to coalesce.",
+  "The fruit is developing a sunken area on its surface, with a rough texture around it.",
+  "The plant's overall stature appears stunted, with fewer flowers and smaller fruit than healthy plants.",
+  "The base of the plant shows signs of browning, with some roots appearing shriveled and discolored."
+ ],
+ "broccoli|alternaria leaf spot": [
+  "The leaves display small, dark brown spots that appear scattered across their surface.",
+  "Lesions on older leaves have a rough texture, contrasting with the smoothness of healthy tissue.",
+  "The spots on younger leaves are circular and pale yellow before turning brown.",
+  "A close-up reveals the lesions have a distinct concentric ring pattern around them.",
+  "The number of lesions increases as the plant matures, covering more of the leaf surface.",
+  "On mature plants, the affected leaves may curl and droop due to the disease's progression."
+ ],
+ "broccoli|downy mildew": [
+  "The leaves of the broccoli plant appear pale green with a fine, white, powdery coating covering their undersides.",
+  "The edges of the broccoli florets start to curl inward, forming a tight, almost closed bud.",
+  "The stems develop a rough, bumpy texture as the disease progresses.",
+  "Small, irregularly shaped spots begin to appear on the leaves, spreading across the surface.",
+  "As the infection advances, the leaves develop a mottled appearance with patches of yellowing.",
+  "The affected broccoli plants show a significant reduction in leaf size and overall vigor."
+ ],
+ "broccoli|ring spot": [
+  "The leaves display circular brown spots with a lighter halo around them.",
+  "The stems exhibit elongated, irregularly shaped lesions that are dark brown in color.",
+  "The surface of the broccoli heads is covered with small, raised, purplish-brown spots.",
+  "The affected areas have a rough texture compared to healthy parts of the plant.",
+  "Lesions appear in clusters on the underside of the leaves, forming a distinct pattern.",
+  "The overall appearance of the plant shows a mottled effect with patches of discoloration across various parts."
+ ],
+ "cabbage|alternaria leaf spot": [
+  "The leaves display small, dark brown spots that appear scattered across the surface.",
+  "Lesions are circular to oval in shape, with a slightly raised center and a darker margin.",
+  "The texture of the affected areas is rougher compared to healthy parts of the leaf.",
+  "The pattern of lesions varies, with some leaves having more concentrated spots while others have a more dispersed distribution.",
+  "The number of lesions can range from a few to numerous on a single leaf, depending on the severity of the infection.",
+  "The outer edges of the leaves may show signs of wilting or curling due to the stress caused by the disease."
+ ],
+ "cabbage|black rot": [
+  "The leaves of the cabbage show dark, irregularly shaped spots that spread across the surface.",
+  "The outer leaves develop large, dark brown patches that eventually turn black and shrivel.",
+  "The inner leaves exhibit a network of fine, dark lines that form a web-like pattern.",
+  "The affected areas have a rough, leathery texture compared to healthy parts of the plant.",
+  "Lesions appear as numerous small dots on the leaf surface, gradually coalescing into larger patches.",
+  "The infected plant shows signs of wilting and browning at the tips of the leaves."
+ ],
+ "cabbage|cabbage looper": [
+  "The leaves show irregular, brownish spots that appear to be scattered across the surface.",
+  "The edges of some leaves curl inward, creating a distinctive frilled appearance.",
+  "The texture of the affected leaves becomes rougher as the disease progresses.",
+  "A network of fine lines can be seen on the underside of the leaves, indicating feeding damage.",
+  "The number of lesions increases over time, covering more of the leaf surface.",
+  "The outer leaves of the cabbage may wilt and turn yellow due to the stress from the disease."
+ ],
+ "cabbage|diamondback moth": [
+  "The leaves show small, irregularly shaped holes, revealing the pale green undersides beneath.",
+  "The outer leaves develop a mottled appearance with patches of brown discoloration.",
+  "The texture of the affected leaves becomes rough and uneven as the moth larvae feed.",
+  "A dense cluster of tiny, silvery-white eggs is visible on the underside of the leaves.",
+  "The central head of the cabbage begins to wilt and turn yellow due to the feeding damage.",
+  "The plant's growth appears stunted, with fewer and smaller heads forming than usual."
+ ],
+ "cabbage|nitrogen deficiency": [
+  "The leaves of the cabbage plant appear pale green, lacking the vibrant color typically seen in healthy plants.",
+  "The edges of the leaves begin to curl inward, a sign of stress.",
+  "The surface of the leaves develops a rough, uneven texture as the plant struggles to absorb nutrients.",
+  "Small, scattered spots can be seen on the leaves, indicating areas where the plant is trying to compensate for nutrient deficiencies.",
+  "The overall shape of the plant becomes more compact and less vigorous than usual.",
+  "As the nitrogen deficiency worsens, the number of leaves decreases, and the plant appears stunted compared to its peers."
+ ],
+ "canola|aphids": [
+  "The canola plant displays a dense network of fine, greenish-brown lines across its leaves, indicating the presence of aphid feeding.",
+  "Leaves appear slightly curled and wilted, with a mottled appearance due to aphid damage.",
+  "The surface of the canola plant is covered with small, white, cotton-like masses where aphids have congregated.",
+  "Aphid-infested areas show a distinct yellowing and browning of leaf tips and edges.",
+  "The canola plant has numerous small, dark spots scattered across its leaves, indicative of aphid activity.",
+  "The overall appearance of the canola plant is stunted, with a reduced number of flowers and pods compared to healthy plants."
+ ],
+ "carrot|alternaria leaf blight": [
+  "The leaves display dark brown spots that gradually expand into irregular patches.",
+  "The affected areas have a rough texture with a slightly raised surface.",
+  "Lesions appear as circular to oval shapes scattered across the leaf surface.",
+  "The edges of the lesions are often darker than the center, creating a distinct border.",
+  "Some leaves show a mottled appearance with a mix of healthy and diseased tissue.",
+  "As the disease progresses, the affected leaves may curl and droop, affecting overall plant health."
+ ],
+ "carrot|bacterial soft rot": [
+  "The affected carrot plant shows a patchy discoloration on its leaves, with areas turning brown and necrotic.",
+  "The roots exhibit a soft, mushy texture, with a water-soaked appearance that is easily squishable.",
+  "Lesions appear as irregularly shaped spots on the stems, spreading outward from the base.",
+  "The outer skin of the carrots develops a slimy, wet look, with a tendency to peel away in patches.",
+  "The affected areas on the carrots have a mottled pattern, with varying shades of brown and gray.",
+  "The plant's overall appearance is wilted and drooping, indicating severe stress and decay."
+ ],
+ "carrot|cavity spot": [
+  "The affected carrot plant shows small, dark brown spots scattered across its surface, indicating early-stage cavity spot.",
+  "The leaves of the carrot plant exhibit a mottled appearance with patches of yellowing, suggesting the progression of cavity spot.",
+  "The roots of the carrot plant display elongated, irregularly shaped lesions that are darker in color compared to the healthy tissue.",
+  "The outer skin of the carrot root has developed a rough texture due to the presence of cavity spot lesions.",
+  "The affected carrot plant has a patchy distribution of lesions on its foliage, with some leaves showing more damage than others.",
+  "The overall appearance of the carrot plant is compromised, with a mix of healthy and diseased areas visible throughout the plant."
+ ],
+ "carrot|cercospora leaf blight": [
+  "The leaves display a mottled pattern with dark brown spots scattered across their surface.",
+  "The edges of the leaves curl slightly inward, giving them a puckered appearance.",
+  "The affected areas have a rough texture compared to healthy parts of the leaf.",
+  "Lesions on older leaves are larger and more numerous than those on younger ones.",
+  "The lower leaves show signs of wilting and yellowing as the disease progresses.",
+  "The overall plant appears stunted, with fewer and smaller leaves than healthy plants."
+ ],
+ "cauliflower|alternaria leaf spot": [
+  "The cauliflower leaves display small, dark brown spots scattered across their surface.",
+  "The affected leaves show a distinct pattern of circular lesions with a slightly raised center.",
+  "The texture of the affected leaves appears rougher where the lesions are present.",
+  "Lesions on the cauliflower heads are more concentrated towards the outer edges, forming a ring-like pattern.",
+  "The affected cauliflower plants have a mottled appearance due to the numerous scattered lesions.",
+  "As the disease progresses, the lesions may coalesce into larger patches, affecting the entire leaf surface."
+ ],
+ "cauliflower|bacterial soft rot": [
+  "The cauliflower head appears discolored with patches of brownish-red, indicating tissue decay.",
+  "The outer leaves show signs of wilting and curling, with a slimy texture developing on the surface.",
+  "Lesions are scattered across the cauliflower head, creating a mottled appearance that spreads over time.",
+  "The center of the cauliflower head is visibly soft and mushy to the touch, lacking firmness.",
+  "The affected areas have a glossy sheen, contrasting sharply with the healthy, dry-looking parts of the plant.",
+  "As the disease progresses, the entire cauliflower head may collapse, with the affected areas becoming increasingly necrotic and darkened."
+ ],
+ "cauliflower|black rot": [
+  "The cauliflower head appears discolored with patches of dark brown and black, contrasting sharply against the pale green leaves.",
+  "The outer leaves show large, irregularly shaped spots that have spread across their surface, giving them a rough texture.",
+  "A closer look reveals numerous small, circular lesions scattered across the cauliflower head, some merging into larger areas.",
+  "The inner florets develop a dark, purplish hue as the disease progresses, affecting the entire head's structure.",
+  "The affected cauliflower head has a mottled appearance due to the varying shades of discoloration on its surface.",
+  "As the disease advances, the cauliflower head becomes deformed, with the affected parts drooping and turning dark, while healthy parts remain pale and firm."
+ ],
+ "cauliflower|boron deficiency": [
+  "The cauliflower head appears misshapen with a distorted, uneven surface.",
+  "The leaves exhibit a mottled appearance with patches of lighter green interspersed among the darker green areas.",
+  "The texture of the cauliflower head is rougher than usual, with a noticeable increase in the number of bumpy spots.",
+  "The outer leaves have developed a series of elongated, brownish streaks that run parallel to the leaf veins.",
+  "The inner florets show a pale yellow coloration, indicating a lack of chlorophyll.",
+  "The overall size of the cauliflower head is smaller than normal, with fewer and less developed florets."
+ ],
+ "cauliflower|cutworms": [
+  "The cauliflower head appears misshapen with irregularly shaped leaves that are curled inward, giving it a distorted appearance.",
+  "The surface of the cauliflower head is covered with small, dark spots that contrast sharply against the pale green color of the leaves.",
+  "The texture of the cauliflower head looks rough and uneven, with some areas appearing more fibrous than others.",
+  "There are numerous small, circular lesions scattered across the cauliflower head, creating a mottled pattern.",
+  "The outer leaves of the cauliflower are wilted and drooping, indicating stress from the pest infestation.",
+  "The cauliflower head has a patchy discoloration, with some areas turning brown while others remain green, suggesting ongoing damage."
+ ],
+ "cauliflower|downy mildew": [
+  "The leaves of the cauliflower plant appear pale green with a fine, white, downy growth on their undersides.",
+  "The outer heads of the cauliflower show a mottled pattern of light and dark green patches.",
+  "The inner florets develop a powdery white coating that contrasts sharply with the normal green color.",
+  "The stems of the plant become thickened and discolored, with a rough texture.",
+  "The affected leaves curl upwards, forming a characteristic \"cigar\" shape due to the disease pressure.",
+  "The disease causes the cauliflower heads to become smaller and deformed, with a distorted shape."
+ ],
+ "celery|anthracnose": [
+  "The celery stalks exhibit dark brown, elongated lesions that run along their length.",
+  "The leaves develop small, circular spots that gradually expand into larger, irregular patches.",
+  "The affected areas have a rough, cracked texture, contrasting with the smooth surface of healthy tissue.",
+  "Lesions appear as dark, sunken spots on the outer leaf surfaces, creating a mottled appearance.",
+  "The celery plant shows a significant number of lesions concentrated on the lower leaves, indicating early infection.",
+  "As the disease progresses, the lesions coalesce into large, irregularly shaped areas on the celery stalks."
+ ],
+ "celery|early blight": [
+  "The celery leaves display dark brown spots that gradually expand into irregular patches.",
+  "The affected celery stalks show a mottled appearance with scattered brownish discolorations.",
+  "The outer leaves of the celery plant develop a rough texture as the disease progresses.",
+  "The celery heads exhibit a pattern of concentric rings of brown lesions around the central core.",
+  "The lower leaves of the celery plant develop numerous small, circular lesions that coalesce over time.",
+  "The celery plant's overall appearance becomes more wilted and droopy as the disease advances."
+ ],
+ "cherry|leaf spot": [
+  "The cherry leaves display small, circular spots that are initially light green before turning brown and necrotic.",
+  "Lesions on the leaves appear raised and slightly sunken, with a rough texture.",
+  "The affected leaves have a mottled appearance due to the scattered distribution of lesions across their surface.",
+  "Some leaves show concentric rings around the lesions, creating a target-like pattern.",
+  "The number of lesions varies from leaf to leaf, with some showing just a few while others are heavily spotted.",
+  "Affected leaves may curl or droop as the disease progresses, indicating stress and potential defoliation."
+ ],
+ "cherry|powdery mildew": [
+  "The leaves appear white with a powdery coating, contrasting sharply against the green background.",
+  "The fruit develops a fuzzy white layer, obscuring its natural color and texture.",
+  "The bark on the trunk shows small, irregular patches of whitish discoloration.",
+  "The branches exhibit a network of fine, white filaments spreading across their surface.",
+  "The flowers have a pale, almost translucent appearance due to the powdery covering.",
+  "The overall plant has a mottled look, with areas of healthy green interspersed with patches of white."
+ ],
+ "chickpea|ascochyta blight": [
+  "The leaves display a mottled pattern with dark brown spots scattered across their surface.",
+  "The stems exhibit a rough texture with raised, irregular bumps.",
+  "The pods show a network of fine cracks, revealing a lighter inner layer beneath.",
+  "The flowers have a duller coloration compared to healthy blooms, appearing more wilted.",
+  "The roots appear discolored with patches of discoloration spreading throughout.",
+  "The overall plant appears stunted, with fewer leaves and smaller flowers than usual."
+ ],
+ "chickpea|botrytis gray mold": [
+  "The chickpea pods exhibit a fuzzy white growth on their surface, indicating early signs of infection.",
+  "As the disease progresses, the infected areas develop a distinct grayish hue, contrasting sharply with the healthy green.",
+  "The texture of the affected plant parts becomes rough and leathery to the touch, with a noticeable change from smooth to bumpy.",
+  "Lesions appear as irregular patches that spread across the leaves and stems, creating a mottled appearance.",
+  "The number of lesions increases over time, covering larger sections of the plant, particularly on the lower leaves and stems.",
+  "By the final stage, the infected plant parts may show a significant reduction in size and vitality, with the affected areas appearing shriveled and discolored."
+ ],
+ "chickpea|dry root rot": [
+  "The roots appear discolored with patches of brownish discoloration.",
+  "The leaves show signs of wilting and yellowing at the edges.",
+  "The stems have a rough texture with visible cracks and splits.",
+  "There is a noticeable pattern of dark spots on the pods, indicating stress.",
+  "The plant has fewer flowers than usual, with some buds remaining closed.",
+  "The overall appearance suggests the plant is under significant stress due to root issues."
+ ],
+ "chickpea|fusarium wilt": [
+  "The leaves exhibit a mottled yellowing that progresses to brown necrosis, with a distinct pattern of irregular spots.",
+  "The stems develop a dark, sunken girdling that restricts the flow of water and nutrients, causing wilting.",
+  "The roots appear discolored and shriveled, with a network of fine, white mycelial growth visible on the surface.",
+  "The pods show a concentric ring of discoloration around the stem attachment point, with a rough texture.",
+  "The overall plant has a stunted appearance, with a reduced number of flowers and pods compared to healthy plants.",
+  "As the disease advances, the entire plant may wilt and collapse, with a dry, papery texture on the leaves and stems."
+ ],
+ "chickpea|nitrogen deficiency": [
+  "The leaves appear pale green with a yellowish tint, indicating nutrient stress.",
+  "The stems have a thin, elongated appearance, lacking robustness.",
+  "The leaf edges show slight curling, a common sign of nutrient deficiency.",
+  "Small, scattered spots can be seen on the leaves, suggesting early signs of stress.",
+  "The overall plant height is shorter than healthy plants, with drooping foliage.",
+  "The pods are smaller and fewer in number compared to unaffected plants."
+ ],
+ "chickpea|thrips": [
+  "The leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The stems show thin, elongated lesions that run along their length.",
+  "The pods have a rough texture with numerous tiny punctures visible under magnification.",
+  "The flowers display a pale yellow hue with some petals showing slight wilting.",
+  "The overall plant has a stunted growth habit with reduced leaf size and fewer leaves.",
+  "The affected areas appear to be concentrated on the lower parts of the plant."
+ ],
+ "chikoo|cutworms": [
+  "The chikoo fruit shows dark brown, irregularly shaped lesions on its surface.",
+  "The leaves exhibit numerous small, circular spots that are slightly raised and have a rough texture.",
+  "The stem is covered with a dense network of fine, white, web-like structures.",
+  "The chikoo plant has several wilted, drooping leaves due to the damage.",
+  "The fruit's skin appears cracked and split, revealing a lighter inner layer beneath.",
+  "The plant's growth is stunted, with fewer flowers and smaller, less vibrant leaves."
+ ],
+ "chili|thrips": [
+  "The chili plant's leaves show small, scattered brown spots that appear as if someone has sprinkled tiny specks across them.",
+  "The stems exhibit a\u7f51\u7edc\u72b6\u7684pattern of fine, white lines that seem to crisscross each other.",
+  "The fruit surface is covered with a dense layer of tiny, raised bumps that give it a rough texture.",
+  "The affected leaves curl upwards at the edges, creating a distinctive cupped appearance.",
+  "The plant's growth appears stunted, with fewer flowers and smaller, less vibrant blooms than healthy plants.",
+  "The overall coloration of the plant shifts towards a duller shade of green, lacking the vibrant hue typical of healthy chili plants."
+ ],
+ "chilli|anthracnose": [
+  "The affected chilli plant shows dark brown spots on its leaves, which appear to be slightly raised and have a rough texture.",
+  "The fruit of the plant is covered with small, circular lesions that are initially light brown but turn dark brown as they mature.",
+  "The stems of the plant develop elongated, purplish-brown lesions that run along their length, giving them a mottled appearance.",
+  "The leaves exhibit irregularly shaped lesions that are primarily found on the lower parts of the plant, where they are more prominent and numerous.",
+  "The affected chilli plant has a general drooping posture due to the weight of the fruit and the presence of lesions, which can make it appear wilted.",
+  "The overall appearance of the plant is marred by the presence of lesions, which vary in size and color, creating a patchy and unhealthy look across the foliage and fruit."
+ ],
+ "chilli|leaf curl virus": [
+  "The leaves exhibit a distinctive crinkled appearance, with numerous small, raised bumps scattered across their surface.",
+  "In the early stages, the affected leaves may show a few scattered, light-colored spots that gradually increase in number and size.",
+  "As the disease progresses, the leaves develop a mottled pattern, with areas of yellowing and browning becoming more pronounced.",
+  "The affected chilli plant's foliage appears to have a rougher texture compared to healthy plants, with leaves that feel slightly leathery to the touch.",
+  "The veins on the leaves become more prominent and twisted, creating a complex network that is visually striking.",
+  "By the later stages, the leaves may curl upwards and downwards, giving the plant a contorted, almost wilted look despite its overall robust structure."
+ ],
+ "chilli|mites": [
+  "The leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The stems show thin, elongated lesions that run along their length.",
+  "The fruit develops a network of fine, web-like patterns across its surface.",
+  "The affected areas have a rougher texture compared to healthy parts of the plant.",
+  "Lesions appear as small, raised bumps on the underside of the leaves.",
+  "The overall plant has a drooping posture due to the stress from the mite infestation."
+ ],
+ "chilli|nitrogen deficiency": [
+  "The leaves appear pale green with a yellowish tint, indicating nutrient stress.",
+  "The edges of the leaves curl slightly inward, showing signs of dehydration.",
+  "The surface of the leaves has a rougher texture than healthy plants, with visible veins.",
+  "Small, scattered spots can be seen on the leaves, suggesting early stages of nutrient depletion.",
+  "The stems are thinner and lighter in color compared to unaffected plants.",
+  "The overall growth appears stunted, with fewer flowers and smaller fruit developing."
+ ],
+ "chilli|thrips": [
+  "The leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The stems show thin, elongated lesions that run along their length.",
+  "The fruit surface is covered with tiny, white specks that give it a dusty look.",
+  "The plant's foliage has a slightly curled appearance due to the stress from the infestation.",
+  "The affected areas on the leaves have a rough texture compared to healthy parts.",
+  "The overall plant health appears stunted, with fewer flowers and smaller fruits than usual."
+ ],
+ "citrus|canker": [
+  "The citrus tree trunk displays a prominent, irregularly shaped lesion with a rough, cracked surface.",
+  "A close-up reveals numerous small, circular spots on the leaf underside, forming a dense pattern.",
+  "The fruit's rind shows a series of elongated, raised ridges that create a bumpy texture.",
+  "The branch has a large, sunken area surrounded by a reddish-brown ring, indicating active infection.",
+  "The leaves exhibit a mottled appearance with patches of yellowing and wilting, concentrated near the lesion.",
+  "The affected branches have a discolored, purplish hue, contrasting sharply with the healthy green surrounding tissue."
+ ],
+ "citrus|citrus canker": [
+  "The leaves show small, raised, yellowish-orange spots that eventually turn brown and black.",
+  "The bark on the trunk displays elongated, sunken lesions with a reddish margin.",
+  "The fruit has irregularly shaped, sunken lesions that are initially pale yellow but darken to brown over time.",
+  "The branches exhibit numerous, scattered lesions that are circular and slightly raised, with a rough texture.",
+  "The leaves have a mottled appearance with patches of discoloration that vary in size and shape.",
+  "The trunk shows long, linear lesions that are deep red at the edges and gradually fade into the bark."
+ ],
+ "citrus|citrus psyllid": [
+  "The leaves show small, yellowish-green spots that appear scattered across their surface.",
+  "The fruit develops small, raised bumps that give it a bumpy texture.",
+  "The twigs exhibit a mottled appearance with patches of discoloration.",
+  "The leaves have a crinkled texture due to the presence of the pest.",
+  "The fruit may develop a rough, uneven surface as the disease progresses.",
+  "The overall plant appears stunted and less vibrant compared to healthy plants."
+ ],
+ "citrus|greening disease": [
+  "The leaves appear yellowish-green with a mottled pattern, indicating early signs of stress.",
+  "The fruit develops small, brown spots that spread over time, affecting its overall appearance.",
+  "The bark on the trunk shows a network of cracks and peeling, revealing underlying damage.",
+  "The leaves have a rough texture, with some areas appearing scorched and curled.",
+  "The fruit becomes misshapen as it ripens, with a bumpy surface and reduced size.",
+  "The leaves develop a distinct yellowing from the tips, progressing towards the center of the leaf."
+ ],
+ "citrus|leaf miner": [
+  "The leaves exhibit a mottled appearance with small, irregularly shaped spots scattered across their surface.",
+  "The texture of the leaves becomes rougher as the leaf miner infestation progresses.",
+  "A network of fine lines can be seen beneath the leaf surface, indicating the feeding activity of the larvae.",
+  "The affected leaves may curl upwards, creating a distinctive cupped shape.",
+  "The number of lesions increases over time, covering larger areas of the leaf surface.",
+  "The veins of the leaves appear more prominent due to the leaf miner's feeding habits."
+ ],
+ "citrus|scale insects": [
+  "The citrus tree's leaves are covered with small, white, waxy bumps that give them a rough, uneven texture.",
+  "Close-up shots reveal the intricate, lace-like patterns formed by the overlapping scales on the underside of the leaves.",
+  "The fruit is dotted with numerous small, raised spots that disrupt the smooth surface, making it appear bumpy to the touch.",
+  "In the early stages, the affected branches have a few scattered, pale patches that gradually spread over time.",
+  "As the infestation worsens, the entire canopy appears discolored, with yellowing leaves and a general decline in vitality.",
+  "By late summer, the citrus tree's trunk shows signs of girdling, with darkened rings around the bark indicating severe damage."
+ ],
+ "coffee|berry blotch": [
+  "The coffee berries display a mottled pattern with dark brown spots scattered across their surface.",
+  "The affected leaves show irregularly shaped lesions that are slightly raised and have a rough texture.",
+  "The diseased fruit has a patchy appearance with numerous small, circular lesions that are slightly sunken into the skin.",
+  "The infected stems exhibit elongated, linear lesions that run along their length, appearing as narrow stripes.",
+  "The affected coffee plant's foliage shows a general decline in health, with leaves turning yellow and drooping prematurely.",
+  "The overall appearance of the plant is stunted, with smaller, fewer berries and leaves that are visibly weakened by the disease."
+ ],
+ "coffee|black rot": [
+  "The leaves exhibit dark, irregularly shaped spots that spread across their surface, creating a mottled appearance.",
+  "The stems develop elongated, dark brown lesions that run along their length, giving them a rough texture.",
+  "The fruit shows large, sunken lesions with a purplish hue, contrasting sharply against the healthy green skin.",
+  "The roots display a network of fine, dark threads that have become discolored and brittle.",
+  "The trunk of the plant develops a series of deep, circular scars that disrupt its smooth, bark-like texture.",
+  "The overall plant appears stunted and wilting, with a general decline in vitality as the disease progresses."
+ ],
+ "coffee|brown eye spot": [
+  "The coffee plant's leaves display scattered brown spots that appear as small, circular patches against the green background.",
+  "The affected leaves show a network of fine, web-like lines radiating from each lesion, creating a distinctive pattern.",
+  "The texture of the leaves becomes rougher around the edges of the brown spots, indicating tissue damage.",
+  "Lesions on the coffee plant's leaves vary in size, with some being small and others larger, forming a patchy distribution across the foliage.",
+  "In the early stages, the brown spots are few and isolated, but as the disease progresses, they multiply and merge into larger areas of discoloration.",
+  "The affected coffee plant's leaves exhibit a mottled appearance due to the irregular distribution and varying sizes of the brown spots."
+ ],
+ "coffee|leaf rust": [
+  "The leaves display a bright orange-red coloration, contrasting sharply with the green background.",
+  "Small, circular spots appear on the underside of the leaves, slightly raised and bumpy to the touch.",
+  "The affected areas have a distinct, irregular pattern, with lesions clustering together in patches.",
+  "The veins of the leaves are often more severely affected, with lesions appearing as elongated streaks along them.",
+  "As the disease progresses, the lesions may coalesce into larger, irregularly shaped areas on the leaf surface.",
+  "In advanced stages, the leaves may develop a mottled appearance, with a mix of healthy and diseased tissue visible."
+ ],
+ "coriander|powdery mildew": [
+  "The leaves exhibit a white, powdery coating that contrasts sharply with the green foliage.",
+  "Small, circular patches of white powder appear on the undersides of the leaves.",
+  "The texture of the affected areas feels rough to the touch due to the accumulation of the powdery substance.",
+  "Lesions are scattered across the leaf surface, creating a mottled appearance.",
+  "The edges of the leaves may curl slightly as the disease progresses.",
+  "As the infection spreads, the overall plant appears stunted and less vibrant in color."
+ ],
+ "corn|gray leaf spot": [
+  "The corn leaves display a\u7f51\u7edc\u72b6\u7684\u7070\u8272\u6591\u70b9\uff0c\u5206\u6563\u5728\u6574\u4e2a\u53f6\u7247\u4e0a\u3002",
+  "The edges of the leaves show a slight curling, indicating stress from the disease.",
+  "The affected areas have a rough texture compared to healthy parts of the leaf.",
+  "Lesions appear as irregularly shaped spots, varying in size across the leaf surface.",
+  "The disease causes a significant reduction in leaf area, affecting the overall plant health.",
+  "As the disease progresses, the affected leaves may turn yellow and eventually fall off the plant."
+ ],
+ "corn|northern leaf blight": [
+  "The corn leaves display a distinct, irregular brownish-purple discoloration.",
+  "Lesions on the corn leaves appear elongated and may merge into larger patches.",
+  "The texture of the affected leaves becomes rough and leathery to the touch.",
+  "The pattern of lesions is scattered across the leaf surface, with some areas more heavily infected than others.",
+  "Corn plants at early stages show only a few small, scattered lesions on the lower leaves.",
+  "As the disease progresses, the upper leaves develop numerous, larger lesions that cover significant portions of the leaf blade."
+ ],
+ "corn|rust": [
+  "The corn leaves display a network of reddish-brown spots that spread across their surface, creating a mottled appearance.",
+  "The stalks exhibit elongated, elongated, reddish-brown streaks that run along their length, giving them a rough texture.",
+  "The ears of corn are covered with small, raised, orange-brown pustules that cluster together, forming a dense, bumpy layer.",
+  "The husks have a patchy, discolored appearance with areas of yellowing and brown discoloration, indicating damage to the underlying tissue.",
+  "The corn plants show a significant reduction in leaf area, with many leaves appearing curled and shriveled due to the disease pressure.",
+  "The overall plant structure appears stunted, with shorter, thinner leaves and a generally weaker appearance compared to healthy plants."
+ ],
+ "corn|smut": [
+  "The corn plant displays dark, irregularly shaped spots on its leaves, appearing as small, raised bumps that contrast sharply with the surrounding green foliage.",
+  "In the early stages, the corn stalks exhibit thin, elongated streaks along their length, which gradually expand into larger, darker patches as the disease progresses.",
+  "As the disease advances, the kernels of the corn cobs develop thick, dark, fuzzy growths that cover the entire surface, giving them a velvety appearance.",
+  "The ears of corn show a dense, black, powdery coating over the kernels, obscuring their natural color and texture.",
+  "The husks of the corn plants become tightly wrapped around the ears, with a mottled, darkened appearance due to the smut infection.",
+  "By the final stage, the entire cob is enveloped in a thick, dark, almost black, fungal mass that completely covers the kernels, making them unrecognizable."
+ ],
+ "cotton|aphids": [
+  "The cotton plant's leaves appear mottled with small, dark spots scattered across their surface.",
+  "Aphid-infested cotton plants show a dense cluster of tiny, pale green growths on the undersides of leaves.",
+  "The cotton bolls develop a rough, uneven texture due to the presence of aphids.",
+  "Leaves exhibit a yellowish tint as aphid feeding causes chlorosis.",
+  "The cotton plant's stems develop a thin, waxy coating where aphids have been feeding.",
+  "The cotton plant's overall appearance is stunted, with fewer and smaller flowers than healthy plants."
+ ],
+ "cotton|bollworm": [
+  "The cotton plant's leaves show small, irregularly shaped brown spots scattered across their surface.",
+  "The cotton bolls are covered with a fine\u7f51\u7edc-like pattern of tiny holes.",
+  "The stems exhibit a mottled appearance with patches of lighter and darker green.",
+  "The plant's foliage appears wilted and drooping, with some leaves curling at the edges.",
+  "The cotton plant has a few large, discolored areas on its lower leaves, indicating significant damage.",
+  "The overall appearance is one of a stressed plant with visible signs of damage to various parts."
+ ],
+ "cotton|jassids": [
+  "The leaves exhibit a mottled appearance with small, scattered spots that vary in size and coloration.",
+  "The stems show a network of fine lines and discoloration, particularly near the base where new growth is emerging.",
+  "The bolls appear shriveled and deformed, with a rough texture that contrasts sharply with healthy ones.",
+  "The overall plant has a stunted look, with fewer flowers and less lush foliage than unaffected plants.",
+  "The leaves have a crinkled texture, with edges curling inward, indicating stress from the pest activity.",
+  "The plant's growth is visibly impaired, with a sparse canopy and reduced leaf area compared to healthy cotton."
+ ],
+ "cowpea|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested plants have a drooping posture due to the weight of the insects.",
+  "The stems appear slightly swollen at points where aphids are feeding.",
+  "The pods develop a rough texture as aphids feed on the developing seeds inside.",
+  "Leaves near the base of the plant show signs of wilting, indicating stress from aphid activity.",
+  "The overall plant has a sparse, unhealthy look compared to healthy plants nearby."
+ ],
+ "cowpea|leaf hopper": [
+  "The leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The edges of the leaves curl slightly, giving them a puckered look.",
+  "The surface of the leaves appears rougher than usual, with tiny bumps visible under magnification.",
+  "The veins on the underside of the leaves are more pronounced and darker in color.",
+  "The affected leaves have a reduced number of veins compared to healthy leaves.",
+  "The overall size of the leaves seems smaller than normal, with some leaves appearing stunted."
+ ],
+ "cowpea|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance across the foliage.",
+  "Veins on the leaves appear swollen and discolored, with a purplish hue that contrasts sharply with the surrounding green.",
+  "The plant's growth is stunted, with smaller, less robust leaves compared to healthy plants of the same age.",
+  "The texture of the leaves becomes rougher as the mosaic virus progresses, with visible puckering and distortion.",
+  "Lesions are scattered across the leaf surface, forming irregular spots that vary in size and intensity.",
+  "The stems exhibit a lighter coloration, with some areas appearing pale and weak, indicating compromised health."
+ ],
+ "cucumber|angular leaf spot": [
+  "The leaves display irregular brown spots with a reddish margin, contrasting sharply against the green background.",
+  "Lesions on the stems appear as elongated, sunken areas with a rough texture, often surrounded by a yellow halo.",
+  "The fruit shows small, raised, circular lesions that are initially pale but darken to brown over time.",
+  "The affected leaves have a mottled appearance with scattered lesions that vary in size and shape, creating a patchy look.",
+  "The plant's foliage is stunted, with leaves curling and drooping due to the stress from the disease.",
+  "As the infection progresses, the lesions coalesce into larger, irregular patches, covering significant portions of the leaf surface."
+ ],
+ "cucumber|bacterial wilt": [
+  "The leaves exhibit a mottled yellowing that spreads across the entire surface.",
+  "The stems appear to have a water-soaked appearance with a slimy texture.",
+  "The fruit develops dark brown lesions that are irregularly shaped and scattered.",
+  "The plant's overall growth is stunted, with a drooping posture.",
+  "The veins on the leaves become more prominent as the disease progresses.",
+  "The affected areas show a distinct contrast between healthy green tissue and diseased brown patches."
+ ],
+ "cucumber|downy mildew": [
+  "The leaves display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The stems exhibit a rough, scaly texture with small, raised bumps along their length.",
+  "The fruit surface is covered with a dense, white, cotton-like growth that obscures the green skin beneath.",
+  "The underside of the leaves shows a dense, grayish-white downy covering that contrasts sharply with the healthy green above.",
+  "The affected areas on the leaves have a distinct, irregular shape, often merging into larger patches.",
+  "The overall appearance of the plant is stunted, with smaller, less vibrant leaves and a generally drooping posture."
+ ],
+ "cucumber|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a mottled appearance with patches of discolored tissue.",
+  "The fruit surface is covered with a dense layer of white, fluffy growth.",
+  "The affected areas on the leaves have a distinct, irregular pattern of lesions.",
+  "The plant's overall health appears compromised, with some leaves curling and drooping.",
+  "The disease has spread to multiple parts of the plant, including the lower leaves and stems."
+ ],
+ "cucumber|squash bug": [
+  "The cucumber leaves show dark brown spots scattered across their surface.",
+  "The stems exhibit a mottled appearance with patches of discoloration.",
+  "The fruit has a rough texture with raised bumps where the bug has fed.",
+  "The affected areas on the leaves have a distinct circular pattern.",
+  "The plant's growth is stunted, with fewer leaves than healthy plants.",
+  "The overall color of the plant appears duller compared to unaffected ones."
+ ],
+ "custard apple|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The fruit surface is covered with small, circular spots that appear as light patches against the dark skin.",
+  "The stems exhibit a network of fine, white filaments that give them a fuzzy appearance.",
+  "The affected areas on the leaves have a distinct, powdery texture that feels rough to the touch.",
+  "The disease causes the leaves to curl slightly at the edges, creating a distorted shape.",
+  "The fruit develops numerous small, raised bumps that are scattered across its surface."
+ ],
+ "eggplant|cercospora leaf spot": [
+  "The leaves display small, circular spots that are dark brown to black in color.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface.",
+  "The texture of the affected leaves becomes rough and leathery over time.",
+  "The spots are scattered across the leaf, with some concentration near the veins.",
+  "As the disease progresses, the spots coalesce into larger patches.",
+  "The affected leaves may curl and droop due to the stress caused by the disease."
+ ],
+ "eggplant|phomopsis fruit rot": [
+  "The eggplant fruit is covered with small, dark brown spots that spread across its surface, giving it a mottled appearance.",
+  "The affected area on the fruit shows a rough texture with raised, irregular bumps that contrast sharply with the smooth skin around them.",
+  "A close-up reveals a network of fine cracks radiating from the center of each lesion, creating a web-like pattern.",
+  "The lesions on the fruit vary in size but are predominantly small, scattered across the surface, and do not merge into larger patches.",
+  "The infected portion of the fruit appears shriveled and discolored, with a duller hue compared to healthy areas.",
+  "As the disease progresses, the affected fruit develops a sunken, sunken appearance, with the skin becoming wrinkled and cracked."
+ ],
+ "eggplant|phytophthora blight": [
+  "The leaves show dark brown spots that spread into irregular patches.",
+  "The stems develop a slimy, dark discoloration along their length.",
+  "The fruit surface becomes covered with small, raised bumps that eventually turn black.",
+  "The affected areas have a water-soaked appearance, especially on younger tissues.",
+  "Lesions on the roots appear as dark, elongated areas that can girdle the root.",
+  "The overall plant appears wilted and droopy, with a generally unhealthy look."
+ ],
+ "garlic|leaf blight": [
+  "The garlic leaves display a mottled appearance with patches of yellow and brown discoloration.",
+  "The edges of the leaves curl upwards, forming a distinctive cupping shape.",
+  "The surface of the leaves appears rough and leathery to the touch.",
+  "There is a distinct pattern of irregularly shaped spots scattered across the leaf surface.",
+  "The number of lesions varies from leaf to leaf, some showing more than others.",
+  "The lower leaves are more severely affected compared to the upper ones."
+ ],
+ "garlic|rust": [
+  "The garlic leaves display elongated, orange-brown spots that are slightly raised from the surface.",
+  "The outer bulb skin is covered with small, circular, yellowish-orange patches that appear to be clustered together.",
+  "The garlic scape shows a network of fine, reddish-brown lines that crisscross its surface.",
+  "The garlic bulbs have numerous small, round, brownish lesions scattered across their papery outer layers.",
+  "The garlic leaves at the base of the plant exhibit a dense cluster of small, bright orange spots that are closely packed together.",
+  "The garlic roots develop a network of thin, reddish-brown threads that spread out from the main root mass."
+ ],
+ "garlic|thrips": [
+  "The garlic leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The garlic bulbs have a rough texture with numerous tiny punctures visible upon close inspection.",
+  "The garlic flowers show a pattern of light and dark stripes, indicating damage from feeding.",
+  "The garlic stems develop a network of fine lines, suggesting the presence of insect activity.",
+  "The garlic leaves curl upwards at the tips, forming a characteristic \"thrips\" deformity.",
+  "The garlic bulbs develop a powdery coating, likely due to the accumulation of insect debris."
+ ],
+ "garlic|white rot": [
+  "The garlic bulb appears shriveled and discolored with patches of white and brown, indicating decay.",
+  "The outer leaves of the garlic plant are curled and yellowing, showing signs of stress.",
+  "The garlic cloves are mottled with dark spots, suggesting internal damage.",
+  "The roots of the garlic plant are covered in a\u7f51\u7edc of fine, white mycelium threads.",
+  "The garlic plant has multiple small, circular lesions scattered across its surface.",
+  "The affected garlic plant shows a significant reduction in size compared to healthy plants."
+ ],
+ "ginger|leaf spot": [
+  "The affected ginger plant displays small, circular spots on its leaves that are dark brown with a reddish margin.",
+  "The lesions appear as raised, slightly sunken areas on the leaf surface, giving them a rough texture.",
+  "The pattern of the lesions is scattered across the leaf, with some leaves having more concentrated spots than others.",
+  "Some leaves show a progression from small, isolated spots to larger, coalescing lesions.",
+  "The affected plant has a few leaves that are beginning to wilt and curl due to the stress caused by the leaf spots.",
+  "The overall appearance of the plant suggests it is under stress, with some leaves showing signs of necrosis at the edges."
+ ],
+ "ginger|sheath blight": [
+  "The lower leaves exhibit a mottled appearance with brown spots scattered across their surface.",
+  "The sheath of the ginger plant shows a\u7f51\u7edc\u72b6\u7684pattern of small, raised lesions.",
+  "The affected ginger plant has a drooping posture due to the weight of the diseased sheaths.",
+  "The outer layer of the rhizome is covered with a fine, powdery white substance.",
+  "The affected leaves have a curled, distorted shape, making them appear unhealthy.",
+  "The base of the plant's stem is swollen and discolored, indicating the spread of the disease."
+ ],
+ "gram|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "Small, circular spots appear on the upper surface of the leaves, becoming more numerous as the infection progresses.",
+  "The texture of the affected areas becomes rougher, with a distinct powdery appearance under magnification.",
+  "Lesions start as small, discrete spots but coalesce into larger patches as the disease spreads.",
+  "The underside of the leaves shows a dense, white growth that is more pronounced near the leaf veins.",
+  "As the disease advances, the affected parts of the plant may curl or wilt due to the stress caused by the infection."
+ ],
+ "gram|scale insects": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "The stems are covered in a dense, waxy coating that gives them a rough texture.",
+  "The plant's flowers have a duller color than healthy blooms, with a slight discoloration around the edges.",
+  "The pods develop a distorted shape, often appearing twisted or curled.",
+  "The overall plant has a stunted growth habit, with fewer and smaller leaves than usual.",
+  "The affected areas show a significant reduction in leaf size and a yellowing of the foliage."
+ ],
+ "gram|whiteflies": [
+  "The leaves exhibit a mottled appearance with small, pale spots scattered across their surface.",
+  "The stems show a network of fine, silvery lines that crisscross the bark.",
+  "The flowers have a duller coloration than healthy blooms, with a slight yellowing at the edges.",
+  "The pods develop a rough texture as they mature, with visible bumps and swellings.",
+  "The overall plant has a stunted growth habit, with smaller leaves and fewer flowers.",
+  "The affected areas on the plant are concentrated primarily on the lower parts of the stems and older leaves."
+ ],
+ "grape|black rot": [
+  "The leaves show dark brown spots with a reddish margin, appearing scattered across the foliage.",
+  "The fruit develops large, irregularly shaped lesions that are initially light brown but darken to black as they mature.",
+  "The bark of the trunk displays deep, elongated cracks that run vertically along its surface.",
+  "The berries exhibit a mottled appearance with patches of dark purple and green, indicating internal rot.",
+  "The stems have a rough texture with raised, corky areas where the disease has progressed.",
+  "The overall plant appears stunted and wilting, with a general decline in health and vigor."
+ ],
+ "grape|downy mildew": [
+  "The leaves display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The stems exhibit a rough, scaly texture with small, raised bumps that are often clustered together.",
+  "The clusters of grapes show a mottled appearance with patches of green and white, indicating uneven ripening.",
+  "The affected leaves have a curled, distorted shape, with edges that are slightly frayed and discolored.",
+  "The fruit surface is covered with a fine, powdery white substance that contrasts sharply with the healthy green skin.",
+  "The overall plant appears stunted and drooping, with a general decline in vitality and vigor."
+ ],
+ "grape|leaf spot": [
+  "The leaves display small, circular spots that are initially light green before turning brown and necrotic.",
+  "Lesions appear as raised, slightly sunken areas with a distinct border around each spot.",
+  "The texture of the affected leaves becomes rough and leathery to the touch.",
+  "The pattern of lesions is scattered across the leaf surface, often clustered near veins.",
+  "As the disease progresses, the number of lesions increases, covering more of the leaf surface.",
+  "In advanced stages, the entire leaf may turn yellow and drop prematurely from the plant."
+ ],
+ "grape|leafroll disease": [
+  "The leaves exhibit a mottled appearance with patches of yellow and green, creating a variegated look.",
+  "The veins on the leaves appear darker than usual, giving them a more pronounced network pattern.",
+  "The texture of the leaves becomes rougher as the disease progresses, with visible bumps and ridges.",
+  "Lesions on the leaves vary in size and shape, some circular while others are elongated, scattered across the foliage.",
+  "The affected leaves may curl upwards at the edges, altering their typical flat shape.",
+  "As the disease advances, the number of lesions increases, covering larger areas of the leaf surface."
+ ],
+ "groundnut|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested plants have a drooping posture due to the weight of the insects.",
+  "The stems appear slightly swollen at points where aphids have clustered.",
+  "The pods develop a rough texture as aphids feed on them, creating a bumpy surface.",
+  "Leaves near the base of the plant show signs of yellowing, indicating stress from aphid feeding.",
+  "The overall plant has a sparse, unhealthy look, with fewer flowers and smaller, less vibrant leaves."
+ ],
+ "groundnut|collar rot": [
+  "The stem base appears dark brown with a rough, cracked texture, indicating early-stage infection.",
+  "A circular lesion is visible on the leaf petiole, with a lighter, almost white margin surrounding the dark center.",
+  "Multiple elongated lesions are present along the main stem, creating a mottled appearance that spreads upwards.",
+  "The leaf blades show irregularly shaped spots, with some leaves having a yellowish tinge due to nutrient deficiency.",
+  "The root system exhibits a network of fine, white mycelial growth, spreading out from the base of the plant.",
+  "As the disease progresses, the entire plant takes on a wilted appearance, with drooping leaves and stems that are difficult to support."
+ ],
+ "groundnut|leaf miner": [
+  "The leaves exhibit a mottled appearance with small, irregularly shaped brown spots scattered across their surface.",
+  "The veins of the leaves are visibly distorted, with some areas appearing puckered and curled.",
+  "The texture of the affected leaves is rougher than healthy ones, with a noticeable increase in the presence of tiny, raised bumps.",
+  "The pattern of the lesions is patchy and uneven, with some areas showing more concentrated damage than others.",
+  "The number of lesions varies from leaf to leaf, but generally, there are numerous small spots covering the leaf surfaces.",
+  "In some photographs, the affected leaves appear to have a lighter green coloration compared to the surrounding healthy foliage."
+ ],
+ "groundnut|leaf spot": [
+  "The leaves display small, circular spots that are initially pale green before turning brown.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, giving them a rough texture.",
+  "The spots are scattered across the leaf, with some clusters forming along veins.",
+  "As the disease progresses, the spots coalesce into larger patches, creating a mottled appearance.",
+  "The affected leaves may curl or droop due to the weight of the lesions.",
+  "In severe cases, the entire leaf can turn yellow and fall off the plant prematurely."
+ ],
+ "guava|bark eating caterpillar": [
+  "The guava tree trunk shows deep, irregular grooves where the caterpillars have eaten away at the bark, revealing the lighter wood beneath.",
+  "The branches exhibit numerous small, circular holes where the caterpillars have burrowed into the wood, creating a mottled appearance.",
+  "The leaves appear slightly curled and discolored, with some showing signs of wilting due to reduced photosynthesis.",
+  "The fruit has a rougher texture than usual, with patches of brown discoloration where the caterpillars have damaged the skin.",
+  "The affected areas on the trunk and branches have a scaly, peeling texture, exposing the inner layers of the bark.",
+  "The overall appearance is one of a tree that has been heavily defoliated and is struggling to maintain its health, with visible signs of damage throughout the plant."
+ ],
+ "guava|fruit fly": [
+  "The guava fruit is covered with small, dark spots that appear as tiny pinpricks across its surface.",
+  "The skin of the guava has a rough, bumpy texture due to the fruit fly infestation.",
+  "The affected guava shows a mottled pattern where the fruit fly larvae have burrowed into the flesh, creating irregular patches.",
+  "The guava's flesh appears discolored around the lesions, with some areas turning a dull yellow or brown.",
+  "The fruit fly damage results in numerous small, scattered lesions on the guava, making it look uneven and unappealing.",
+  "As the infestation progresses, the guava develops more pronounced lesions, giving it a spotted appearance that can be quite extensive."
+ ],
+ "guava|mealybugs": [
+  "The guava tree's leaves are covered with small, white, cotton-like patches that give them a fuzzy appearance.",
+  "Clusters of tiny, pale pink flowers are dotted across the branches, their delicate petals tinged with a soft blush.",
+  "The fruit's skin is marred by irregular, raised bumps that disrupt its smooth, green surface.",
+  "The trunk of the tree shows a network of fine, white lines crisscrossing its bark, creating a lace-like pattern.",
+  "The guava's leaves are speckled with numerous small, white spots that stand out against the vibrant green.",
+  "The branches are adorned with dense, fluffy tufts of white, giving the plant a bushy, overgrown look."
+ ],
+ "guava|phosphorus deficiency": [
+  "The leaves appear pale green with a yellowish tint, indicating nutrient stress.",
+  "The edges of the leaves curl slightly inward, showing signs of dehydration.",
+  "The surface of the leaves has a rougher texture than healthy plants, with visible veins.",
+  "Small, scattered spots can be seen on the fruit, which may develop into larger blemishes.",
+  "The stems have a thinner appearance compared to unaffected plants.",
+  "The overall growth of the plant is stunted, with fewer flowers and smaller fruits."
+ ],
+ "guava|rust": [
+  "The guava leaves display a network of fine, reddish-brown lines that crisscross the surface, creating a mottled appearance.",
+  "Small, circular spots appear on the fruit's skin, initially pale yellow but quickly turning brown as they expand.",
+  "The bark of the trunk shows raised, irregular bumps that are slightly rough to the touch.",
+  "The guava flowers have a few scattered, small, dark spots on their petals, making them look slightly discolored.",
+  "The guava leaves develop elongated, elongated lesions that run parallel to the veins, giving them a striped look.",
+  "The fruit's flesh develops a patchy discoloration under the skin, with some areas appearing darker than others."
+ ],
+ "kidney bean|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested stems show a slight wilting, with a few drooping leaves.",
+  "The pods develop a rough texture due to the presence of aphid colonies.",
+  "The affected plant has a reduced leaf canopy, with some leaves curling under.",
+  "The roots appear discolored and shriveled, indicating stress from aphid feeding.",
+  "The overall plant stature is stunted compared to healthy plants, with fewer flowers visible."
+ ],
+ "kidney bean|cutworms": [
+  "The leaves exhibit a mottled appearance with irregular brown spots scattered across their surface.",
+  "The stems show a series of small, circular indentations along their length.",
+  "The pods have a rough texture with visible punctures that disrupt their smooth contour.",
+  "The roots appear discolored with patches of discoloration spreading from the main root.",
+  "The plant's overall growth is stunted, with fewer leaves and smaller than usual size.",
+  "The affected areas on the plant are concentrated around the base, where the cutworms typically feed."
+ ],
+ "lemon|leaf miner": [
+  "The leaves exhibit a mottled appearance with small, irregular brown spots scattered across their surface.",
+  "The edges of the leaves curl inward, creating a distinctive frilled look.",
+  "The texture of the leaves becomes rougher as the leaf miner infestation progresses.",
+  "A network of fine lines can be seen beneath the leaf surface, indicating the feeding activity of the larvae.",
+  "The number of lesions increases over time, covering more of the leaf surface.",
+  "The affected leaves may develop a yellowish tint due to the stress caused by the leaf miner activity."
+ ],
+ "lettuce|downy mildew": [
+  "The leaves exhibit a pale yellowish-green discoloration, with a distinct pattern of small, irregular spots scattered across their surface.",
+  "The affected lettuce leaves develop a velvety texture, with a white, powdery coating that becomes more prominent as the disease progresses.",
+  "The veins on the underside of the leaves turn a deep purple, contrasting sharply with the surrounding green tissue.",
+  "As the infection spreads, the leaves develop a mottled appearance, with patches of healthy green interspersed with areas of discolored tissue.",
+  "The edges of the leaves curl inward, creating a ruffled appearance, while the center of the leaf remains relatively unaffected.",
+  "In severe cases, the entire leaf may wilt and droop, with the affected area becoming increasingly necrotic and brown."
+ ],
+ "lettuce|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance across the surface.",
+  "Veins on the lettuce leaves appear swollen and discolored, with a purplish hue that contrasts sharply with the surrounding leaf tissue.",
+  "The edges of the lettuce leaves curl upwards, forming a ruffled texture that is more pronounced at the tips.",
+  "Lesions on the lettuce leaves vary in size, with some appearing as small spots while others form larger, irregular patches.",
+  "The underside of the lettuce leaves shows a network of fine, white veins that are more prominent than usual, giving the leaf a slightly rougher texture.",
+  "As the disease progresses, the lettuce plants may develop a stunted growth habit, with smaller, less vibrant leaves compared to healthy plants."
+ ],
+ "maize|banded leaf and sheath blight": [
+  "The leaves exhibit a distinctive banding pattern with alternating healthy and diseased sections.",
+  "The sheaths show a mottled appearance with irregular patches of discoloration.",
+  "Lesions on the leaves appear as elongated streaks running parallel to the leaf veins.",
+  "The affected areas on the sheaths have a rough texture compared to the surrounding healthy tissue.",
+  "The number of lesions varies across the plant, with some leaves having more than others.",
+  "Some plants display a mix of early and late-stage lesions, showing both fresh and dried-out spots."
+ ],
+ "maize|downy mildew": [
+  "The leaves exhibit a pale yellow discoloration with a velvety texture.",
+  "Small, irregularly shaped spots appear on the upper surface of the leaves.",
+  "The lesions have a distinct white powdery appearance on the underside of the leaves.",
+  "The affected areas form a network-like pattern across the leaf surface.",
+  "The disease causes the leaves to curl and droop significantly.",
+  "As the infection progresses, the leaves may develop a bluish tinge."
+ ],
+ "maize|fall armyworm": [
+  "The leaves exhibit a mottled appearance with patches of green and brown, indicating early infestation.",
+  "The edges of the leaves curl inward, forming a distinctive \"folding\" pattern as the larvae feed.",
+  "Small, irregularly shaped holes punctuate the leaf surface, creating a speckled texture.",
+  "The veins on the leaves appear more prominent due to the feeding pressure from the larvae.",
+  "The affected areas on the leaves have a rough, uneven texture where the larvae have been feeding.",
+  "The lower leaves show signs of wilting and browning, suggesting the progression of the damage."
+ ],
+ "maize|nitrogen deficiency": [
+  "The leaves exhibit a pale green coloration, contrasting sharply with the healthy dark green areas.",
+  "The edges of the leaves curl inward, giving them a cupped appearance.",
+  "The surface of the leaves appears rougher than usual, with visible veins standing out more prominently.",
+  "Small, scattered brown spots can be seen on the leaf surfaces, indicating early signs of stress.",
+  "The lower leaves show more pronounced symptoms, with larger areas turning yellow and drooping.",
+  "As the deficiency progresses, the entire plant may appear stunted, with fewer and smaller leaves."
+ ],
+ "maize|stem borer": [
+  "The maize plant shows dark brown, elongated lesions on its stems, indicating damage from borers.",
+  "The leaves exhibit a mottled appearance with patches of yellowing and wilting, suggesting stress.",
+  "The stalks have a rough texture with visible entry points where the borers have burrowed through.",
+  "The affected areas display a distinct pattern of irregular, elongated spots along the length of the stems.",
+  "The plant appears stunted overall, with fewer leaves and a generally drooping posture.",
+  "The base of the plant shows signs of decay, with a discolored ring around the soil line."
+ ],
+ "maize|turcicum leaf blight": [
+  "The leaves exhibit a mottled appearance with scattered brown spots.",
+  "Lesions on the leaves are irregularly shaped and have a rough texture.",
+  "The affected areas show a distinct pattern of small, circular spots.",
+  "There is a noticeable increase in the number of lesions as the plant matures.",
+  "The lower leaves are more severely affected than the upper ones.",
+  "The overall appearance suggests a gradual progression of the disease from initial spotting to extensive leaf damage."
+ ],
+ "mango|anthracnose": [
+  "The mango fruit displays numerous small, dark spots that appear as tiny black dots against the smooth, green skin.",
+  "The leaves show elongated, irregularly shaped lesions with a slightly raised, rough texture.",
+  "The stem exhibits a series of elongated, purplish-brown streaks that run parallel to its length.",
+  "The fruit's surface is marred by scattered, circular patches that have a velvety texture and a darker center.",
+  "The leaf veins are visibly distorted, with some parts appearing necrotic and turning brown.",
+  "The mango tree's canopy shows a patchy distribution of affected leaves, with some areas appearing more severely impacted than others."
+ ],
+ "mango|bacterial canker": [
+  "The mango tree's trunk displays a network of dark, sunken lesions that contrast sharply with the surrounding light brown bark.",
+  "Close-up shots reveal the rough, cracked texture of the bark around the lesions, giving them a rugged appearance.",
+  "The leaves show small, circular spots that are initially pale green but turn brown as they develop, creating a mottled pattern across the foliage.",
+  "In the early stages, the fruit develops small, raised bumps that later become sunken and darkened, affecting the skin's smoothness.",
+  "As the disease progresses, the branches exhibit a series of elongated, irregular lesions that run along their length, disrupting the natural flow of sap.",
+  "The affected areas on the mango fruits have a distinct, raised, and slightly pitted texture, making them appear uneven compared to healthy ones."
+ ],
+ "mango|boron deficiency": [
+  "The mango leaves exhibit a mottled appearance with patches of yellow and green, indicating uneven chlorophyll distribution.",
+  "The fruit surface shows small, scattered brown spots that become more prominent as the mango ripens.",
+  "The leaf edges curl inward, giving them a scorched look, especially noticeable on older leaves.",
+  "The bark of the trunk appears rougher than usual, with a slightly discolored texture.",
+  "The flowers have a reduced number of petals and stamens, with some petals appearing shriveled.",
+  "The overall plant growth is stunted, with fewer and smaller leaves compared to healthy plants."
+ ],
+ "mango|mango hopper": [
+  "The mango leaves show small, irregularly shaped spots that are initially light green before turning brown and necrotic.",
+  "The fruit surface displays a network of fine, silvery-white lines that become more pronounced as the disease progresses.",
+  "The affected branches exhibit a mottled appearance with patches of discolored tissue, particularly noticeable on the bark.",
+  "The leaves develop a crinkled texture, with edges curling inward due to the stress caused by the disease.",
+  "The fruit develops a scab-like texture with raised, rough patches that can be seen clearly under magnification.",
+  "The overall plant appears stunted and weak, with a general decline in vigor and health."
+ ],
+ "mango|mealybugs": [
+  "The mango leaves show small, white, cotton-like patches that cover the surface, giving them a fuzzy appearance.",
+  "The fruit's skin develops irregular, pale spots that spread across its surface, creating a mottled look.",
+  "The mango branches exhibit thick, waxy protrusions that resemble small, white worms, clustered along the stems.",
+  "The flowers have a powdery coating on their petals, making them appear duller than healthy blooms.",
+  "The mangoes develop numerous small, raised bumps on their rind, which can cluster together to form larger, bumpy areas.",
+  "The leaves at the base of the plant show signs of yellowing and wilting, with some edges curling inward due to stress."
+ ],
+ "mango|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellow and green, indicating uneven chlorophyll distribution.",
+  "The fruit skin shows a network of fine cracks, giving it a scaly texture.",
+  "The edges of the leaves curl inward, creating a ruffled look.",
+  "The leaf veins appear more prominent and darker than usual.",
+  "The fruit surface develops small, scattered brown spots that increase in size over time.",
+  "The overall plant appears stunted, with fewer flowers and smaller, less vibrant foliage."
+ ],
+ "mango|powdery mildew": [
+  "The mango leaves display a white, powdery coating that contrasts sharply with the green foliage.",
+  "The fruit surface is covered with small, circular patches that appear as light gray spots against the smooth skin.",
+  "The affected branches have a rough texture due to the buildup of the powdery substance.",
+  "The leaves show a distinctive pattern of white spots scattered across their surfaces.",
+  "The disease causes a significant number of lesions on the leaves, making them look disfigured and unhealthy.",
+  "The fruit develops numerous small, raised bumps where the powdery mildew has formed, altering its appearance."
+ ],
+ "maple|tar spot": [
+  "The leaves display small, round, raised spots that are initially pale yellow but turn brown as they mature.",
+  "The affected areas have a distinct, slightly raised texture compared to healthy parts of the leaf.",
+  "Lesions are scattered across the leaf surface, creating a mottled appearance.",
+  "The edges of the affected areas are often slightly curled, giving the leaf a distorted look.",
+  "As the disease progresses, the lesions can coalesce into larger patches on the leaf.",
+  "The overall appearance of the plant becomes less vibrant, with a noticeable decline in leaf health and color."
+ ],
+ "medicinal plants|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellowing that spread across the surface.",
+  "The stems develop a purplish hue as the deficiency progresses, becoming more pronounced over time.",
+  "The texture of the foliage becomes rougher, with visible signs of stress and dehydration.",
+  "Leaves may curl upwards at the edges, indicating a lack of proper nutrient absorption.",
+  "The overall plant size appears stunted compared to healthy specimens, with fewer leaves developing.",
+  "The lower leaves begin to drop prematurely due to the potassium deficiency."
+ ],
+ "moong|cercospora leaf spot": [
+  "The leaves display small, circular spots that are initially light brown but darken to reddish-brown as they mature.",
+  "Lesions appear scattered across the leaf surface, with some areas showing more concentrated clusters.",
+  "The affected leaves have a rough texture due to the raised, sunken appearance of the lesions.",
+  "The spots are often surrounded by a yellow halo, creating a distinct ring-like pattern around each lesion.",
+  "As the disease progresses, the number of lesions increases, covering larger portions of the leaf blade.",
+  "The veins on the underside of the leaf may show signs of discoloration, adding to the overall leaf distortion."
+ ],
+ "moringa|aphids": [
+  "The leaves appear discolored with patches of yellow and brown, indicating stress from aphid feeding.",
+  "Aphid-infested branches have a fuzzy appearance due to the presence of aphid colonies.",
+  "The surface of the leaves is covered with small, white, cotton-like masses where aphids congregate.",
+  "The veins on the underside of the leaves are visibly distorted and twisted, a sign of aphid activity.",
+  "The plant's growth appears stunted, with fewer flowers and smaller pods than usual.",
+  "The overall health of the plant looks compromised, with a general drooping posture."
+ ],
+ "mustard|alternaria blight": [
+  "The leaves display a\u7f51\u7edc\u72b6\u7684pattern of brown spots that spread across the surface.",
+  "The stems exhibit a rough texture with raised, irregular bumps.",
+  "The affected areas have a distinct reddish-brown hue, contrasting sharply with the healthy green.",
+  "Lesions appear as elongated streaks along the veins of the leaves, often merging into larger patches.",
+  "The plant's overall appearance is mottled, with some parts showing more severe damage than others.",
+  "As the disease progresses, the affected leaves may curl and droop, indicating significant stress to the plant."
+ ],
+ "mustard|aphids": [
+  "The mustard plant's leaves show small, dark green spots scattered across their surface.",
+  "Aphid-infested mustard plants have curled, yellowing leaf edges that droop downward.",
+  "The texture of the mustard leaves appears rougher where aphids have been feeding.",
+  "The affected mustard plant has a mottled appearance with patches of healthy green contrasting against the infested areas.",
+  "The number of aphid lesions varies, with some plants having a few scattered spots while others are heavily infested.",
+  "The stems of the mustard plant may develop a thin, white film where aphids congregate."
+ ],
+ "mustard|downy mildew": [
+  "The leaves display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The stems exhibit a rough, scaly texture with small, raised bumps that are more pronounced on older plants.",
+  "Young mustard plants may have a lighter green coloration compared to healthy ones, appearing pale and sickly.",
+  "Older plants show a mottled appearance with patches of discolored tissue, particularly on the undersides of leaves.",
+  "The veins of affected leaves become more prominent and appear darker than the surrounding tissue.",
+  "The overall plant structure appears stunted and droopy, with a general decline in vigor and health."
+ ],
+ "mustard|white rust": [
+  "The leaves display small, pale yellow spots that gradually expand into larger, irregular patches.",
+  "The stems exhibit elongated, whitish blisters that rupture to reveal a powdery substance.",
+  "The undersides of the leaves show a dense network of fine, white, cobweb-like structures.",
+  "The affected areas have a rough, bumpy texture compared to healthy parts of the plant.",
+  "Lesions appear as scattered, elongated streaks along the veins of the leaves.",
+  "The overall appearance is one of a plant struggling with a widespread, disfiguring condition."
+ ],
+ "okra|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "Small, circular spots appear on the underside of the leaves, spreading as the infection progresses.",
+  "The texture of the affected areas becomes rougher, unlike the smooth surface of healthy leaves.",
+  "Lesions start as small, discrete spots but coalesce into larger patches as the disease advances.",
+  "The veins of the leaves become more prominent due to the swelling caused by the infection.",
+  "As the disease spreads, the affected parts of the plant may curl or droop under the weight of the powdery growth."
+ ],
+ "okra|thrips": [
+  "The okra plant's leaves show small, scattered brown spots that appear as if someone has sprinkled coffee grounds across them.",
+  "The stems exhibit a\u7f51\u7edc\u72b6\u7684pattern of fine, white lines that seem to crisscross each other.",
+  "The pods have a rougher texture than usual, with tiny punctures visible under magnification.",
+  "The flowers are smaller and less vibrant, with petals that look slightly curled at the edges.",
+  "The plant appears stunted compared to healthy ones, with fewer leaves and shorter stems.",
+  "The overall appearance is one of a plant struggling to thrive, with signs of stress and damage visible throughout its structure."
+ ],
+ "onion|basal rot": [
+  "The base of the onion plant appears dark and mushy, with a slimy texture.",
+  "The outer leaves of the onion show a ring of brownish discoloration around the stem.",
+  "The affected area has a rough, cracked surface, revealing a spongy interior.",
+  "The lesion on the onion's base is irregularly shaped, with a mottled pattern of dark spots.",
+  "The disease causes multiple small, scattered lesions along the lower portion of the onion.",
+  "As the disease progresses, the affected area expands, covering more of the onion's base."
+ ],
+ "onion|downy mildew": [
+  "The leaves of the onion plant display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The lower leaves show a distinct white powdery coating, especially noticeable on the undersides.",
+  "The affected leaves have a wrinkled texture, with some areas curling inward due to the disease pressure.",
+  "The disease causes the leaves to develop a mottled appearance, with patches of discoloration that vary in size and intensity.",
+  "The outer layers of the onion bulbs become discolored and soft, with a tendency to rot if left untreated.",
+  "The stems of the plant appear thinner and more fragile than healthy ones, with a slight bluish tinge developing over time."
+ ],
+ "onion|purple blotch": [
+  "The leaves display irregular, dark purple spots that spread across their surface.",
+  "The outer layers of the onion bulb show thickened, purplish-brown patches.",
+  "The affected areas have a rough, leathery texture compared to healthy tissue.",
+  "The lesions form a mottled pattern on the foliage, with some areas appearing more heavily infected than others.",
+  "The number of lesions varies, with some plants having scattered spots while others may be covered in dense clusters.",
+  "The disease affects both the upper and lower parts of the plant, with lesions appearing on both the leaves and the bulb."
+ ],
+ "onion|thrips": [
+  "The leaves exhibit a mottled appearance with small, scattered brown spots.",
+  "The stems show a fine\u7f51\u7edc-like pattern of tiny, brownish specks.",
+  "The outer layers of the onion bulbs develop a rough, papery texture.",
+  "The roots display a network of thin, brown lines running through their structure.",
+  "The plant's growth is stunted, with fewer and smaller leaves than healthy plants.",
+  "The overall coloration of the plant shifts to a duller shade compared to unaffected onions."
+ ],
+ "paddy|blast": [
+  "The leaf blade displays a distinct white to grayish patch with a slightly raised, powdery texture.",
+  "The leaf margin shows a series of elongated, irregular spots that appear to be merging into larger areas.",
+  "The upper surface of the leaf is covered with small, scattered lesions that have a rough, granular appearance.",
+  "The lower leaf surface reveals a dense cluster of tiny, circular spots that are closely packed together.",
+  "The plant's stem exhibits a network of fine, web-like lesions that are pale in color and spread across its length.",
+  "The affected paddy plant has multiple leaves showing various stages of disease progression, from small, isolated spots to large, confluent patches."
+ ],
+ "paddy|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellowing interspersed among green areas.",
+  "The edges of the leaves curl inward, giving them a scorched look.",
+  "The surface of the leaves appears rougher than usual, with visible cracks and splits.",
+  "Small, scattered brown spots dot the leaf surface, contrasting sharply with the surrounding green.",
+  "The stems show a lighter coloration compared to healthy plants, with a pale, almost whitish hue.",
+  "The overall plant height is reduced, with fewer tillers and shorter stature than unaffected plants."
+ ],
+ "paddy|stem borer": [
+  "The paddy plant shows dark brown, elongated lesions on its stems, indicating damage from borers.",
+  "The leaves exhibit a mottled appearance with patches of yellowing and wilting, suggesting stress.",
+  "The plant's surface is rough and uneven due to the burrowing activity of the borers.",
+  "There are numerous small, circular holes scattered across the leaf sheaths, evidence of feeding.",
+  "The base of the plant appears swollen and discolored, with a thickened texture.",
+  "The overall plant structure looks stunted and deformed, with a reduced number of tillers."
+ ],
+ "papaya|anthracnose": [
+  "The papaya fruit displays numerous small, dark spots scattered across its surface, giving it a mottled appearance.",
+  "The leaves show elongated, purplish-brown lesions that run parallel to the veins, creating a distinctive pattern.",
+  "The stems exhibit a\u7f51\u7edc\u72b6\u7684\u7eb9\u7406 with raised, irregular patches that appear slightly rough to the touch.",
+  "The papaya fruit's rind develops a network of fine cracks, revealing a lighter inner layer beneath.",
+  "The affected papaya fruit has a patchy discoloration on its flesh, with areas turning brown and softening.",
+  "The leaves develop a series of elongated, sunken lesions that eventually lead to leaf drop as the disease progresses."
+ ],
+ "papaya|nitrogen deficiency": [
+  "The papaya leaves appear pale green with a yellowish tint, indicating nutrient stress.",
+  "The edges of the leaves curl slightly inward, showing signs of dehydration.",
+  "The surface of the leaves has a rougher texture than healthy plants, with visible veins standing out more prominently.",
+  "Small, scattered spots can be seen on the underside of the leaves, appearing as tiny brown specks.",
+  "The papaya fruit develops a lighter coloration compared to normal, with a duller appearance overall.",
+  "The stems of the plant become thinner and more brittle, with a lighter green hue."
+ ],
+ "papaya|papaya mealybug": [
+  "The papaya fruit is covered with small, white, waxy spots that give it a mottled appearance.",
+  "The leaves have irregularly shaped, pale patches that contrast sharply with the green foliage.",
+  "The stems exhibit a rough, bumpy texture where the mealybug infestation is most severe.",
+  "The papaya fruit develops numerous small, raised bumps on its surface as the infestation progresses.",
+  "The edges of the papaya leaves curl inward, forming a distinctive cupping pattern due to the feeding activity.",
+  "The papaya fruit shows a significant reduction in size and color, turning yellow prematurely."
+ ],
+ "papaya|papaya ring spot virus": [
+  "The papaya leaf displays a mottled pattern with patches of yellow and green, indicating early infection.",
+  "The fruit surface shows small, raised spots that are initially pale but turn brown as the disease progresses.",
+  "The papaya stem exhibits a rough texture with visible cracks and splits, especially near the base.",
+  "The leaves develop irregularly shaped lesions that expand over time, creating a patchy appearance.",
+  "The papaya fruit develops numerous small, circular lesions that coalesce into larger areas of discoloration.",
+  "The papaya plant's overall growth is stunted, with smaller, less vibrant leaves and fruits compared to healthy plants."
+ ],
+ "papaya|powdery mildew": [
+  "The papaya leaves display a white, powdery coating that contrasts sharply with the green foliage.",
+  "Small, circular patches of white powder appear on the underside of the papaya leaves.",
+  "The papaya fruit develops a dense, white, fuzzy layer that covers its surface.",
+  "The papaya stem shows a network of fine, white, web-like structures spreading across its surface.",
+  "The papaya plant's leaves exhibit numerous small, scattered spots that are densely packed together.",
+  "The papaya plant's overall appearance is marred by the widespread presence of these white, powdery patches across various parts of the plant."
+ ],
+ "peach|anthracnose": [
+  "The peach leaves display small, circular spots that are initially light brown but darken to a deep reddish-brown as they mature.",
+  "The fruit surface shows raised, irregularly shaped lesions that are initially pale yellow but turn dark brown with a sunken center.",
+  "The peaches have a rough, cracked texture where lesions are present, making them appear uneven and bumpy.",
+  "Lesions on the peaches are scattered across the skin, appearing as small, distinct patches that can cluster together.",
+  "The leaves exhibit a mottled appearance with lesions that vary in size and shape, creating a patchy look.",
+  "The fruit has a few large, sunken lesions that are surrounded by a lighter-colored halo, giving the peaches a distorted appearance."
+ ],
+ "peach|brown rot": [
+  "The peaches have a dark, purplish-brown discoloration on their skin, indicating the onset of decay.",
+  "The fruit's surface becomes rough and cracked as the disease progresses, revealing the underlying flesh.",
+  "Circular patches of brownish-red discoloration appear on the leaves, spreading outward like a ring.",
+  "The affected branches develop elongated, irregular lesions that can girdle the stem, cutting off water and nutrient flow.",
+  "The fruit's flesh turns a watery, brownish hue, with a slimy texture as the disease advances.",
+  "The entire tree may show signs of defoliation, with leaves turning yellow and dropping prematurely due to the stress from the disease."
+ ],
+ "peach|leaf curl": [
+  "The leaves appear crinkled and puckered, resembling an accordion.",
+  "The surface of the leaves is rough and bumpy, with a distinct granular texture.",
+  "A network of fine lines crisscrosses the leaf surface, creating a mottled appearance.",
+  "The leaf edges curl inward, forming tight rolls that give the leaf a curled look.",
+  "The leaf coloration is a mix of green and yellow hues, with some areas showing a lighter shade.",
+  "The affected leaves are scattered across the plant, with some appearing more severely damaged than others."
+ ],
+ "peach|rust": [
+  "The peach leaves display a network of fine, reddish-brown lines that create a lace-like appearance.",
+  "Small, circular spots with a yellowish halo surround the edges appear on the peaches' skin.",
+  "The affected branches have a rough, scaly texture where the bark has begun to peel away.",
+  "The fruit develops a mottled pattern of brown patches that spread across its surface.",
+  "The leaves develop elongated, irregularly shaped lesions that are darker in color compared to healthy tissue.",
+  "As the disease progresses, the peaches may develop numerous small, raised bumps that give them a bumpy texture."
+ ],
+ "peach|scab": [
+  "The leaves show small, raised, pale yellow spots that eventually turn brown and crumbly.",
+  "The fruit develops dark, irregular patches that can merge into large, scaly areas.",
+  "The bark on branches appears rough with small, raised bumps that may crack open.",
+  "The flowers have a powdery white coating that can be seen on the petals and sepals.",
+  "The stems develop elongated, sunken lesions that are often surrounded by a reddish ring.",
+  "The roots exhibit a network of fine, white mycelial growth that can be seen spreading across the soil surface."
+ ],
+ "pea|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "Small, circular spots appear on the upper surface of the leaves, becoming more numerous as the infection progresses.",
+  "The texture of the affected leaves becomes rougher due to the buildup of the powdery substance.",
+  "The pattern of the lesions is irregular, with some areas showing dense clusters while others have fewer spots.",
+  "As the disease advances, the underside of the leaves also develops a similar white coating, spreading across the leaf surface.",
+  "The overall appearance of the plant becomes stunted, with leaves curling and drooping under the weight of the powdery growth."
+ ],
+ "pea|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The stems exhibit elongated, elongated, irregularly shaped lesions that are dark brown in color.",
+  "The pods have a mottled appearance with patches of yellow and brown, indicating the presence of lesions.",
+  "The affected areas on the leaves have a powdery texture, contrasting with the smooth healthy parts.",
+  "The lesions on the leaves are numerous, covering large sections of the leaf surface.",
+  "The overall plant appears stunted and discolored, with a general decline in health and vigor."
+ ],
+ "pigeon pea|phytophthora blight": [
+  "The leaves exhibit a mottled appearance with dark brown spots scattered across their surface.",
+  "The stems develop a slimy, dark brown discoloration that can ooze a watery substance.",
+  "The pods show a patchy discoloration with irregularly shaped brown lesions that may merge into larger areas.",
+  "The roots appear to be covered in a thick, dark slime, indicating rotting.",
+  "The affected parts of the plant have a rough, uneven texture due to the disease's progression.",
+  "The overall plant has a wilted look, with drooping leaves and stems, as the disease advances."
+ ],
+ "plum|bacterial spot": [
+  "The plum fruit displays small, circular spots that are initially pale yellow but turn brown as they mature.",
+  "The leaves show scattered, raised lesions that are slightly sunken in the center, giving them a pitted appearance.",
+  "The bark of the trunk has developed a network of fine, web-like cracks, indicating stress from the disease.",
+  "The affected branches exhibit a mottled pattern with patches of healthy green interspersed with areas of discolored tissue.",
+  "The fruit's surface is covered with numerous small, raised dots that are slightly raised above the surrounding skin.",
+  "The leaves have developed a dense cluster of lesions, creating a mottled look across the leaf surface."
+ ],
+ "plum|brown rot": [
+  "The plum fruit displays a network of dark brown spots that spread across its surface, creating a mottled appearance.",
+  "The leaves of the plum tree show elongated, irregularly shaped lesions that are initially light brown but darken to a deep reddish-brown as they expand.",
+  "The bark of the plum trunk is covered with small, raised, circular lesions that are initially pale yellow but turn brown and eventually crack open.",
+  "The flowers of the plum plant have petals that are beginning to wilt and curl, with a few small, dark spots visible on their surfaces.",
+  "The fruit at the base of the plum tree has developed a dense cluster of small, round lesions that are initially light brown but become darker and more prominent as they mature.",
+  "The branches of the plum tree exhibit a series of elongated, linear lesions that are initially pale green but turn brown and can be seen running along the length of the branch."
+ ],
+ "plum|pocket disease": [
+  "The plum fruit displays a dark, irregularly shaped lesion on its surface.",
+  "The affected area has a rough, cracked texture with a sunken appearance.",
+  "A distinct, circular pattern is visible around the lesion, contrasting with the surrounding healthy skin.",
+  "Multiple small, scattered lesions can be seen across the plum's skin.",
+  "The affected part of the plum is the skin, where the lesions are most prominent.",
+  "As the disease progresses, the lesions may merge into larger patches, covering more of the fruit's surface."
+ ],
+ "plum|pox virus": [
+  "The plum tree's leaves display a mottled pattern with patches of yellow and green, indicating early signs of distress.",
+  "As the disease progresses, the leaves develop raised, irregularly shaped lesions that are often clustered together.",
+  "The fruit shows a rough, bumpy texture with small, dark spots scattered across its surface.",
+  "In later stages, the bark of the trunk becomes cracked and peeling, revealing a lighter inner layer beneath.",
+  "The flowers of the plum tree exhibit a duller coloration compared to healthy blooms, with some petals appearing shriveled.",
+  "The overall appearance of the plant becomes more wilted and drooping as the virus spreads throughout the system."
+ ],
+ "plum|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The fruit is covered with small, raised bumps that give it a rough texture.",
+  "The branches exhibit elongated, elongated lesions that run along their length.",
+  "The leaves have a mottled appearance with patches of yellow and brown discoloration.",
+  "The flowers show a ring of dark spots around their bases, indicating early infection.",
+  "The trunk develops a scaly, cracked pattern as the disease progresses."
+ ],
+ "pomegranate|scale insects": [
+  "The pomegranate tree's leaves appear discolored with patches of brown and yellow, indicating stress from the infestation.",
+  "Small, white, waxy masses can be seen on the underside of the leaves, giving them a rough texture.",
+  "The fruit's skin develops irregular, raised bumps that disrupt its smooth surface.",
+  "Clusters of tiny, translucent, pear-shaped insects are visible on the branches, creating a dense, clustered appearance.",
+  "The bark of the trunk shows signs of cracking and peeling due to the pressure from the scale insects.",
+  "The overall health of the plant is visibly compromised, with drooping branches and sparse foliage."
+ ],
+ "potato|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "Aphid-infested stems show a slight wilting, with a few drooping leaves at the top.",
+  "The tubers develop a rough texture with small, raised bumps visible upon close inspection.",
+  "The plant's foliage displays a patchy discoloration, with some leaves turning yellow while others remain green.",
+  "The roots appear to have a discolored, slightly shriveled appearance due to aphid feeding.",
+  "The overall plant structure shows signs of stress, with a reduced number of flowers and smaller, less vibrant blooms."
+ ],
+ "potato|bacterial soft rot": [
+  "The potato plant's leaves show a mottled pattern with dark brown spots scattered across their surface.",
+  "The stems exhibit a slimy appearance with a water-soaked look, especially near the base.",
+  "The tubers develop large, irregularly shaped lesions that appear soft to the touch.",
+  "The affected areas on the tubers have a pale, watery appearance, contrasting sharply with the healthy tissue.",
+  "The plant's foliage shows signs of wilting, with leaves drooping and turning yellowish-brown.",
+  "The overall plant health deteriorates rapidly, with the affected parts becoming increasingly discolored and mushy."
+ ],
+ "potato|bacterial wilt": [
+  "The leaves of the potato plant appear yellowish-green with a mottled pattern, indicating early signs of stress.",
+  "The stems exhibit a dark brown discoloration, becoming more pronounced as the disease progresses.",
+  "The tubers develop a soft, mushy texture when cut open, contrasting sharply with healthy, firm flesh.",
+  "Lesions on the leaves are irregularly shaped, often appearing as elongated spots that coalesce over time.",
+  "The plant's overall appearance becomes droopy and wilted, especially noticeable during midday hours.",
+  "As the disease advances, the plant's foliage turns brown and wilts completely, with the leaves curling upwards."
+ ],
+ "potato|calcium deficiency": [
+  "The leaves exhibit a mottled appearance with irregular brown spots scattered across their surface.",
+  "The stems develop a rough texture with visible cracks and splits, especially near the base.",
+  "The tubers show a pale, chalky interior with a network of fine lines and streaks.",
+  "The foliage displays a yellowing trend, starting from the edges and progressing inward.",
+  "The plant's overall growth is stunted, with smaller, less vibrant leaves compared to healthy plants.",
+  "The affected areas on the leaves have a distinct, irregular shape, often resembling small, scattered patches."
+ ],
+ "potato|common scab": [
+  "The potato skin appears rough and bumpy with small, raised spots scattered across its surface.",
+  "Lesions on the potato skin are circular and slightly sunken, giving the tuber a pitted appearance.",
+  "The affected areas have a grayish-white coloration that contrasts sharply with the healthy green skin.",
+  "The lesions are numerous and cover a significant portion of the potato's surface, making it look mottled.",
+  "The texture of the potato is uneven due to the presence of these lesions, which can make it feel gritty when touched.",
+  "As the potato matures, the lesions may become more pronounced, with some areas showing signs of cracking or splitting."
+ ],
+ "potato|cutworms": [
+  "The potato plant has numerous small, irregularly shaped holes scattered across its leaves, giving them a mottled appearance.",
+  "The stems exhibit a series of thin, elongated cuts that run lengthwise, creating a ribbed texture.",
+  "The tubers show signs of browning and softening at their tips, with a rough, uneven surface.",
+  "The foliage displays a patchy discoloration, with some leaves turning yellow and others remaining green but with a wilted look.",
+  "The plant's overall growth appears stunted, with fewer leaves and smaller tubers than healthy plants.",
+  "The affected areas on the plant have a distinct contrast between the damaged tissue and the surrounding healthy parts, highlighting the extent of the damage."
+ ],
+ "potato|dry rot": [
+  "The potato plant's leaves show brown, irregular spots that spread over time.",
+  "The stems develop dark, elongated lesions that girdle them, causing wilting.",
+  "The tubers have a rough, cracked surface with deep, sunken lesions.",
+  "The foliage turns yellow and droops as the disease progresses.",
+  "The affected areas on the plant have a mottled appearance with varying shades of brown.",
+  "The roots exhibit a network of fine, white mycelium growing through the soil around the base of the plant."
+ ],
+ "potato|early blight": [
+  "The leaves display dark brown spots that gradually expand into irregular patches.",
+  "The stems exhibit a mottled appearance with scattered, raised lesions.",
+  "The tubers show a network of fine, brown lines on their surface.",
+  "The foliage has a scorched look with edges curling inward due to the disease.",
+  "The affected areas on the leaves have a rough texture compared to healthy parts.",
+  "The disease causes a significant reduction in leaf area, affecting photosynthesis."
+ ],
+ "potato|late blight": [
+  "The leaves show dark brown spots that spread rapidly across the foliage.",
+  "The stems develop elongated, purplish-brown lesions that girdle the plant.",
+  "The tubers exhibit irregularly shaped, dark brown patches that can be seen through the skin.",
+  "The affected areas have a rough, cracked texture, contrasting with the smooth healthy parts.",
+  "Lesions on the leaves are numerous and scattered, covering large portions of the leaf surface.",
+  "The infected stems have a mottled appearance with a mix of healthy green and diseased brown tissue."
+ ],
+ "potato|magnesium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellow and green, indicating magnesium deficiency.",
+  "The stems show a lighter green coloration compared to healthy plants, suggesting magnesium deficiency.",
+  "The texture of the foliage appears rougher than usual, with visible signs of stress.",
+  "The leaves develop a distinct pattern of yellowing, starting from the edges and moving inward.",
+  "The number of lesions increases as the deficiency progresses, affecting multiple leaves on the plant.",
+  "The overall shape of the affected plant may become more droopy and wilted due to magnesium deficiency."
+ ],
+ "potato|phosphorus deficiency": [
+  "The leaves appear pale green with a yellowish tint, especially on the older foliage.",
+  "Newer leaves show signs of stunting and may have a crinkled appearance.",
+  "The stems exhibit a thinning and weakness, with a lighter coloration compared to healthy plants.",
+  "The tubers develop small, scattered brown spots that become more numerous as the plant matures.",
+  "The overall plant has a smaller size than healthy counterparts, with fewer and smaller leaves.",
+  "The affected areas often have a rough texture, contrasting with the smooth surface of healthy parts."
+ ],
+ "pumpkin|aphids": [
+  "The pumpkin leaves show small, dark spots scattered across their surface, indicating early aphid infestation.",
+  "A close-up reveals the underside of a pumpkin leaf with numerous tiny, white aphids clustered together, creating a dense, cotton-like appearance.",
+  "The pumpkin vines display a network of fine, silvery lines running along their stems, a sign of aphid feeding activity.",
+  "The pumpkin fruit has a few small, raised bumps on its rind, suggesting the presence of aphid eggs.",
+  "The pumpkin flowers have a duller color than usual, with some petals appearing slightly curled, likely due to aphid damage.",
+  "The pumpkin vines exhibit a thinning of the stem, with some sections appearing more brittle and less robust than healthy plants."
+ ],
+ "pumpkin|cucumber beetle": [
+  "The pumpkin leaves show numerous small, irregularly shaped spots that are initially light green but turn brown as they develop.",
+  "The surface of the pumpkin rind is covered with tiny, raised bumps that give it a rough texture.",
+  "The stem of the pumpkin has a few elongated, dark brown lesions that run along its length.",
+  "The pumpkin fruit displays a mottled pattern of light and dark patches, indicating areas of damage.",
+  "The underside of the pumpkin leaves has a dense cluster of small, circular lesions that are slightly sunken into the leaf tissue.",
+  "The pumpkin vines have a few scattered, elongated lesions that appear as thin, dark lines running parallel to the veins."
+ ],
+ "pumpkin|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, indicating early signs of stress.",
+  "Veins on the leaves appear swollen and discolored, creating a distinctive network of raised lines.",
+  "The fruit surface is covered with small, irregularly shaped spots that vary in color from light green to brown.",
+  "The stem shows a series of elongated, elongated lesions that run along its length, disrupting its smooth texture.",
+  "The plant's growth appears stunted, with smaller, fewer leaves than healthy plants, and a drooping posture.",
+  "The edges of the leaves curl inward, forming a cup-like shape, as the plant struggles to photosynthesize effectively."
+ ],
+ "pumpkin|nitrogen deficiency": [
+  "The leaves appear pale green with a yellowish tint, showing signs of chlorosis.",
+  "The stems exhibit a thinning and wilting appearance, lacking the usual robustness.",
+  "The fruit surface shows a mottled pattern with patches of lighter coloration.",
+  "The edges of the leaves curl inward, indicating stress from nutrient deficiency.",
+  "The plant's growth is stunted, with fewer and smaller flowers than usual.",
+  "The overall plant has a drooping posture, suggesting a lack of vigor."
+ ],
+ "pumpkin|powdery mildew": [
+  "The pumpkin leaves display a white, powdery coating that contrasts sharply with the green foliage.",
+  "The stems of the pumpkin plant develop small, circular patches that appear as light gray spots against the dark green bark.",
+  "The rind of the pumpkin fruit is covered with a dense layer of white, fluffy growth that obscures the natural color beneath.",
+  "The affected pumpkin vines show a network of fine, white filaments that spread across the surface of the plant.",
+  "The pumpkin flowers have a powdery white substance covering their petals, making them appear duller than healthy blooms.",
+  "The pumpkin vines exhibit numerous small, scattered patches of white growth, particularly noticeable on the underside of the leaves."
+ ],
+ "raspberry|fire blight": [
+  "The leaves appear dark brown and withered, curling at the edges like scorched paper.",
+  "The stems have a glossy, darkened appearance, resembling charred wood.",
+  "The fruit is covered in a thick, black, tar-like substance, making it look shriveled and discolored.",
+  "The bark on the trunk has developed deep, irregular cracks, revealing the inner wood beneath.",
+  "The plant's overall structure seems to be wilting, with drooping branches and a general lack of vigor.",
+  "The affected areas show a distinct contrast between the healthy green parts and the diseased, discolored sections."
+ ],
+ "raspberry|gray mold": [
+  "The affected raspberry plant shows large, irregularly shaped lesions on its leaves, with a fuzzy white growth covering the surface.",
+  "The fruit displays numerous small, circular spots that appear as dark brown patches against the red background.",
+  "The stems exhibit elongated, elongated lesions that are initially light brown but darken to a deep reddish-brown over time.",
+  "The leaves have a mottled appearance with patches of yellowing and browning, indicating the spread of the infection.",
+  "The berries develop a powdery white coating, obscuring their natural color and texture.",
+  "The overall plant appears wilted and drooping, with a general decline in vitality and vigor."
+ ],
+ "raspberry|leaf spot": [
+  "The leaves display small, circular spots that are initially light green before turning brown and necrotic.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, with a rough texture.",
+  "The affected leaves have a mottled appearance due to the scattered distribution of lesions across their surface.",
+  "Some leaves show concentric rings around the lesions, creating a target-like pattern.",
+  "The number of lesions varies from leaf to leaf, with some showing just a few while others are heavily spotted.",
+  "In advanced stages, the lesions coalesce into larger patches, causing significant defoliation of the plant."
+ ],
+ "raspberry|yellow rust": [
+  "The leaves display a bright yellow hue, contrasting sharply with the healthy green areas.",
+  "Small, circular spots appear on the underside of the leaves, slightly raised and powdery to the touch.",
+  "The affected areas have a distinct, irregular pattern, with lesions spreading from the center outward.",
+  "The affected leaves may curl and droop, showing signs of stress and dehydration.",
+  "The disease progresses, leading to a significant reduction in leaf size and overall plant vigor.",
+  "As the infection advances, the yellowing becomes more pronounced, covering larger sections of the foliage."
+ ],
+ "red gram|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "Small, circular spots appear on the upper surface of the leaves, becoming more numerous as the infection progresses.",
+  "The texture of the affected leaves becomes rougher due to the buildup of the powdery substance.",
+  "The pattern of lesions is scattered across the leaf surface, with some areas appearing more heavily infected than others.",
+  "As the disease advances, the leaves may develop a mottled appearance with patches of discoloration.",
+  "The stems of the plant may also be covered with the same white, powdery substance, affecting their overall appearance."
+ ],
+ "rice|blast": [
+  "The rice plant displays numerous small, circular spots on its leaves, appearing as light brown patches against a green background.",
+  "The affected leaves show a distinct pattern of lesions that vary in size but are generally uniform in shape across the plant.",
+  "The texture of the leaves becomes rough and uneven where the lesions have developed, with a noticeable change in surface consistency.",
+  "The lesions are scattered across the leaf surface, creating a mottled appearance that is more pronounced under bright sunlight.",
+  "In some areas, the lesions merge into larger, irregular patches, altering the overall leaf structure and coloration.",
+  "As the disease progresses, the affected leaves may curl and droop, indicating a significant impact on the plant's health and growth."
+ ],
+ "rice|brown spot": [
+  "The leaf surface displays small, circular spots with a dark brown center and lighter brown edges.",
+  "Lesions appear as raised, slightly rough patches on the leaf blade.",
+  "The affected area shows a distinct pattern of scattered spots across the leaf surface.",
+  "Each lesion is roughly circular and measures about 1-2 millimeters in diameter.",
+  "The disease causes a mottled appearance on the leaf, with lesions concentrated along the veins.",
+  "As the disease progresses, the leaf may develop a network of lesions, creating a stippled effect."
+ ],
+ "rice|nitrogen deficiency": [
+  "The rice plant's leaves appear pale green, almost yellowish, with a uniform coloration across the leaf surface.",
+  "The edges of the leaves begin to curl slightly inward, giving them a ruffled appearance.",
+  "The texture of the leaves becomes rougher, with visible veins that stand out more prominently.",
+  "Small, scattered spots can be seen on the leaves, appearing as tiny brown specks against the green background.",
+  "As the deficiency progresses, the leaves develop more pronounced brown spots, forming irregular patterns.",
+  "The overall shape of the plant may become stunted, with shorter and less robust stems compared to healthy plants."
+ ],
+ "rice|rice bug": [
+  "The rice plant shows small, dark brown spots scattered across its leaves, indicating early-stage damage.",
+  "The leaf surface appears rough with tiny punctures, suggesting the presence of feeding insects.",
+  "The affected areas have a mottled appearance, with patches of discolored tissue that contrast sharply with the healthy green.",
+  "The rice plant's stems exhibit a network of fine lines where the bug has fed, creating a delicate web-like pattern.",
+  "The leaves develop a stippled look as the bug infestation progresses, with numerous small, raised dots visible.",
+  "As the disease advances, the rice plant's leaves curl upwards, forming a characteristic \"U\" shape due to the insect pressure."
+ ],
+ "rice|sheath blight": [
+  "The rice plant shows dark brown to black lesions on its sheaths, appearing as irregular spots that can coalesce into larger patches.",
+  "The affected areas have a rough, cracked texture, contrasting with the smooth surface of healthy sheaths.",
+  "Lesions often form a distinctive pattern, starting at the base of the sheath and spreading upwards, creating a streaked appearance.",
+  "The number of lesions varies, but typically there are multiple scattered across the sheath, sometimes clustered together.",
+  "In some photographs, the lesions appear as elongated, linear marks, running parallel to the length of the sheath.",
+  "The affected sheaths may exhibit a mottled appearance, with lighter and darker areas blending together, indicating varying degrees of disease severity."
+ ],
+ "rice|stem borer": [
+  "The rice plant shows dark brown, elongated lesions on its stems, indicating damage from borers.",
+  "The leaves exhibit a mottled appearance with patches of yellowing and wilting, suggesting stress.",
+  "The affected areas have a rough, uneven texture where the borer has tunneled through the plant tissue.",
+  "The rice plant displays a pattern of irregular, elongated spots along the stems, indicative of borers' feeding paths.",
+  "The number of lesions varies across the plant, with some areas showing more extensive damage than others.",
+  "The overall structure of the plant appears stunted, with a reduced height compared to healthy plants."
+ ],
+ "ridge gourd|aphids": [
+  "The leaves exhibit a mottled appearance with small, dark spots scattered across their surface.",
+  "The stems show a thinning out as they grow, with a slight wilting at the tips.",
+  "The fruit develops a rough texture with small bumps, indicating stress from the infestation.",
+  "The plant's overall growth seems stunted, with fewer leaves than usual.",
+  "The underside of the leaves displays a dense cluster of tiny, white, cotton-like structures.",
+  "The plant's coloration shifts to a duller green, lacking the vibrant hue typical of healthy ridge gourds."
+ ],
+ "ridge gourd|downy mildew": [
+  "The leaves exhibit a mottled appearance with patches of yellowing and brown spots.",
+  "The stems develop a rough, scaly texture as the disease progresses.",
+  "The affected areas show a distinct white, powdery growth on the underside of the leaves.",
+  "The veins of the leaves become more prominent and twisted due to the disease pressure.",
+  "The plant's overall vigor diminishes, with drooping leaves and stunted growth.",
+  "The fruit may develop a dull, off-color skin with irregular patches, indicating the disease's presence."
+ ],
+ "ridge gourd|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, indicating early signs of stress.",
+  "The stems exhibit a rough texture with visible bumps and swelling, suggesting vascular damage.",
+  "The fruit has a distorted shape, appearing elongated and misshapen compared to healthy plants.",
+  "The veins on the leaves are more pronounced and darker than usual, creating a network-like appearance.",
+  "The plant's growth is stunted, with fewer leaves and smaller overall size than unaffected plants.",
+  "The edges of some leaves curl upwards, showing signs of dehydration and nutrient deficiency."
+ ],
+ "ridge gourd|powdery mildew": [
+  "The ridged surface of the gourd is covered with a white, powdery layer that contrasts sharply with the green skin beneath.",
+  "The leaves develop small, circular spots that expand into larger, irregular patches as the infection progresses.",
+  "The texture of the affected areas becomes rougher and more uneven compared to healthy parts of the plant.",
+  "The gourd develops a mottled appearance with patches of white powder scattered across its ridges.",
+  "The number of lesions increases over time, covering more of the gourd's surface and affecting both the ridges and the flat areas.",
+  "As the disease advances, the gourd may develop a distorted shape due to the pressure from the expanding lesions."
+ ],
+ "ridge gourd|red pumpkin beetle": [
+  "The ridged surface of the gourd is marred by small, reddish-brown spots that appear scattered across its skin.",
+  "The gourd's texture becomes rougher as the beetle infestation progresses, with raised bumps forming on the affected areas.",
+  "A close-up reveals a network of fine lines and cracks spreading over the gourd's surface, indicative of beetle feeding.",
+  "The gourd's shape begins to distort slightly, with bulges appearing where the beetle larvae have burrowed into the fruit.",
+  "The number of lesions increases dramatically, covering large patches of the gourd's skin, making it look mottled and discolored.",
+  "As the infestation worsens, the gourd's overall appearance changes from smooth to pockmarked, with numerous reddish-brown spots dotting its surface."
+ ],
+ "rose|powdery mildew": [
+  "The leaves of the rose plant appear white and powdery, contrasting sharply with the green background.",
+  "The affected petals develop a fuzzy, white coating that covers their surface completely.",
+  "The stems show small, irregular patches where the bark has begun to peel away slightly.",
+  "The affected leaves have a mottled appearance with spots that are lighter than the surrounding tissue.",
+  "The flowers display a dense layer of white, powdery growth on their petals, obscuring their natural color.",
+  "The overall plant appears stunted and unhealthy, with a significant reduction in the size and number of blooms."
+ ],
+ "rose|thrips": [
+  "The rose petals exhibit a mottled appearance with small, scattered brown spots that give them a somewhat speckled look.",
+  "The leaves show fine, silvery-white lines crisscrossing their surface, creating a delicate lace-like pattern.",
+  "The stems develop a rough, bumpy texture as the thrips infestation progresses.",
+  "The overall foliage appears to be slightly wilted, with a drooping posture due to the stress from the pest.",
+  "The flower buds start to open unevenly, with some petals curling inward while others remain closed tightly.",
+  "As the disease advances, the leaves turn yellow and eventually fall off, leaving the plant with bare branches."
+ ],
+ "soybean|bacterial blight": [
+  "The leaves display a mottled pattern with dark brown spots scattered across their surface.",
+  "The stems exhibit a rough texture with raised, irregular bumps along their length.",
+  "The pods show a network of fine lines that create a web-like appearance on their outer skin.",
+  "The affected areas have a distinct discoloration, turning from green to a dull yellowish hue.",
+  "The leaves develop numerous small, circular lesions that are slightly sunken into the leaf tissue.",
+  "The overall plant appears stunted, with a general drooping posture due to the disease's impact."
+ ],
+ "soybean|brown spot": [
+  "The leaves display scattered, circular brown spots that contrast sharply with the green background.",
+  "Lesions appear raised and slightly sunken, giving the leaf surface a rough texture.",
+  "Brown spots vary in size but are generally small, often clustered together on the leaf surface.",
+  "The affected areas have a distinct, ring-like pattern around each lesion.",
+  "The number of lesions can range from a few to many, covering large portions of the leaf.",
+  "On older plants, the brown spots may coalesce into larger, irregular patches on the leaf blade."
+ ],
+ "soybean|downy mildew": [
+  "The leaves exhibit a pale yellow discoloration with a velvety texture.",
+  "Small, circular lesions appear on the underside of the leaves, forming a distinct pattern.",
+  "The veins of the leaves are prominently visible, appearing darker than the surrounding tissue.",
+  "The affected areas have a fuzzy appearance, contrasting sharply with the healthy parts of the leaf.",
+  "Lesions are concentrated along the midrib and veins, creating a linear pattern across the leaf surface.",
+  "As the disease progresses, the leaves may curl and droop, indicating severe damage to the plant."
+ ],
+ "soybean|frogeye leaf spot": [
+  "The leaves display small, circular spots that are initially light green but turn brown as they develop.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, giving them a pustular appearance.",
+  "The affected leaves have a mottled look with scattered brown spots, contrasting sharply against the healthy green tissue.",
+  "As the disease progresses, the brown spots coalesce into larger patches, creating a blotchy pattern across the leaf.",
+  "The veins of the leaves become more prominent due to the surrounding necrosis, forming a network-like structure around the lesions.",
+  "In severe cases, the lesions can merge into large, irregularly shaped areas, covering significant portions of the leaf blade."
+ ],
+ "soybean|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance across the foliage.",
+  "Veins on the leaves appear swollen and twisted, giving the plant a distorted look.",
+  "The texture of the leaves becomes rough and puckered, especially near the edges where lesions are concentrated.",
+  "Lesions on the leaves vary in size and shape, some appearing as elongated streaks while others are circular spots.",
+  "The plant's growth is stunted, with smaller leaves and fewer flowers compared to healthy plants.",
+  "The stems exhibit a lighter coloration, with some areas showing a mottled pattern that contrasts sharply with the surrounding green."
+ ],
+ "soybean|rust": [
+  "The leaves display a network of reddish-brown spots that spread across their surface.",
+  "The stems exhibit elongated, elongated, irregularly shaped lesions that are dark brown in color.",
+  "The pods show small, raised, circular lesions that are light brown and scattered along their length.",
+  "The affected areas have a rough, bumpy texture compared to healthy parts of the plant.",
+  "The leaves develop a mottled appearance with patches of yellowing around the reddish-brown spots.",
+  "The overall plant appears stunted and droopy due to the extensive damage from the lesions."
+ ],
+ "spinach|aphids": [
+  "The leaves show small, dark green spots scattered across their surface.",
+  "Aphid-infested spinach plants have curled, yellowing leaf edges.",
+  "The texture of the affected leaves appears rougher than healthy ones.",
+  "There is a dense cluster of tiny, white aphid bodies on the underside of a leaf.",
+  "The veins of the spinach leaves are visibly distorted due to aphid feeding.",
+  "The overall appearance of the plant is stunted with a reduced leaf size compared to healthy plants."
+ ],
+ "sponge gourd|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a mottled appearance with patches of discolored tissue.",
+  "The fruit surface is covered with a dense layer of fine, white, fluffy spots.",
+  "The affected areas on the plant have a distinct, irregular pattern, with lesions scattered across the foliage.",
+  "The plant's overall appearance becomes stunted as the disease progresses, with fewer leaves and smaller flowers.",
+  "As the infection advances, the leaves curl and droop, indicating severe stress to the plant."
+ ],
+ "squash|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a network of fine, white, web-like structures that spread across their surface.",
+  "The fruit develops small, circular patches covered in a fine, white dusting.",
+  "The affected areas on the plant have a distinct, powdery texture that feels rough to the touch.",
+  "Lesions appear as scattered spots on the underside of the leaves, often concentrated near the veins.",
+  "The plant's overall appearance is mottled with patches of white, disrupting the natural green coloration."
+ ],
+ "strawberry|anthracnose": [
+  "The strawberry leaves display small, dark spots that appear as tiny black dots against the green leaf surface.",
+  "The fruit shows elongated, sunken lesions with a reddish-brown border, contrasting sharply with the healthy, bright red skin.",
+  "The affected berries exhibit a rough, cracked texture, with lesions that can be seen to have expanded over time.",
+  "The infected leaves have a mottled appearance, with scattered lesions that vary in size and shape across the leaf surface.",
+  "The stems of the plant show a network of fine, brown lines that crisscross the stem, indicating the spread of the disease.",
+  "The overall plant appears stunted and discolored, with a general decline in health and vigor due to the presence of these lesions."
+ ],
+ "strawberry|leaf scorch": [
+  "The leaves exhibit a distinct reddish-brown discoloration along their edges.",
+  "The affected areas have a scorched appearance with a rough texture.",
+  "Lesions are scattered across the leaf surface, forming irregular patterns.",
+  "Some leaves show a higher concentration of lesions near the tips.",
+  "The affected leaves appear to be wilting slightly due to the stress from the damage."
+ ],
+ "strawberry|thrips": [
+  "The leaves show small, scattered brown spots that appear as if someone has sprinkled coffee grounds across them.",
+  "The fruit surface is covered with tiny, white, web-like structures that give it a dusty appearance.",
+  "The stems exhibit thin, elongated, brown streaks running along their length.",
+  "The flowers have a duller color than usual, with petals that seem to lack vibrancy.",
+  "The overall plant appears stunted, with fewer leaves and smaller flowers compared to healthy plants.",
+  "The affected areas on the plant are concentrated more towards the lower parts of the plant, indicating a possible entry point from the soil."
+ ],
+ "tobacco|blue mold": [
+  "The leaves exhibit a bluish tint with irregularly shaped spots that appear water-soaked and slightly raised.",
+  "The veins of the affected leaves show a distinct darkening, creating a network-like pattern.",
+  "The surface of the leaves is covered with a fine, powdery substance that gives them a rough texture.",
+  "Lesions on the leaves are numerous, scattered across the surface, and vary in size from small dots to larger patches.",
+  "The stems develop a purplish hue, with some areas showing a mottled appearance due to the disease.",
+  "The overall plant appears wilted and droopy, with a general decline in vitality as the disease progresses."
+ ],
+ "tobacco|brown spot": [
+  "The leaves display scattered, circular spots with a dark brown center and a lighter, almost tan ring around it.",
+  "Lesions appear as raised, slightly rough patches on the leaf surface, contrasting sharply with the smooth green background.",
+  "The affected areas have a distinct, concentric pattern, with the outer edge being more diffuse than the inner core.",
+  "Brown spots vary in size but are generally small to medium, often clustered together on the underside of the leaf.",
+  "The affected parts of the plant include both upper and lower surfaces of the leaves, with some spots appearing as elongated streaks along the veins.",
+  "As the disease progresses, the number of lesions increases, covering larger portions of the leaf surface, creating a mottled appearance."
+ ],
+ "tobacco|frogeye leaf spot": [
+  "The leaves display small, circular spots that are initially light green but turn brown as they develop.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, giving them a pustular appearance.",
+  "The affected leaves have a mottled look with scattered lesions, creating a patchy distribution across the leaf surface.",
+  "As the disease progresses, the lesions coalesce into larger, irregular patches, disrupting the leaf's normal structure.",
+  "The veins of the leaves become more prominent due to the surrounding lesions, creating a network-like pattern.",
+  "In severe cases, the lesions can cover large portions of the leaf, leading to significant defoliation and reduced photosynthetic capacity."
+ ],
+ "tobacco|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance across the surface.",
+  "Veins on the leaves appear swollen and discolored, with a purplish hue that contrasts sharply with the surrounding tissue.",
+  "The edges of the leaves curl upwards, forming a characteristic \"cupping\" effect due to the viral infection.",
+  "Small, irregularly shaped spots develop on the lower leaves, spreading upwards as the plant matures.",
+  "The overall texture of the leaves becomes rougher, with visible bumps and ridges developing over time.",
+  "As the disease progresses, the lower leaves may turn brown and fall off, leaving the upper leaves more susceptible to sunburn."
+ ],
+ "tobacco|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellowing that spread across their surface.",
+  "Veins on the leaves appear more prominent and darker than usual, contrasting sharply with the surrounding tissue.",
+  "The edges of the leaves curl inward, giving them a cupped look as they struggle to maintain turgor pressure.",
+  "Small, scattered spots develop on the lower leaves, becoming larger and more numerous as the plant matures.",
+  "The overall coloration of the plant shifts towards a duller green, lacking the vibrant hue typical of healthy tobacco.",
+  "As the deficiency progresses, the lower leaves begin to wilt and drop prematurely, leaving the upper foliage exposed."
+ ],
+ "tobacco|tobacco caterpillar": [
+  "The leaves exhibit a mottled appearance with patches of green and brown, indicating damage from feeding.",
+  "The edges of the leaves curl inward, creating a distinctive frilled look.",
+  "The surface of the leaves is rough and uneven due to the caterpillar's feeding activity.",
+  "Small, irregular holes are scattered across the leaf surface, varying in size and shape.",
+  "The veins on the leaves appear more prominent and darker than usual, contrasting with the surrounding tissue.",
+  "The affected areas show a mix of healthy and damaged sections, creating a patchy effect."
+ ],
+ "tobacco|tobacco mosaic virus": [
+  "The leaves display a mottled pattern with yellow and green patches.",
+  "The veins of the leaves appear to be twisted and distorted.",
+  "The surface of the leaves has a rough, bumpy texture.",
+  "The edges of the leaves may curl upwards, giving them a cupped appearance.",
+  "The plant shows a significant number of lesions scattered across its foliage.",
+  "The lower leaves often show more severe symptoms than the upper ones."
+ ],
+ "tobacco|whiteflies": [
+  "The leaves exhibit a mottled appearance with small, pale spots scattered across their surface.",
+  "The veins of the tobacco leaves appear swollen and discolored, creating a network of raised lines.",
+  "The undersides of the leaves show a dense cluster of tiny, white insects, obscuring the leaf's natural green color.",
+  "The edges of the leaves curl inward, forming a tight, papery texture due to the stress from the infestation.",
+  "The plant's growth is stunted, with fewer flowers and smaller, less vibrant leaves than healthy plants.",
+  "The overall plant has a drooping posture, with leaves that lack the typical firmness and resilience of a healthy tobacco plant."
+ ],
+ "tomato|bacterial leaf spot": [
+  "The leaves display small, circular spots that are initially pale green but quickly turn brown and dry out.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface, giving them a pustular appearance.",
+  "The affected leaves have a rough texture due to the presence of these lesions.",
+  "The spots are scattered across the leaf surface, with some clusters forming along veins.",
+  "As the disease progresses, the lesions coalesce into larger patches, covering significant portions of the leaf.",
+  "The lower leaves show more extensive damage, with many leaves turning yellow and dropping prematurely."
+ ],
+ "tomato|bacterial wilt": [
+  "The leaves of the tomato plant appear wilted and droopy, with a dull green color.",
+  "The stems have a rough, bumpy texture, indicating internal decay.",
+  "The veins on the leaves are clearly visible, appearing darker than usual.",
+  "There is a distinct pattern of brown spots along the veins, spreading outward.",
+  "The plant's fruit shows a mottled appearance with patches of discoloration.",
+  "The overall shape of the plant becomes more slender and elongated as it wilts."
+ ],
+ "tomato|early blight": [
+  "The leaves display dark brown spots that gradually expand into irregular patches.",
+  "The stems exhibit a\u7f51\u7edc\u72b6\u7684pattern of small, sunken lesions.",
+  "The fruit surface is covered with a dense, powdery white growth.",
+  "The affected areas have a rough, scaly texture to the touch.",
+  "Lesions appear first on older leaves and then spread to younger ones.",
+  "The plant's overall appearance becomes mottled and discolored as the disease progresses."
+ ],
+ "tomato|fruit borer": [
+  "The tomato fruit shows a small, irregularly shaped brown spot on its surface.",
+  "The affected area has a rough texture with a slightly raised, scaly appearance.",
+  "A distinct circular pattern is visible around the lesion, indicating the entry point of the pest.",
+  "The lesion appears to be single but could expand if left untreated.",
+  "The borer damage is primarily found on the lower portion of the fruit, near the stem end.",
+  "The affected area is surrounded by a ring of lighter-colored tissue, contrasting sharply with the brown spot."
+ ],
+ "tomato|late blight": [
+  "The leaves exhibit a mottled appearance with dark brown spots scattered across their surface.",
+  "The stems develop elongated, purplish-brown lesions that run along their length.",
+  "The fruit shows large, irregularly shaped patches of dark brown, with a rough texture.",
+  "The plant's foliage becomes increasingly wilted and droops as the infection progresses.",
+  "The affected areas on the leaves have a distinct concentric ring pattern, with the outer rings being lighter than the inner ones.",
+  "The lower leaves turn yellow and fall off prematurely due to the severe damage caused by the disease."
+ ],
+ "tomato|leaf curl virus": [
+  "The leaves exhibit a distinctive crinkled appearance, with edges curling inward.",
+  "The affected foliage has a mottled green and yellow coloration, creating a patchy look.",
+  "The surface of the leaves appears rough and bumpy due to the viral infection.",
+  "Lesions are scattered across the leaf surface, forming irregular patterns that vary in size.",
+  "The veins on the leaves are often twisted and distorted, adding to the overall\u7578\u5f62\u7684\u5916\u89c2\u3002",
+  "As the disease progresses, the leaves may develop brown spots, indicating tissue death."
+ ],
+ "tomato|leaf miner": [
+  "The leaves exhibit a network of fine, silvery-white lines crisscrossing the surface, creating a lace-like appearance.",
+  "The edges of the leaves curl inward, forming small, tight rolls that are often mistaken for insect damage.",
+  "The affected areas have a slightly raised, papery texture compared to healthy parts of the leaf.",
+  "The veins of the leaves appear more prominent and darker than usual, contrasting with the lighter, mined regions.",
+  "The lesions are scattered across the leaf surface, varying in size but generally small and elongated.",
+  "In some cases, the mines can merge into larger, irregular patches, affecting multiple leaves on the plant."
+ ],
+ "tomato|leaf mold": [
+  "The leaves exhibit a velvety texture with a dark green hue, contrasting sharply against the lighter green of healthy foliage.",
+  "Small, circular spots appear on the underside of the leaves, forming a dense cluster that covers much of the surface area.",
+  "The affected leaves have a slightly curled appearance, with edges that are more pronounced than those of unaffected leaves.",
+  "A network of fine lines can be seen radiating from each lesion, creating a web-like pattern across the leaf surface.",
+  "The lesions are primarily concentrated along the veins of the leaves, appearing as elongated patches that run parallel to them.",
+  "As the disease progresses, the affected leaves may develop a powdery white coating, especially noticeable when the leaves are backlit by sunlight."
+ ],
+ "tomato|mosaic virus": [
+  "The leaves display a mottled pattern with patches of yellow and green, creating a speckled appearance.",
+  "The stems exhibit a twisted growth habit, with branches curving unnaturally.",
+  "The fruit shows a mottled skin with irregular brown spots, indicating internal damage.",
+  "The veins on the leaves appear swollen and discolored, with a rough texture.",
+  "The plant has a stunted growth, with fewer and smaller leaves than healthy plants.",
+  "The overall plant structure is distorted, with a drooping canopy and reduced leaf size."
+ ],
+ "tomato|nitrogen deficiency": [
+  "The leaves appear pale green with a yellowish tint, especially on the older foliage.",
+  "The stems have a thin, elongated appearance, lacking the robustness expected in healthy plants.",
+  "The texture of the leaves becomes rougher, with visible veins becoming more pronounced.",
+  "Small, scattered brown spots can be seen on the undersides of the leaves, indicating early signs of stress.",
+  "The fruit shows a lighter coloration compared to normal, with a dull, less vibrant red hue.",
+  "As the deficiency progresses, the leaves may curl upwards, giving them a scorched look."
+ ],
+ "tomato|potassium deficiency": [
+  "The leaves exhibit a mottled appearance with patches of yellowing and brown discoloration.",
+  "The stems show a thinning and wilting, with a lighter green color compared to healthy plants.",
+  "The fruit develops small, sunken spots that eventually turn brown and dry out.",
+  "The overall plant appears stunted, with fewer flowers and smaller, less vibrant foliage.",
+  "The leaves have a crinkled texture, with edges curling inward due to potassium deficiency.",
+  "The plant's growth is significantly reduced, with fewer branches and smaller leaves."
+ ],
+ "tomato|septoria leaf spot": [
+  "The leaves display small, circular spots that are dark brown to black in color.",
+  "Lesions appear as raised, slightly sunken areas on the leaf surface.",
+  "The texture of the affected leaves becomes rough and leathery.",
+  "The pattern of lesions is scattered across the leaf, with some clusters forming.",
+  "The number of lesions increases over time, covering more of the leaf surface.",
+  "As the disease progresses, the leaves may develop a mottled appearance due to the spread of lesions."
+ ],
+ "tomato|whiteflies": [
+  "The leaves exhibit a mottled appearance with small, white spots scattered across their surface.",
+  "The stems show a thinning of the tissue, with a slight discoloration that becomes more pronounced as the plant ages.",
+  "The fruit develops a powdery coating, obscuring its natural color and texture.",
+  "The plant's overall growth is stunted, with fewer leaves and smaller flowers than healthy plants.",
+  "The veins on the leaves appear to be more prominent, creating a network-like pattern under magnification.",
+  "The plant's lower leaves curl upwards, indicating stress and potential nutrient deficiencies."
+ ],
+ "tomato|yellow leaf curl virus": [
+  "The leaves exhibit a distinct yellowing, with veins remaining green while the rest of the leaf turns pale yellow.",
+  "The affected leaves have a curled appearance, with edges rolling inward, giving them a cupped look.",
+  "The surface of the leaves appears rougher than healthy ones, with visible vein patterns becoming more pronounced.",
+  "Lesions are scattered across the leaf surface, creating a mottled effect that contrasts sharply with the unaffected areas.",
+  "The lower leaves show signs of wilting and drooping, indicating the progression of the disease.",
+  "As the infection spreads, new leaves develop with similar symptoms, showing a pattern of yellowing and curling from the base upwards."
+ ],
+ "turmeric|scale insects": [
+  "The leaves exhibit a mottled yellowing, with patches that appear to be slightly raised and textured.",
+  "Small, white, waxy bumps can be seen on the undersides of the leaves, clustered in dense patches.",
+  "The stems have a rough, bumpy surface where the scale insects have infested, creating a scaly appearance.",
+  "The roots show signs of discoloration, with brownish spots that spread across their surface.",
+  "The overall plant appears stunted, with fewer leaves than healthy plants, and a generally drooping posture.",
+  "The affected areas are concentrated around the base of the plant, where the scale insects are most prevalent."
+ ],
+ "watermelon|mosaic virus": [
+  "The leaves display a mottled pattern with yellow and green patches, creating a speckled appearance.",
+  "The fruit surface shows irregular brown spots that vary in size and shape.",
+  "The stems exhibit a rough texture with raised bumps and discolored areas.",
+  "The veins on the leaves appear swollen and twisted, giving them a distorted look.",
+  "The plant has a stunted growth habit, with smaller and fewer leaves than healthy plants.",
+  "The overall plant appears weak and pale, with a general lack of vigor."
+ ],
+ "wheat|armyworm": [
+  "The wheat plant shows numerous small, irregularly shaped holes scattered across its leaves, creating a mottled appearance.",
+  "The stems exhibit a thinning and wilting effect, with some sections appearing more brittle than others.",
+  "The affected leaves have a rough texture due to the presence of tiny, raised spots that resemble small bumps.",
+  "The overall coloration of the plant shifts from vibrant green to a duller shade as the armyworm infestation progresses.",
+  "The distribution of lesions is uneven, with some parts of the plant showing more damage than others, creating a patchy look.",
+  "As the disease advances, the plant's growth becomes stunted, with fewer and smaller grains forming at the top."
+ ],
+ "wheat|bacterial leaf streak": [
+  "The wheat leaves display elongated, narrow streaks of yellowish-brown coloration.",
+  "Lesions appear as irregular, elongated spots that run parallel to the leaf veins.",
+  "The surface of the affected leaves becomes rough and scaly due to the bacterial infection.",
+  "The pattern of lesions is linear and follows the natural growth lines of the leaf blade.",
+  "There are numerous small, scattered lesions across the leaf surface, creating a mottled appearance.",
+  "As the disease progresses, the lesions may coalesce into larger, more prominent streaks on the leaf."
+ ],
+ "wheat|head scab": [
+  "The wheat plant displays numerous small, irregularly shaped lesions on its heads, appearing as light tan to brown spots against the green background.",
+  "The affected heads exhibit a mottled appearance with patches of discoloration that vary in size and shape, creating a patchy texture.",
+  "Close-up views reveal the lesions have a rough, cracked surface, contrasting sharply with the smooth, healthy parts of the head.",
+  "The lesions are scattered across the entire head, some overlapping, forming a dense network of discolored areas.",
+  "In the early stages, the lesions are small and discrete, but as the disease progresses, they coalesce into larger, more extensive patches.",
+  "The affected heads show a general wilting and drooping, with the lesions becoming more pronounced and widespread as the disease advances."
+ ],
+ "wheat|leaf rust": [
+  "The wheat leaves display a network of reddish-brown spots that spread across their surface.",
+  "The affected leaves have a rough texture due to the raised, papular lesions.",
+  "The lesions appear as elongated, irregular patches scattered across the leaf blade.",
+  "The coloration of the lesions is a distinct orange-red, contrasting sharply with the green of the healthy tissue.",
+  "The number of lesions varies, with some leaves having a few scattered spots while others are heavily infested.",
+  "In the early stages, the lesions are small and discrete, but they coalesce into larger areas as the disease progresses."
+ ],
+ "wheat|loose smut": [
+  "The wheat plant displays numerous small, round, dark spots scattered across its surface, resembling tiny black pearls.",
+  "The leaves of the wheat plant exhibit a mottled appearance with patches of lighter and darker areas, creating a patchwork effect.",
+  "The stems of the wheat plant are covered with a\u7f51\u7edc-like pattern of fine, white threads that give them a fuzzy texture.",
+  "The grain heads of the wheat plant have a powdery coating that appears to be a light grayish-white, contrasting sharply with the golden hue of healthy grains.",
+  "The affected wheat plant has a mottled appearance on its leaves, with some areas appearing more yellowed than others.",
+  "The wheat plant's stalks are adorned with a dense network of fine, white threads that cover their surface, giving them a distinctive, almost cobweb-like texture."
+ ],
+ "wheat|nitrogen deficiency": [
+  "The wheat plant's leaves appear pale green, almost yellowish, indicating nutrient stress.",
+  "The leaf margins begin to curl inward, showing signs of dehydration.",
+  "The texture of the leaves becomes rougher, with visible veins standing out more prominently.",
+  "Small, scattered spots develop on the leaves, becoming more numerous as the deficiency worsens.",
+  "The stems of the plants become thinner and lighter in color, with fewer nodes visible.",
+  "The overall growth appears stunted, with shorter and less robust tillers compared to healthy plants."
+ ],
+ "wheat|phosphorus deficiency": [
+  "The wheat plant's leaves appear pale green with a yellowish tint, especially on the lower leaves.",
+  "The stems have a rougher texture than healthy plants, with visible brown spots scattered along their length.",
+  "The leaves develop a mottled appearance, with patches of lighter and darker green blending together.",
+  "The tips of the leaves curl under, giving them a characteristic \"sheep's ear\" look.",
+  "The plant shows fewer, but larger, lesions compared to healthy plants, concentrated near the base of the stem.",
+  "The overall growth is stunted, with shorter and thinner tillers compared to unaffected plants."
+ ],
+ "wheat|powdery mildew": [
+  "The wheat plant displays a whitish, powdery coating on its leaves, creating a distinctive contrast against the green foliage.",
+  "Lesions appear as small, circular spots scattered across the leaf surface, with a slightly raised texture.",
+  "The affected leaves exhibit a mottled appearance due to the dense distribution of lesions, altering their normal coloration.",
+  "As the disease progresses, the lesions merge into larger patches, covering significant portions of the leaf blade.",
+  "The stems of the plant may also be affected, showing signs of discoloration and a rougher texture compared to healthy parts.",
+  "In severe cases, the entire plant can be enveloped by a thick layer of white spores, obscuring the plant's natural structure."
+ ],
+ "wheat|septoria blotch": [
+  "The wheat plant displays small, circular spots scattered across its leaves, appearing as dark brown to black patches against a lighter green background.",
+  "The affected areas have a rough, slightly raised texture compared to healthy parts of the leaf.",
+  "Lesions vary in size but are generally small and numerous, covering large sections of the leaf surface.",
+  "The edges of the lesions are often irregular and may have a light halo around them.",
+  "Some leaves show a mottled appearance with a mix of healthy and diseased tissue, creating a patchy look.",
+  "As the disease progresses, the lesions can coalesce into larger, irregularly shaped areas on the leaf blade."
+ ],
+ "wheat|stem rust": [
+  "The wheat plant displays elongated, reddish-brown lesions on its stems, appearing as irregular streaks that can be seen clearly against the green background.",
+  "The leaves show small, circular spots with a yellow halo around them, scattered across the foliage, giving the plant a mottled appearance.",
+  "The plant's stems exhibit a rough texture due to the presence of numerous small, raised bumps, which are indicative of the disease.",
+  "The affected areas on the wheat plant have a distinct pattern where the healthy green tissue is interspersed with the diseased brown patches, creating a patchy look.",
+  "The lesions on the wheat plant are numerous, covering large sections of the stems and leaves, making the plant appear significantly weakened.",
+  "In some photographs, the wheat plant shows signs of wilting and drooping, with the affected parts bending under the weight of the disease, indicating severe damage."
+ ],
+ "wheat|stripe rust": [
+  "The wheat plant displays elongated, yellowish-orange streaks along its leaves, resembling a striped pattern.",
+  "The affected leaves have a rough, papery texture where the lesions are concentrated.",
+  "Lesions appear as distinct, elongated spots that run parallel to the leaf veins, creating a distinctive pattern.",
+  "The number of lesions varies across the plant, with some leaves having more than others, depending on the severity.",
+  "In the early stages, the lesions are small and scattered, but they grow larger and more numerous as the disease progresses.",
+  "The affected parts of the plant include the upper and lower surfaces of the leaves, with the lesions often appearing more pronounced on the underside."
+ ],
+ "zucchini|bacterial wilt": [
+  "The leaves of the zucchini plant appear yellowing and wilting, with a drooping posture.",
+  "The stems exhibit a dark brown discoloration, becoming increasingly brittle as the disease progresses.",
+  "The fruit surface develops a mottled pattern of green and brown patches, with a rough texture.",
+  "Lesions on the roots are visible as darkened areas, spreading along the root system.",
+  "The plant's overall appearance is stunted, with fewer flowers and smaller, less vibrant blooms.",
+  "As the disease advances, the entire plant may collapse, with the leaves turning completely brown and drooping."
+ ],
+ "zucchini|downy mildew": [
+  "The leaves display a\u7f51\u7edc\u72b6\u7684pattern of pale yellow spots that gradually turn brown as they expand.",
+  "The stems exhibit a rough, scaly texture with small, raised bumps that are often clustered together.",
+  "The fruit surface is covered with a dense, white, cotton-like growth that contrasts sharply with the green skin beneath.",
+  "The veins on the underside of the leaves appear to be more pronounced and darker than usual, creating a striking contrast.",
+  "The affected areas on the plant have a distinct, irregular shape, with lesions that can vary in size and intensity.",
+  "As the disease progresses, the leaves may curl upwards and droop, giving the plant a wilted appearance despite being well-watered."
+ ],
+ "zucchini|powdery mildew": [
+  "The leaves display a white, powdery coating that contrasts sharply with the green background.",
+  "The stems exhibit a mottled appearance with patches of discolored tissue.",
+  "The fruit surface is covered with a dense layer of white, fluffy growth.",
+  "The affected areas on the plant have a distinct, irregular pattern of lesions.",
+  "Lesions appear as small, circular spots scattered across the leaf surfaces.",
+  "The overall plant health seems compromised, with some leaves curling and drooping."
+ ],
+ "zucchini|yellow mosaic virus": [
+  "The leaves display a mottled yellow pattern, with some areas appearing almost translucent.",
+  "Veins on the leaves are distinctly darker than the surrounding tissue, creating a striking contrast.",
+  "The surface of the leaves is rougher to the touch, with small, raised bumps visible under magnification.",
+  "The stems exhibit a lighter green coloration compared to the rest of the plant, with a slightly fuzzy texture.",
+  "Leaves at the top of the plant show more severe symptoms, with larger, irregularly shaped yellow patches.",
+  "The lower leaves remain relatively healthy but show signs of yellowing at the edges, indicating the virus's progression."
+ ]
+}

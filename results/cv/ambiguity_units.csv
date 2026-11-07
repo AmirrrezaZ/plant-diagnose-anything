@@ -1,0 +1,117 @@
+unit,crop,n_sib,nn,nn_sim,nn_diff,n_diff,n_sib_ge_0_8,zs,tuned,chance
+apple|black rot,apple,3,apple|scab,0.6944,"affected_part,texture,lesion_density",3,0,0.6757,0.6757,0.25
+apple|mosaic virus,apple,3,apple|scab,0.1667,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.9231,0.979,0.25
+apple|rust,apple,3,apple|scab,0.3472,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.68,0.4364,0.25
+apple|scab,apple,3,apple|black rot,0.6944,"affected_part,texture,lesion_density",3,0,0.1245,0.0623,0.25
+banana|anthracnose,banana,5,banana|black leaf streak,0.3333,"affected_part,color,texture,shape,pattern",5,0,0.75,0.8015,0.1667
+banana|black leaf streak,banana,5,banana|cordana leaf spot,0.6667,"pattern,lesion_density",2,0,0.8219,0.8938,0.1667
+banana|bunchy top,banana,5,banana|panama disease,0.3056,"affected_part,color,texture,shape,pattern",5,0,0.4532,0.7986,0.1667
+banana|cigar end rot,banana,5,banana|anthracnose,0.2917,"color,texture,shape,pattern,lesion_density",5,0,0.75,0.6964,0.1667
+banana|cordana leaf spot,banana,5,banana|black leaf streak,0.6667,"pattern,lesion_density",2,0,0.3542,0.3542,0.1667
+banana|panama disease,banana,5,banana|cordana leaf spot,0.3611,"affected_part,color,shape,pattern,lesion_density",5,0,0.549,0.0882,0.1667
+bean|halo blight,bean,2,bean|rust,0.75,"color,texture",2,0,0.5545,0.7636,0.3333
+bean|mosaic virus,bean,2,bean|rust,0.2083,"color,texture,shape,pattern,lesion_density",5,0,0.8696,0.9087,0.3333
+bean|rust,bean,2,bean|halo blight,0.75,"color,texture",2,0,0.8252,0.8252,0.3333
+bell pepper|bacterial spot,bell pepper,4,bell pepper|leaf spot,0.6111,"color,texture,shape,lesion_density",4,0,0.6724,0.0517,0.2
+bell pepper|blossom end rot,bell pepper,4,bell pepper|leaf spot,0.25,"affected_part,color,texture,shape,pattern,lesion_density",6,0,1.0,1.0,0.2
+bell pepper|frogeye leaf spot,bell pepper,4,bell pepper|leaf spot,0.5972,"color,texture,shape,lesion_density",4,0,0.04,0.08,0.2
+bell pepper|leaf spot,bell pepper,4,bell pepper|bacterial spot,0.6111,"color,texture,shape,lesion_density",4,0,0.1039,0.3182,0.2
+bell pepper|powdery mildew,bell pepper,4,bell pepper|leaf spot,0.3889,"color,texture,shape,pattern,lesion_density",5,0,0.619,0.9048,0.2
+blueberry|anthracnose,blueberry,4,blueberry|scorch,0.2083,"affected_part,color,texture,shape,lesion_density",5,0,0.3611,0.3194,0.2
+blueberry|botrytis blight,blueberry,4,blueberry|mummy berry,0.8889,affected_part,1,1,0.75,0.75,0.2
+blueberry|mummy berry,blueberry,4,blueberry|botrytis blight,0.8889,affected_part,1,1,0.8293,0.9756,0.2
+blueberry|rust,blueberry,4,blueberry|scorch,0.2778,"color,texture,shape,pattern,lesion_density",5,0,0.5773,0.6856,0.2
+blueberry|scorch,blueberry,4,blueberry|mummy berry,0.5,"affected_part,color,shape,pattern",4,0,0.7805,0.8415,0.2
+broccoli|alternaria leaf spot,broccoli,2,broccoli|ring spot,0.7917,"color,lesion_density",2,0,0.675,0.5625,0.3333
+broccoli|downy mildew,broccoli,2,broccoli|ring spot,0.6083,"color,shape,pattern",3,0,0.8667,0.5333,0.3333
+broccoli|ring spot,broccoli,2,broccoli|alternaria leaf spot,0.7917,"color,lesion_density",2,0,0.1667,0.3333,0.3333
+cabbage|alternaria leaf spot,cabbage,1,cabbage|black rot,0.6667,"shape,pattern",2,0,0.219,0.5857,0.5
+cabbage|black rot,cabbage,1,cabbage|alternaria leaf spot,0.6667,"shape,pattern",2,0,0.9911,0.9955,0.5
+carrot|alternaria leaf blight,carrot,3,carrot|cercospora leaf blight,0.4833,"color,shape,pattern,lesion_density",4,0,0.9608,0.9804,0.25
+carrot|bacterial soft rot,carrot,3,carrot|alternaria leaf blight,0.2639,"affected_part,color,texture,shape,pattern",5,0,0.5,0.5,0.25
+carrot|cavity spot,carrot,3,carrot|cercospora leaf blight,0.3667,"affected_part,color,texture,shape,pattern",5,0,0.9714,0.9786,0.25
+carrot|cercospora leaf blight,carrot,3,carrot|alternaria leaf blight,0.4833,"color,shape,pattern,lesion_density",4,0,0.0588,0.0,0.25
+cauliflower|alternaria leaf spot,cauliflower,1,cauliflower|bacterial soft rot,0.0833,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.7857,0.7857,0.5
+cauliflower|bacterial soft rot,cauliflower,1,cauliflower|alternaria leaf spot,0.0833,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.9615,0.9615,0.5
+celery|anthracnose,celery,1,celery|early blight,0.5528,"affected_part,color,texture,shape,pattern",5,0,1.0,0.9706,0.5
+celery|early blight,celery,1,celery|anthracnose,0.5528,"affected_part,color,texture,shape,pattern",5,0,0.5882,0.6667,0.5
+cherry|leaf spot,cherry,1,cherry|powdery mildew,0.1667,"color,texture,shape,pattern,lesion_density",5,0,0.7569,0.7385,0.5
+cherry|powdery mildew,cherry,1,cherry|leaf spot,0.1667,"color,texture,shape,pattern,lesion_density",5,0,0.9417,0.9515,0.5
+citrus|canker,citrus,1,citrus|greening disease,0.2833,"color,texture,shape,pattern,lesion_density",5,0,0.5542,0.9006,0.5
+citrus|greening disease,citrus,1,citrus|canker,0.2833,"color,texture,shape,pattern,lesion_density",5,0,0.9856,0.9617,0.5
+coffee|berry blotch,coffee,3,coffee|brown eye spot,0.5139,"color,texture,shape,lesion_density",4,0,0.6705,0.6989,0.25
+coffee|black rot,coffee,3,coffee|berry blotch,0.3611,"affected_part,texture,shape,pattern,lesion_density",5,0,0.3333,0.3333,0.25
+coffee|brown eye spot,coffee,3,coffee|leaf rust,0.6111,"affected_part,color,shape,pattern",4,0,0.25,0.25,0.25
+coffee|leaf rust,coffee,3,coffee|brown eye spot,0.6111,"affected_part,color,shape,pattern",4,0,0.9392,0.8978,0.25
+corn|gray leaf spot,corn,3,corn|northern leaf blight,0.5278,"color,shape,pattern,lesion_density",4,0,0.2438,0.1294,0.25
+corn|northern leaf blight,corn,3,corn|gray leaf spot,0.5278,"color,shape,pattern,lesion_density",4,0,0.4188,0.4241,0.25
+corn|rust,corn,3,corn|gray leaf spot,0.375,"color,texture,shape,pattern",4,0,0.8678,0.848,0.25
+corn|smut,corn,3,corn|gray leaf spot,0.0417,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.9892,0.9874,0.25
+cucumber|angular leaf spot,cucumber,2,cucumber|powdery mildew,0.5,"color,texture,shape",3,0,0.4836,0.6127,0.3333
+cucumber|bacterial wilt,cucumber,2,cucumber|powdery mildew,0.1667,"color,texture,shape,pattern,lesion_density",5,0,0.8931,0.8244,0.3333
+cucumber|powdery mildew,cucumber,2,cucumber|angular leaf spot,0.5,"color,texture,shape",3,0,0.9245,0.9623,0.3333
+eggplant|cercospora leaf spot,eggplant,2,eggplant|phomopsis fruit rot,0.2778,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.9367,0.9747,0.3333
+eggplant|phomopsis fruit rot,eggplant,2,eggplant|phytophthora blight,0.3472,"affected_part,color,texture,shape,pattern",5,0,0.7,0.5875,0.3333
+eggplant|phytophthora blight,eggplant,2,eggplant|phomopsis fruit rot,0.3472,"affected_part,color,texture,shape,pattern",5,0,0.8,0.82,0.3333
+garlic|leaf blight,garlic,2,garlic|rust,0.2556,"color,texture,shape,pattern,lesion_density",5,0,0.8286,0.8429,0.3333
+garlic|rust,garlic,2,garlic|leaf blight,0.2556,"color,texture,shape,pattern,lesion_density",5,0,0.7917,0.7604,0.3333
+garlic|white rot,garlic,2,garlic|leaf blight,0.2,"affected_part,color,texture,shape,pattern,lesion_density",6,0,1.0,1.0,0.3333
+ginger|leaf spot,ginger,1,ginger|sheath blight,0.5833,"affected_part,color,pattern,lesion_density",4,0,0.4722,0.7847,0.5
+ginger|sheath blight,ginger,1,ginger|leaf spot,0.5833,"affected_part,color,pattern,lesion_density",4,0,0.9189,0.7297,0.5
+grape|black rot,grape,3,grape|leaf spot,0.5278,"affected_part,color,shape,lesion_density",4,0,0.6147,0.5688,0.25
+grape|downy mildew,grape,3,grape|black rot,0.25,"affected_part,color,texture,shape,pattern",5,0,0.5266,0.5332,0.25
+grape|leaf spot,grape,3,grape|black rot,0.5278,"affected_part,color,shape,lesion_density",4,0,0.6735,0.7551,0.25
+grape|leafroll disease,grape,3,grape|leaf spot,0.1667,"color,texture,shape,pattern,lesion_density",5,0,0.8527,0.8837,0.25
+lettuce|downy mildew,lettuce,1,lettuce|mosaic virus,0.3333,"color,texture,shape,pattern",4,0,0.8182,0.8273,0.5
+lettuce|mosaic virus,lettuce,1,lettuce|downy mildew,0.3333,"color,texture,shape,pattern",4,0,0.64,0.8133,0.5
+peach|anthracnose,peach,4,peach|scab,0.5833,"color,texture,lesion_density",3,0,0.1538,0.1154,0.2
+peach|brown rot,peach,4,peach|anthracnose,0.2917,"color,texture,shape,pattern,lesion_density",5,0,0.8931,0.9623,0.2
+peach|leaf curl,peach,4,peach|rust,0.1667,"color,texture,shape,pattern,lesion_density",5,0,0.9487,0.9551,0.2
+peach|rust,peach,4,peach|scab,0.4167,"affected_part,color,texture,shape",4,0,0.7143,1.0,0.2
+peach|scab,peach,4,peach|anthracnose,0.5833,"color,texture,lesion_density",3,0,0.8143,0.9214,0.2
+plum|bacterial spot,plum,4,plum|pox virus,0.4167,"color,texture,shape,pattern,lesion_density",5,0,0.1429,0.1429,0.2
+plum|brown rot,plum,4,plum|pox virus,0.3571,"affected_part,color,texture,shape,pattern",5,0,0.4412,0.6765,0.2
+plum|pocket disease,plum,4,plum|brown rot,0.2917,"color,texture,shape,pattern,lesion_density",5,0,0.8261,0.5797,0.2
+plum|pox virus,plum,4,plum|bacterial spot,0.4167,"color,texture,shape,pattern,lesion_density",5,0,0.4,0.55,0.2
+plum|rust,plum,4,plum|bacterial spot,0.3944,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.9333,0.8833,0.2
+potato|bacterial soft rot,potato,3,potato|dry rot,0.4139,"color,texture,shape,pattern,lesion_density",5,0,0.5,0.625,0.25
+potato|dry rot,potato,3,potato|bacterial soft rot,0.4139,"color,texture,shape,pattern,lesion_density",5,0,0.5,0.5,0.25
+potato|early blight,potato,3,potato|late blight,0.6944,"color,texture,shape,pattern",4,0,0.1034,0.431,0.25
+potato|late blight,potato,3,potato|early blight,0.6944,"color,texture,shape,pattern",4,0,0.9266,0.9266,0.25
+raspberry|fire blight,raspberry,3,raspberry|leaf spot,0.375,"color,shape,pattern,lesion_density",4,0,0.875,0.9583,0.25
+raspberry|gray mold,raspberry,3,raspberry|leaf spot,0.125,"affected_part,color,texture,shape,pattern,lesion_density",6,0,1.0,1.0,0.25
+raspberry|leaf spot,raspberry,3,raspberry|yellow rust,0.375,"color,texture,shape,pattern,lesion_density",5,0,0.5,0.6389,0.25
+raspberry|yellow rust,raspberry,3,raspberry|leaf spot,0.375,"color,texture,shape,pattern,lesion_density",5,0,0.9706,0.9853,0.25
+rice|blast,rice,1,rice|sheath blight,0.4444,"affected_part,color,shape,pattern,lesion_density",5,0,0.6027,0.7842,0.5
+rice|sheath blight,rice,1,rice|blast,0.4444,"affected_part,color,shape,pattern,lesion_density",5,0,0.8609,0.6152,0.5
+soybean|bacterial blight,soybean,5,soybean|brown spot,0.6944,"color,shape,lesion_density",3,0,0.025,0.15,0.1667
+soybean|brown spot,soybean,5,soybean|bacterial blight,0.6944,"color,shape,lesion_density",3,0,0.8364,0.4364,0.1667
+soybean|downy mildew,soybean,5,soybean|bacterial blight,0.625,"color,texture,pattern",3,0,0.6797,0.6172,0.1667
+soybean|frogeye leaf spot,soybean,5,soybean|bacterial blight,0.65,"color,shape,pattern",3,0,0.0363,0.2254,0.1667
+soybean|mosaic virus,soybean,5,soybean|downy mildew,0.5833,"shape,pattern,lesion_density",3,0,0.3,0.4,0.1667
+soybean|rust,soybean,5,soybean|brown spot,0.5833,"color,texture,shape,pattern",4,0,0.215,0.6028,0.1667
+strawberry|anthracnose,strawberry,1,strawberry|leaf scorch,0.0,"affected_part,color,texture,shape,pattern,lesion_density",6,0,0.8172,0.8333,0.5
+strawberry|leaf scorch,strawberry,1,strawberry|anthracnose,0.0,"affected_part,color,texture,shape,pattern,lesion_density",6,0,1.0,1.0,0.5
+tobacco|blue mold,tobacco,3,tobacco|brown spot,0.625,"color,texture,shape,pattern",4,0,0.2778,0.3981,0.25
+tobacco|brown spot,tobacco,3,tobacco|frogeye leaf spot,0.7778,"color,shape,lesion_density",3,0,0.5,0.7931,0.25
+tobacco|frogeye leaf spot,tobacco,3,tobacco|brown spot,0.7778,"color,shape,lesion_density",3,0,0.3125,0.25,0.25
+tobacco|mosaic virus,tobacco,3,tobacco|blue mold,0.3333,"color,texture,shape,pattern,lesion_density",5,0,0.8193,0.8193,0.25
+tomato|bacterial leaf spot,tomato,6,tomato|septoria leaf spot,0.8333,"shape,pattern",2,1,0.3386,0.2729,0.1429
+tomato|early blight,tomato,6,tomato|septoria leaf spot,0.7917,"color,shape,pattern",3,0,0.0314,0.1359,0.1429
+tomato|late blight,tomato,6,tomato|leaf mold,0.6111,"affected_part,color,texture,shape",4,0,0.444,0.3657,0.1429
+tomato|leaf mold,tomato,6,tomato|late blight,0.6111,"affected_part,color,texture,shape",4,0,0.2358,0.2358,0.1429
+tomato|mosaic virus,tomato,6,tomato|yellow leaf curl virus,0.8333,pattern,1,1,0.1,0.2361,0.1429
+tomato|septoria leaf spot,tomato,6,tomato|bacterial leaf spot,0.8333,"shape,pattern",2,1,0.2404,0.3579,0.1429
+tomato|yellow leaf curl virus,tomato,6,tomato|mosaic virus,0.8333,pattern,1,1,0.9527,0.7635,0.1429
+wheat|bacterial leaf streak,wheat,7,wheat|septoria blotch,0.6667,"pattern,lesion_density",2,0,0.0952,0.1571,0.125
+wheat|head scab,wheat,7,wheat|loose smut,0.3333,"affected_part,color,texture,shape,pattern",5,0,0.48,0.206,0.125
+wheat|leaf rust,wheat,7,wheat|stem rust,0.6667,"affected_part,shape,pattern",3,0,0.7311,0.7311,0.125
+wheat|loose smut,wheat,7,wheat|head scab,0.3333,"affected_part,color,texture,shape,pattern",5,0,0.9241,0.9345,0.125
+wheat|powdery mildew,wheat,7,wheat|bacterial leaf streak,0.3333,"color,texture,shape,pattern",4,0,0.7905,0.8103,0.125
+wheat|septoria blotch,wheat,7,wheat|bacterial leaf streak,0.6667,"pattern,lesion_density",2,0,0.1092,0.592,0.125
+wheat|stem rust,wheat,7,wheat|leaf rust,0.6667,"affected_part,shape,pattern",3,0,0.8538,0.2769,0.125
+wheat|stripe rust,wheat,7,wheat|stem rust,0.6389,"affected_part,color,pattern",3,0,0.6965,0.746,0.125
+zucchini|bacterial wilt,zucchini,3,zucchini|yellow mosaic virus,0.5,"affected_part,color,shape,pattern",4,0,0.8769,0.6385,0.25
+zucchini|downy mildew,zucchini,3,zucchini|yellow mosaic virus,0.4444,"color,shape,pattern,lesion_density",4,0,0.8293,0.8049,0.25
+zucchini|powdery mildew,zucchini,3,zucchini|downy mildew,0.3889,"color,texture,shape,pattern",4,0,0.9583,0.9613,0.25
+zucchini|yellow mosaic virus,zucchini,3,zucchini|bacterial wilt,0.5,"affected_part,color,shape,pattern",4,0,0.4529,0.4529,0.25

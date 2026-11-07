@@ -1,0 +1,8 @@
+release_assets/
+checkpoints/
+models/
+__pycache__/
+*.pyc
+*.pt
+venv/
+.DS_Store

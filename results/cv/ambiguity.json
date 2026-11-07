@@ -1,0 +1,183 @@
+{
+ "n_units": 116,
+ "bins": {
+  "distinct (<0.5)": {
+   "n": 59,
+   "zs": [
+    0.7409250888796786,
+    0.6842321805909631,
+    0.7968422892823533
+   ],
+   "tuned": [
+    0.756603351537035,
+    0.6913771606938042,
+    0.8185886412741658
+   ],
+   "chance": 0.28997175141242937,
+   "mean_n_diff": 5.033898305084746
+  },
+  "similar (0.5-0.7)": {
+   "n": 44,
+   "zs": [
+    0.516173607190807,
+    0.42371064687980825,
+    0.6101453725084761
+   ],
+   "tuned": [
+    0.5287026502466219,
+    0.44778247590371767,
+    0.6070539841944739
+   ],
+   "chance": 0.24872835497835497,
+   "mean_n_diff": 3.4318181818181817
+  },
+  "near-identical (>=0.7)": {
+   "n": 13,
+   "zs": [
+    0.48279226181435664,
+    0.32572648608721694,
+    0.6407597937300094
+   ],
+   "tuned": [
+    0.5399771320527964,
+    0.3933029011719454,
+    0.6893961819067211
+   ],
+   "chance": 0.2267399267399267,
+   "mean_n_diff": 1.9230769230769231
+  }
+ },
+ "spearman_nn_sim_vs_tuned": [
+  -0.4571847088045831,
+  2.4817801249322705e-07
+ ],
+ "spearman_nn_sim_vs_zs": [
+  -0.44268233707268717,
+  6.498625160474954e-07
+ ],
+ "distinguishing_attribute_share": {
+  "distinct (<0.5)": {
+   "affected_part": 0.4745762711864407,
+   "color": 0.9830508474576272,
+   "texture": 0.8813559322033898,
+   "shape": 1.0,
+   "pattern": 0.9661016949152542,
+   "lesion_density": 0.7288135593220338
+  },
+  "similar (0.5-0.7)": {
+   "affected_part": 0.4090909090909091,
+   "color": 0.75,
+   "texture": 0.4318181818181818,
+   "shape": 0.7272727272727273,
+   "pattern": 0.6363636363636364,
+   "lesion_density": 0.4772727272727273
+  },
+  "near-identical (>=0.7)": {
+   "affected_part": 0.15384615384615385,
+   "color": 0.5384615384615384,
+   "texture": 0.15384615384615385,
+   "shape": 0.38461538461538464,
+   "pattern": 0.38461538461538464,
+   "lesion_density": 0.3076923076923077
+  }
+ },
+ "pairs_identical_on_all_six": 0,
+ "worst_units": [
+  {
+   "unit": "carrot|cercospora leaf blight",
+   "nn": "carrot|alternaria leaf blight",
+   "nn_sim": 0.483,
+   "nn_diff": "color,shape,pattern,lesion_density",
+   "tuned": 0.0,
+   "zs": 0.059
+  },
+  {
+   "unit": "bell pepper|bacterial spot",
+   "nn": "bell pepper|leaf spot",
+   "nn_sim": 0.611,
+   "nn_diff": "color,texture,shape,lesion_density",
+   "tuned": 0.052,
+   "zs": 0.672
+  },
+  {
+   "unit": "apple|scab",
+   "nn": "apple|black rot",
+   "nn_sim": 0.694,
+   "nn_diff": "affected_part,texture,lesion_density",
+   "tuned": 0.062,
+   "zs": 0.125
+  },
+  {
+   "unit": "bell pepper|frogeye leaf spot",
+   "nn": "bell pepper|leaf spot",
+   "nn_sim": 0.597,
+   "nn_diff": "color,texture,shape,lesion_density",
+   "tuned": 0.08,
+   "zs": 0.04
+  },
+  {
+   "unit": "banana|panama disease",
+   "nn": "banana|cordana leaf spot",
+   "nn_sim": 0.361,
+   "nn_diff": "affected_part,color,shape,pattern,lesion_density",
+   "tuned": 0.088,
+   "zs": 0.549
+  },
+  {
+   "unit": "peach|anthracnose",
+   "nn": "peach|scab",
+   "nn_sim": 0.583,
+   "nn_diff": "color,texture,lesion_density",
+   "tuned": 0.115,
+   "zs": 0.154
+  },
+  {
+   "unit": "corn|gray leaf spot",
+   "nn": "corn|northern leaf blight",
+   "nn_sim": 0.528,
+   "nn_diff": "color,shape,pattern,lesion_density",
+   "tuned": 0.129,
+   "zs": 0.244
+  },
+  {
+   "unit": "tomato|early blight",
+   "nn": "tomato|septoria leaf spot",
+   "nn_sim": 0.792,
+   "nn_diff": "color,shape,pattern",
+   "tuned": 0.136,
+   "zs": 0.031
+  },
+  {
+   "unit": "plum|bacterial spot",
+   "nn": "plum|pox virus",
+   "nn_sim": 0.417,
+   "nn_diff": "color,texture,shape,pattern,lesion_density",
+   "tuned": 0.143,
+   "zs": 0.143
+  },
+  {
+   "unit": "soybean|bacterial blight",
+   "nn": "soybean|brown spot",
+   "nn_sim": 0.694,
+   "nn_diff": "color,shape,lesion_density",
+   "tuned": 0.15,
+   "zs": 0.025
+  },
+  {
+   "unit": "wheat|bacterial leaf streak",
+   "nn": "wheat|septoria blotch",
+   "nn_sim": 0.667,
+   "nn_diff": "pattern,lesion_density",
+   "tuned": 0.157,
+   "zs": 0.095
+  },
+  {
+   "unit": "wheat|head scab",
+   "nn": "wheat|loose smut",
+   "nn_sim": 0.333,
+   "nn_diff": "affected_part,color,texture,shape,pattern",
+   "tuned": 0.206,
+   "zs": 0.48
+  }
+ ]
+}

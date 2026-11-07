@@ -1,0 +1,6256 @@
+{
+ "source": "Qwen2.5-VL-7B-Instruct text-only, crop+disease name only",
+ "vocab": {
+  "affected_part": [
+   "flower",
+   "fruit",
+   "inflorescence",
+   "leaf",
+   "root",
+   "seed_grain",
+   "stem",
+   "whole_plant"
+  ],
+  "color": [
+   "brown",
+   "dark_black",
+   "orange",
+   "pale_green",
+   "red_purple",
+   "tan",
+   "white_gray",
+   "yellow"
+  ],
+  "texture": [
+   "dry_necrotic",
+   "fuzzy_moldy",
+   "powdery",
+   "pustules",
+   "raised_corky",
+   "sunken",
+   "water_soaked"
+  ],
+  "shape": [
+   "angular",
+   "circular",
+   "concentric_target",
+   "curled_distorted",
+   "elongated",
+   "irregular",
+   "swollen_galls",
+   "wilted"
+  ],
+  "pattern": [
+   "coalescing_blotches",
+   "halo",
+   "interveinal",
+   "mosaic_mottle",
+   "scattered_spots",
+   "stripes_streaks",
+   "uniform_general"
+  ],
+  "lesion_density": [
+   "dense",
+   "sparse",
+   "targeted"
+  ]
+ },
+ "profiles": {
+  "apple|black rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "apple|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "apple|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "apple|scab": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "arhar|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "arhar|pod borer": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "arhar|sterility mosaic": {
+   "affected_part": [
+    "flower"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "banana|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|banana aphid": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "banana|banana weevil": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "banana|black leaf streak": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|bunchy top": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "banana|calcium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "banana|cigar end rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|cordana leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|panama disease": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|panama wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "banana|sigatoka leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "barley|smut": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "basil|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bean|bacterial blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|halo blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "halo"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|leaf miner": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|mites": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bean|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bean|pod borer": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bean|root rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bean|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bell pepper|bacterial spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bell pepper|blossom end rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "uniform_general"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bell pepper|frogeye leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bell pepper|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bell pepper|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bhindi|jassids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bhindi|shoot and fruit borer": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bitter gourd|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "bitter gourd|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bitter gourd|whiteflies": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "blueberry|anthracnose": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "blueberry|botrytis blight": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "blueberry|mummy berry": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "dark_black"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "blueberry|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "blueberry|scorch": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bottle gourd|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bottle gourd|fruit fly": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bottle gourd|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bottle gourd|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "bottle gourd|red pumpkin beetle": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "red_purple"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "brinjal|mites": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "brinjal|phomopsis blight": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "brinjal|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "brinjal|shoot and fruit borer": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "brinjal|wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "wilted"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "broccoli|alternaria leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "broccoli|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "broccoli|ring spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cabbage|alternaria leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cabbage|black rot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cabbage|cabbage looper": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cabbage|diamondback moth": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cabbage|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "canola|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "carrot|alternaria leaf blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "carrot|bacterial soft rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "carrot|cavity spot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "carrot|cercospora leaf blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cauliflower|alternaria leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cauliflower|bacterial soft rot": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cauliflower|black rot": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cauliflower|boron deficiency": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cauliflower|cutworms": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cauliflower|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "celery|anthracnose": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "celery|early blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cherry|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cherry|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chickpea|ascochyta blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chickpea|botrytis gray mold": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "white_gray",
+    "brown"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chickpea|dry root rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chickpea|fusarium wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chickpea|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chickpea|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chikoo|cutworms": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chili|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chilli|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chilli|leaf curl virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "chilli|mites": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chilli|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "chilli|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "citrus|canker": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "sunken",
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "citrus|citrus canker": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "citrus|citrus psyllid": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "citrus|greening disease": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "citrus|leaf miner": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "citrus|scale insects": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray",
+    "brown"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "coffee|berry blotch": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "coffee|black rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "coffee|brown eye spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "coffee|leaf rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange",
+    "tan"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "coriander|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "corn|gray leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "corn|northern leaf blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "angular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "corn|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "corn|smut": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cotton|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cotton|bollworm": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cotton|jassids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cowpea|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cowpea|leaf hopper": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cowpea|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cucumber|angular leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "angular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cucumber|bacterial wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cucumber|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "cucumber|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "cucumber|squash bug": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "custard apple|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "eggplant|cercospora leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "eggplant|phomopsis fruit rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "eggplant|phytophthora blight": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "garlic|leaf blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "garlic|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "garlic|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "garlic|white rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "ginger|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "ginger|sheath blight": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "gram|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "gram|scale insects": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "gram|whiteflies": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "grape|black rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "dark_black"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "grape|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "grape|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "grape|leafroll disease": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "groundnut|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "groundnut|collar rot": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "groundnut|leaf miner": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "groundnut|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "guava|bark eating caterpillar": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "guava|fruit fly": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "guava|mealybugs": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "guava|phosphorus deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "guava|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "kidney bean|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "kidney bean|cutworms": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "lemon|leaf miner": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "lettuce|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "lettuce|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "maize|banded leaf and sheath blight": {
+   "affected_part": [
+    "leaf",
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "elongated"
+   ],
+   "pattern": [
+    "stripes_streaks"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "maize|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "maize|fall armyworm": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "maize|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "maize|stem borer": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "maize|turcicum leaf blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mango|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mango|bacterial canker": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mango|boron deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "mango|mango hopper": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "mango|mealybugs": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mango|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "mango|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "maple|tar spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "medicinal plants|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "moong|cercospora leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "moringa|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "mustard|alternaria blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mustard|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "mustard|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "mustard|white rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "okra|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "okra|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "onion|basal rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "onion|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "onion|purple blotch": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "red_purple"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "onion|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "paddy|blast": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "paddy|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "paddy|stem borer": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "papaya|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "papaya|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "papaya|papaya mealybug": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "papaya|papaya ring spot virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "papaya|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "peach|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "peach|brown rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "peach|leaf curl": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "raised_corky"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "peach|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "peach|scab": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "pea|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pea|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "pigeon pea|phytophthora blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "plum|bacterial spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "plum|brown rot": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "plum|pocket disease": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "plum|pox virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "plum|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pomegranate|scale insects": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "potato|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "potato|bacterial soft rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|bacterial wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|calcium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "potato|common scab": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "potato|cutworms": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|dry rot": {
+   "affected_part": [
+    "root"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|early blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|late blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "potato|magnesium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "potato|phosphorus deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pumpkin|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pumpkin|cucumber beetle": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pumpkin|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pumpkin|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "pumpkin|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "raspberry|fire blight": {
+   "affected_part": [
+    "inflorescence",
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "dark_black"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "raspberry|gray mold": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "white_gray",
+    "tan"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "raspberry|leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "raspberry|yellow rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "red gram|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "rice|blast": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "rice|brown spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "rice|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "rice|rice bug": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "rice|sheath blight": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "rice|stem borer": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "ridge gourd|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "ridge gourd|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "ridge gourd|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "ridge gourd|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "ridge gourd|red pumpkin beetle": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "red_purple"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "rose|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "rose|thrips": {
+   "affected_part": [
+    "flower"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "soybean|bacterial blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "soybean|brown spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "soybean|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "soybean|frogeye leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "soybean|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "soybean|rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "spinach|aphids": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "sponge gourd|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "squash|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "strawberry|anthracnose": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "strawberry|leaf scorch": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "strawberry|thrips": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|blue mold": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tobacco|brown spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|frogeye leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|tobacco caterpillar": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tobacco|tobacco mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tobacco|whiteflies": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|bacterial leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|bacterial wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|early blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|fruit borer": {
+   "affected_part": [
+    "fruit"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tomato|late blight": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|leaf curl virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|leaf miner": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tomato|leaf mold": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tomato|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tomato|potassium deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "tomato|septoria leaf spot": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "circular",
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|whiteflies": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "tomato|yellow leaf curl virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "curled_distorted"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "turmeric|scale insects": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "watermelon|mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "wheat|armyworm": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "wheat|bacterial leaf streak": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "tan",
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "elongated"
+   ],
+   "pattern": [
+    "stripes_streaks"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|head scab": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|leaf rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|loose smut": {
+   "affected_part": [
+    "inflorescence"
+   ],
+   "color": [
+    "tan",
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|nitrogen deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "wheat|phosphorus deficiency": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "pale_green"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "wheat|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "wheat|septoria blotch": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "tan",
+    "brown"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|stem rust": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "orange"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "wheat|stripe rust": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "orange",
+    "yellow"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [],
+   "pattern": [
+    "interveinal"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "zucchini|bacterial wilt": {
+   "affected_part": [
+    "stem"
+   ],
+   "color": [
+    "brown",
+    "tan"
+   ],
+   "texture": [
+    "dry_necrotic",
+    "sunken"
+   ],
+   "shape": [
+    "irregular",
+    "swollen_galls"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "zucchini|downy mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "fuzzy_moldy"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "coalescing_blotches"
+   ],
+   "lesion_density": [
+    "dense"
+   ]
+  },
+  "zucchini|powdery mildew": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "white_gray"
+   ],
+   "texture": [
+    "powdery"
+   ],
+   "shape": [
+    "circular"
+   ],
+   "pattern": [
+    "scattered_spots"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  },
+  "zucchini|yellow mosaic virus": {
+   "affected_part": [
+    "leaf"
+   ],
+   "color": [
+    "yellow"
+   ],
+   "texture": [
+    "dry_necrotic"
+   ],
+   "shape": [
+    "irregular"
+   ],
+   "pattern": [
+    "mosaic_mottle"
+   ],
+   "lesion_density": [
+    "sparse"
+   ]
+  }
+ },
+ "pw_units": [
+  "apple|black rot",
+  "apple|mosaic virus",
+  "apple|rust",
+  "apple|scab",
+  "banana|anthracnose",
+  "banana|black leaf streak",
+  "banana|bunchy top",
+  "banana|cigar end rot",
+  "banana|cordana leaf spot",
+  "banana|panama disease",
+  "basil|downy mildew",
+  "bean|halo blight",
+  "bean|mosaic virus",
+  "bean|rust",
+  "bell pepper|bacterial spot",
+  "bell pepper|blossom end rot",
+  "bell pepper|frogeye leaf spot",
+  "bell pepper|leaf spot",
+  "bell pepper|powdery mildew",
+  "blueberry|anthracnose",
+  "blueberry|botrytis blight",
+  "blueberry|mummy berry",
+  "blueberry|rust",
+  "blueberry|scorch",
+  "broccoli|alternaria leaf spot",
+  "broccoli|downy mildew",
+  "broccoli|ring spot",
+  "cabbage|alternaria leaf spot",
+  "cabbage|black rot",
+  "carrot|alternaria leaf blight",
+  "carrot|bacterial soft rot",
+  "carrot|cavity spot",
+  "carrot|cercospora leaf blight",
+  "cauliflower|alternaria leaf spot",
+  "cauliflower|bacterial soft rot",
+  "celery|anthracnose",
+  "celery|early blight",
+  "cherry|leaf spot",
+  "cherry|powdery mildew",
+  "citrus|canker",
+  "citrus|greening disease",
+  "coffee|berry blotch",
+  "coffee|black rot",
+  "coffee|brown eye spot",
+  "coffee|leaf rust",
+  "corn|gray leaf spot",
+  "corn|northern leaf blight",
+  "corn|rust",
+  "corn|smut",
+  "cucumber|angular leaf spot",
+  "cucumber|bacterial wilt",
+  "cucumber|powdery mildew",
+  "eggplant|cercospora leaf spot",
+  "eggplant|phomopsis fruit rot",
+  "eggplant|phytophthora blight",
+  "garlic|leaf blight",
+  "garlic|rust",
+  "garlic|white rot",
+  "ginger|leaf spot",
+  "ginger|sheath blight",
+  "grape|black rot",
+  "grape|downy mildew",
+  "grape|leaf spot",
+  "grape|leafroll disease",
+  "lettuce|downy mildew",
+  "lettuce|mosaic virus",
+  "maple|tar spot",
+  "onion|basal rot",
+  "peach|anthracnose",
+  "peach|brown rot",
+  "peach|leaf curl",
+  "peach|rust",
+  "peach|scab",
+  "plum|bacterial spot",
+  "plum|brown rot",
+  "plum|pocket disease",
+  "plum|pox virus",
+  "plum|rust",
+  "potato|bacterial soft rot",
+  "potato|dry rot",
+  "potato|early blight",
+  "potato|late blight",
+  "raspberry|fire blight",
+  "raspberry|gray mold",
+  "raspberry|leaf spot",
+  "raspberry|yellow rust",
+  "rice|blast",
+  "rice|sheath blight",
+  "soybean|bacterial blight",
+  "soybean|brown spot",
+  "soybean|downy mildew",
+  "soybean|frogeye leaf spot",
+  "soybean|mosaic virus",
+  "soybean|rust",
+  "squash|powdery mildew",
+  "strawberry|anthracnose",
+  "strawberry|leaf scorch",
+  "tobacco|blue mold",
+  "tobacco|brown spot",
+  "tobacco|frogeye leaf spot",
+  "tobacco|mosaic virus",
+  "tomato|bacterial leaf spot",
+  "tomato|early blight",
+  "tomato|late blight",
+  "tomato|leaf mold",
+  "tomato|mosaic virus",
+  "tomato|septoria leaf spot",
+  "tomato|yellow leaf curl virus",
+  "wheat|bacterial leaf streak",
+  "wheat|head scab",
+  "wheat|leaf rust",
+  "wheat|loose smut",
+  "wheat|powdery mildew",
+  "wheat|septoria blotch",
+  "wheat|stem rust",
+  "wheat|stripe rust",
+  "zucchini|bacterial wilt",
+  "zucchini|downy mildew",
+  "zucchini|powdery mildew",
+  "zucchini|yellow mosaic virus"
+ ],
+ "dg_types": [
+  "arhar|aphids",
+  "arhar|pod borer",
+  "arhar|sterility mosaic",
+  "banana|banana aphid",
+  "banana|banana weevil",
+  "banana|calcium deficiency",
+  "banana|panama wilt",
+  "banana|sigatoka leaf spot",
+  "barley|smut",
+  "bean|aphids",
+  "bean|bacterial blight",
+  "bean|leaf miner",
+  "bean|mites",
+  "bean|mosaic virus",
+  "bean|nitrogen deficiency",
+  "bean|pod borer",
+  "bean|powdery mildew",
+  "bean|root rot",
+  "bhindi|jassids",
+  "bhindi|shoot and fruit borer",
+  "bitter gourd|downy mildew",
+  "bitter gourd|powdery mildew",
+  "bitter gourd|whiteflies",
+  "bottle gourd|aphids",
+  "bottle gourd|fruit fly",
+  "bottle gourd|mosaic virus",
+  "bottle gourd|powdery mildew",
+  "bottle gourd|red pumpkin beetle",
+  "brinjal|mites",
+  "brinjal|phomopsis blight",
+  "brinjal|potassium deficiency",
+  "brinjal|shoot and fruit borer",
+  "brinjal|wilt",
+  "cabbage|cabbage looper",
+  "cabbage|diamondback moth",
+  "cabbage|nitrogen deficiency",
+  "canola|aphids",
+  "cauliflower|black rot",
+  "cauliflower|boron deficiency",
+  "cauliflower|cutworms",
+  "cauliflower|downy mildew",
+  "chickpea|ascochyta blight",
+  "chickpea|botrytis gray mold",
+  "chickpea|dry root rot",
+  "chickpea|fusarium wilt",
+  "chickpea|nitrogen deficiency",
+  "chickpea|thrips",
+  "chikoo|cutworms",
+  "chili|thrips",
+  "chilli|anthracnose",
+  "chilli|leaf curl virus",
+  "chilli|mites",
+  "chilli|nitrogen deficiency",
+  "chilli|thrips",
+  "citrus|citrus canker",
+  "citrus|citrus psyllid",
+  "citrus|leaf miner",
+  "citrus|scale insects",
+  "coriander|powdery mildew",
+  "cotton|aphids",
+  "cotton|bollworm",
+  "cotton|jassids",
+  "cowpea|aphids",
+  "cowpea|leaf hopper",
+  "cowpea|mosaic virus",
+  "cucumber|downy mildew",
+  "cucumber|squash bug",
+  "custard apple|powdery mildew",
+  "garlic|thrips",
+  "gram|powdery mildew",
+  "gram|scale insects",
+  "gram|whiteflies",
+  "groundnut|aphids",
+  "groundnut|collar rot",
+  "groundnut|leaf miner",
+  "groundnut|leaf spot",
+  "guava|bark eating caterpillar",
+  "guava|fruit fly",
+  "guava|mealybugs",
+  "guava|phosphorus deficiency",
+  "guava|rust",
+  "kidney bean|aphids",
+  "kidney bean|cutworms",
+  "lemon|leaf miner",
+  "maize|banded leaf and sheath blight",
+  "maize|downy mildew",
+  "maize|fall armyworm",
+  "maize|nitrogen deficiency",
+  "maize|stem borer",
+  "maize|turcicum leaf blight",
+  "mango|anthracnose",
+  "mango|bacterial canker",
+  "mango|boron deficiency",
+  "mango|mango hopper",
+  "mango|mealybugs",
+  "mango|potassium deficiency",
+  "mango|powdery mildew",
+  "medicinal plants|potassium deficiency",
+  "moong|cercospora leaf spot",
+  "moringa|aphids",
+  "mustard|alternaria blight",
+  "mustard|aphids",
+  "mustard|downy mildew",
+  "mustard|white rust",
+  "okra|powdery mildew",
+  "okra|thrips",
+  "onion|downy mildew",
+  "onion|purple blotch",
+  "onion|thrips",
+  "paddy|blast",
+  "paddy|potassium deficiency",
+  "paddy|stem borer",
+  "papaya|anthracnose",
+  "papaya|nitrogen deficiency",
+  "papaya|papaya mealybug",
+  "papaya|papaya ring spot virus",
+  "papaya|powdery mildew",
+  "pea|powdery mildew",
+  "pea|rust",
+  "pigeon pea|phytophthora blight",
+  "pomegranate|scale insects",
+  "potato|aphids",
+  "potato|bacterial wilt",
+  "potato|calcium deficiency",
+  "potato|common scab",
+  "potato|cutworms",
+  "potato|early blight",
+  "potato|late blight",
+  "potato|magnesium deficiency",
+  "potato|phosphorus deficiency",
+  "pumpkin|aphids",
+  "pumpkin|cucumber beetle",
+  "pumpkin|mosaic virus",
+  "pumpkin|nitrogen deficiency",
+  "pumpkin|powdery mildew",
+  "red gram|powdery mildew",
+  "rice|blast",
+  "rice|brown spot",
+  "rice|nitrogen deficiency",
+  "rice|rice bug",
+  "rice|stem borer",
+  "ridge gourd|aphids",
+  "ridge gourd|downy mildew",
+  "ridge gourd|mosaic virus",
+  "ridge gourd|powdery mildew",
+  "ridge gourd|red pumpkin beetle",
+  "rose|powdery mildew",
+  "rose|thrips",
+  "spinach|aphids",
+  "sponge gourd|powdery mildew",
+  "squash|powdery mildew",
+  "strawberry|thrips",
+  "tobacco|potassium deficiency",
+  "tobacco|tobacco caterpillar",
+  "tobacco|tobacco mosaic virus",
+  "tobacco|whiteflies",
+  "tomato|bacterial wilt",
+  "tomato|early blight",
+  "tomato|fruit borer",
+  "tomato|late blight",
+  "tomato|leaf curl virus",
+  "tomato|leaf miner",
+  "tomato|nitrogen deficiency",
+  "tomato|potassium deficiency",
+  "tomato|whiteflies",
+  "turmeric|scale insects",
+  "watermelon|mosaic virus",
+  "wheat|armyworm",
+  "wheat|loose smut",
+  "wheat|nitrogen deficiency",
+  "wheat|phosphorus deficiency",
+  "wheat|stripe rust"
+ ]
+}

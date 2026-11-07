@@ -1,0 +1,1507 @@
+unit,zs,tuned,final
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,0.0,0.0,0.0
+corn|gray leaf spot,1.0,1.0,1.0
+corn|gray leaf spot,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,0.0,0.0,0.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+cucumber|powdery mildew,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,0.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,0.0,0.0
+grape|black rot,0.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+grape|black rot,0.0,1.0,1.0
+grape|black rot,0.0,0.0,0.0
+grape|black rot,1.0,1.0,1.0
+lettuce|downy mildew,1.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,1.0,1.0
+lettuce|downy mildew,0.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,0.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,0.0,0.0,0.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+lettuce|downy mildew,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+strawberry|leaf scorch,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,0.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,0.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,0.0,0.0,0.0
+tomato|yellow leaf curl virus,0.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,0.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,0.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,0.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,1.0,1.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+tomato|yellow leaf curl virus,1.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,1.0,1.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,1.0,1.0,1.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+bell pepper|frogeye leaf spot,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,1.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+carrot|cercospora leaf blight,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,1.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,1.0,1.0
+soybean|frogeye leaf spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,1.0,1.0,1.0
+tobacco|brown spot,0.0,1.0,1.0
+tobacco|brown spot,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0
+wheat|head scab,0.0,0.0,0.0
+wheat|head scab,1.0,1.0,1.0

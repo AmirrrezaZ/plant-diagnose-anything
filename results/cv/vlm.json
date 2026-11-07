@@ -1,0 +1,18 @@
+{
+ "tags_cv": {
+  "top1_unit_macro": 0.27509578544061297,
+  "n_units": 116
+ },
+ "tags_dg": {
+  "top1_unit_macro": 0.3118131868131868,
+  "n_units": 13
+ },
+ "mc_name_cv": {
+  "top1_unit_macro": 0.5639367816091954,
+  "n_units": 116
+ },
+ "mc_name_dg": {
+  "top1_unit_macro": 0.49867909867909865,
+  "n_units": 13
+ }
+}

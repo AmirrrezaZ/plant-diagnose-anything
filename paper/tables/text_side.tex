@@ -1,0 +1,9 @@
+\begin{tabular}{lcccc}\toprule Text-side model & Image-derived description & Blind description & Blind tag list & Name prompt\\\midrule
+Text LoRA, no hard negatives (3 seeds) & +0.031 [-0.006, +0.063] & +0.031 [+0.002, +0.057] & +0.075 [+0.043, +0.117] & +0.008 [-0.011, +0.026]\\
+Text LoRA + hard negatives & +0.013 [-0.026, +0.048] & +0.005 [-0.050, +0.047] & +0.041 [+0.006, +0.081] & -0.004 [-0.026, +0.018]\\
+Text LoRA, blind profiles only + hard neg. & -0.055 [-0.111, -0.006] & -0.008 [-0.051, +0.021] & +0.025 [-0.002, +0.054] & -0.011 [-0.050, +0.027]\\
+Last 4 text layers + hard negatives & -0.018 [-0.054, +0.013] & -0.012 [-0.072, +0.030] & +0.004 [-0.036, +0.047] & -0.020 [-0.049, +0.009]\\
+Last 4 text layers, no hard negatives & +0.003 [-0.037, +0.048] & +0.031 [-0.005, +0.068] & +0.052 [-0.002, +0.113] & -0.000 [-0.026, +0.024]\\
+mpnet + projection & -0.021 [-0.057, +0.007] & -0.023 [-0.065, +0.021] & -0.025 [-0.074, +0.021] & -0.015 [-0.051, +0.016]\\
+mpnet last 2 layers + projection & -0.027 [-0.066, +0.011] & -0.000 [-0.043, +0.042] & -0.013 [-0.056, +0.036] & -0.017 [-0.052, +0.014]\\
+\bottomrule\end{tabular}

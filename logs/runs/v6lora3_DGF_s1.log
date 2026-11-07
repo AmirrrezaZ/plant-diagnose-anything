@@ -1,0 +1,11 @@
+train imgs 10990 excluded matched units 14
+{'step': 100, 'loss': 1.8580527758598329} 43s
+{'step': 200, 'loss': 1.6224493300914764} 85s
+{'step': 300, 'loss': 1.4419908511638642} 127s
+{'step': 400, 'loss': 1.4028911364078522} 170s
+{'step': 500, 'loss': 1.3484128326177598} 213s
+{'step': 600, 'loss': 1.291762427687645} 256s
+{'step': 700, 'loss': 1.2737960863113402} 299s
+{'step': 800, 'loss': 1.249944959282875} 342s
+DG-full images 423 types 39 crops 12
+DGFULL {"long_zs_dg_only": [0.412, 0.371], "long_zs_dg+pw": [0.352, 0.331], "long_tuned_dg_only": [0.45, 0.44], "long_tuned_dg+pw": [0.341, 0.364], "tags_zs_dg_only": [0.397, 0.374], "tags_zs_dg+pw": [0.314, 0.317], "tags_tuned_dg_only": [0.4, 0.414], "tags_tuned_dg+pw": [0.327, 0.359], "name_zs_dg_only": [0.47, 0.47], "name_zs_dg+pw": [0.424, 0.437], "name_tuned_dg_only": [0.537, 0.461], "name_tuned_dg+pw": [0.43, 0.395]}
