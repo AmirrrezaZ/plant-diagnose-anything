@@ -6,7 +6,9 @@
 
 **Amirreza Zibafar** · Independent researcher
 
-[[`Paper`](paper/main.pdf)] [[`Code`](https://github.com/AmirrrezaZ/plant-diagnose-anything)] [[`Annotations`](data/annotation)] [[`BibTeX`](#citation)]
+[[`Paper`](paper/main.pdf)] [[`Zenodo DOI`](https://doi.org/10.5281/zenodo.24032335)] [[`Project page`](https://amirrrezaz.github.io/plant-diagnose-anything/)] [[`Code`](https://github.com/AmirrrezaZ/plant-diagnose-anything)] [[`Annotations`](data/annotation)] [[`BibTeX`](#citation)]
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24032335.svg)](https://doi.org/10.5281/zenodo.24032335)
 
 </div>
 
